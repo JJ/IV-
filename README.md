@@ -1,6 +1,5 @@
 # Repositorio de clase de Infraestructura Virtual de la [ETSIIT-UGR](https://etsiit.ugr.es) [![Test in a Raku container](https://github.com/JJ/plantilla-IV/actions/workflows/test-raku.yaml/badge.svg)](https://github.com/JJ/plantilla-IV/actions/workflows/test-raku.yaml)
 
-
 Repositorio para el material específico de cada clase, planificación y ejercicios.
 
 * Debes consultar [los apuntes de la materia](http://jj.github.io/IV) antes de
