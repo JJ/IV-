@@ -16,7 +16,6 @@ Repositorio para el material específico de cada clase, planificación y ejercic
 Repositorio para la asignatura de Infraestructura Virtual
 
 ## Objetivo 0
-
 ## *Aplicación de administración de horarios*
 
 **El cliente tiene un problema de incompatibilidad con los horarios de la carrera**
