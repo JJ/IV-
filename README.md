@@ -19,7 +19,7 @@ Repositorio para la asignatura de Infraestructura Virtual
 
 *El cliente tiene un problema de incompatibilidad con los horarios de la carrera*
 
-El cliente es un estudiante universitario en periodo de alteración de matrícula se plantea una aplicación web para administrar un horario compatible con las asignaturas elegidas y acorde a los criterios de matriculación del alumno, dado que cabe la posibilidad de matricularse de alguna asignatura y que coincida en horario con otra.
+El cliente es un estudiante universitario en periodo de alteración de matrícula se plantea una aplicación web para administrar un horario compatible con las asignaturas elegidas y acorde a los criterios de matriculación del alumno, dado que cabe la posibilidad de matricularse de alguna asignatura y que coincida en horario con otra. 
 
 El programa debe tener en cuenta las asignaturas que quiera el alumno o en su defecto, no tener en cuenta las que ya haya cursado o no le interesen a este, la forma de introducir estos datos es de forma indiviual según el perfil académico de cada usuario.
 
