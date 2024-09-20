@@ -12,7 +12,6 @@ Repositorio para el material específico de cada clase, planificación y ejercic
   instrucciones](proyectos/README.md) para hacerlo correctamente, y resolver los
   conflictos que puedan surgir.
 
-
 # IV-ugr
 Repositorio para la asignatura de Infraestructura Virtual
 
