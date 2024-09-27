@@ -39,7 +39,7 @@ iniciales.
 | <!-- Enlace de N G P -->                                                                                        |         |           |
 | <!-- Enlace de Carlosmapego8 -->                                                                                |         |           |
 | <!-- Enlace de Mario25402 --> [Enlace de Mario25402](https://github.com/Mario25402/Calendar/pull/2)             | v0.0.2  |           |
-| <!-- Enlace de Pablorc7 --> [Enlace de Pablorc7](https://github.com/Pablorc7/Smart-Eats/pull/1)                 | v0.0.1  |           |
+| <!-- Enlace de Pablorc7 --> [Enlace de Pablorc7](https://github.com/Pablorc7/Smart-Eats/pull/1)                 | v0.0.2  |           |
 | <!-- Enlace de mrh117 -->                                                                                       |         |           |
 | <!-- Enlace de LuRDR -->                                                                                        |         |           |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/1)                                    | v0.0.2  | ✓         |
