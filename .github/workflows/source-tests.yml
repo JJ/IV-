@@ -257,4 +257,6 @@ jobs:
           packages: liblwp-protocol-https-perl
           version: 1.0
       - name: Revisores aleatorios
+        env:
+          COMMENT_TOKEN: ${{secrets.COMMENT_TOKEN}}
         run: scripts/random-reviewer

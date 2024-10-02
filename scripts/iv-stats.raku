@@ -1,4 +1,4 @@
-#!/usr/bin/env perl6
+#!/usr/bin/env raku
 
 use IV::Stats;
 
@@ -16,5 +16,4 @@ for $stats.objetivos -> $o {
             ("🚧" xx ($entregados - $aceptados),
             "✅" xx $aceptados,
             "❌" xx $todos - $entregados).Slip.join("\n     ");
-
 }
