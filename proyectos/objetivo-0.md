@@ -38,7 +38,7 @@ iniciales.
 | [Enlace de Mario25402](https://github.com/Mario25402/Calendar/pull/2)                          | v0.0.2  |           |
 | [Enlace de Pablorc7](https://github.com/Pablorc7/Smart-Eats/pull/1)                            | v0.0.1  |           |
 | <!-- Enlace de mrh117 -->                                                                      |         |           |
-| [Enlace de LuRDR](https://github.com/LuRDR/GestionHorarios/pull/1)                             | v0.0.1  |           |
+| [Enlace de LuRDR](https://github.com/LuRDR/GestionHorarios/pull/1)                             | v0.0.2  |           |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/1)                   | v0.0.2  | ✓         |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/1)                   | v0.0.1  | ✓         |
 | [Enlace de eigenric](https://github.com/eigenric/lyricfeel/pull/1)                             | v0.0.2  |           |
