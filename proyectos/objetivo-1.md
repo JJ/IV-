@@ -45,7 +45,7 @@ iniciales.
 | <!-- Enlace de eigenric -->                                                          |         |           |
 | <!-- Enlace de enger2003 -->                                                         |         |           |
 | <!-- Enlace de wickeet -->                                                           |         |           |
-| <!-- Enlace de ChinChainis -->                                                       |         |           |
+| [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/5)         | v0.1.2  |           |
 | <!-- Enlace de anavaln -->                                                           |         |           |
 | <!-- Enlace de pablotl0 -->                                                          |         |           |
 
