@@ -24,7 +24,7 @@ iniciales.
 | [Enlace de SantiGarvin](https://github.com/SantiGarvin/RentView/pull/2)                        | v0.0.1  |           |
 | [Enlace de evaanngiil](https://github.com/evaanngiil/PresentCreator/pull/2)                    | v0.0.3  |           |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/1)                    | v0.0.1  | ✓         |
-| [Enlace de GaelGoncalvesAlba](https://github.com/GaelGoncalvesAlba/ShoppingBudget/pull/1)      | v0.0.2  |           |
+| [Enlace de GaelGoncalvesAlba](https://github.com/GaelGoncalvesAlba/ShoppingBudget/pull/1)      | v0.0.1  |           |
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/1)                         | v0.0.1  |           |
 | [Enlace de davidgutierrezperez](https://github.com/davidgutierrezperez/Axel/pull/1)            | v0.0.1  |           |
 | [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Urban-Traffic/pull/1)       | v0.0.1  |    ✓              |
