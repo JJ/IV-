@@ -18,6 +18,7 @@
 | <!-- Enlace de abbonno --> | | |
 | <!-- Enlace de davidgutierrezperez --> | | |
 | <!-- Enlace de MatteoImbrosciano --> | | |
+| <!-- Enlace de Katakuri00 --> | | |
 | <!-- Enlace de MCL-2024 --> | | |
 | <!-- Enlace de JLombar --> | | |
 | <!-- Enlace de joselopez10014 --> | | |

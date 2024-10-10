@@ -1,7 +1,7 @@
 #!/usr/bin/env raku
 
 my @lines-usuarios = "proyectos/usuarios.md".IO.lines.grep(/"<!--"/);
-my $objetivo-file = "proyectos/objetivo-0.md".IO.slurp;
+my $objetivo-file = "proyectos/objetivo-1.md".IO.slurp;
 my @lines-objetivos = $objetivo-file.split("\n").grep(/^\|\s*/);
 shift @lines-objetivos;
 shift @lines-objetivos;
