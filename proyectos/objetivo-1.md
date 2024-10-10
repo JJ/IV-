@@ -25,7 +25,7 @@ iniciales.
 | <!-- Enlace de evaanngiil -->                                                        |         |           |
 | <!-- Enlace de blancagiron -->                                                       |         |           |
 | <!-- Enlace de GaelGoncalvesAlba -->                                                 |         |           |
-| <!-- Enlace de abbonno -->                                                           |         |           |
+| [<!-- Enlace de abbonno -->](https://github.com/abbonno/healthScheduler/pull/2)      | v0.1.1  |           |
 | <!-- Enlace de davidgutierrezperez -->                                               |         |           |
 | <!-- Enlace de MatteoImbrosciano -->                                                 |         |           |
 | <!-- Enlace de MCL-2024 -->                                                          |         |           |
