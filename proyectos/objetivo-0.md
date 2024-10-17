@@ -42,7 +42,7 @@ iniciales.
 | [Enlace de LuRDR](https://github.com/LuRDR/GestionHorarios/pull/1)                             | v0.0.1  | ✓         |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/1)                   | v0.0.2  | ✓         |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/1)                   | v0.0.1  | ✓         |
-| <!-- Enlace de alvarorcs2002 -->                                                               |         |           |
+| [Enlace de alvarorcs2002](https://github.com/alvarorcs2002/Chorely/pull/1)                     | v0.0.1  |           |
 | [Enlace de eigenric](https://github.com/eigenric/lyricfeel/pull/1)                             | v0.0.2  | ✓         |
 | [Enlace de enger2003](https://github.com/enger2003/Practica_IV/pull/3)                         | v0.0.7  |           |
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                  | v0.0.2  | ✓         |
