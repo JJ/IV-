@@ -42,7 +42,7 @@ iniciales.
 | <!-- Enlace de mrh117 -->              |         |           |
 | <!-- Enlace de LuRDR -->               |         |           |
 | <!-- Enlace de MarioRgzLpz -->         |         |           |
-| <!-- Enlace de antoniorr02 -->         |         |           |
+| [Enlace de antoniorr02](https://github.com/giorgiogiovanni/PacketManager/pull/12) | v0.2.1 |           |
 | <!-- Enlace de alvarorcs2002 -->       |         |           |
 | <!-- Enlace de eigenric -->            |         |           |
 | <!-- Enlace de enger2003 -->           |         |           |
