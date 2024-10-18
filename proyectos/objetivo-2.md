@@ -15,7 +15,7 @@ iniciales.
 | <!-- Enlace de sweetiepitie -->        |         |           |
 | <!-- Enlace de jacarmona364 -->        |         |           |
 | <!-- Enlace de lmchaves -->            |         |           |
-| <!-- Enlace de FabriConde -->          |         |           |
+| [Enlace de FabriConde](https://github.com/juanbarearojo/privateChef/pull/15) | v0.2.3      |           |
 | <!-- Enlace de FerniCuesta -->         |         |           |
 | <!-- Enlace de adiazcencillo -->       |         |           |
 | [Enlace de hossam1522](https://github.com/wickeet/Tripoli/pull/7) |   v0.2.2      |           |
