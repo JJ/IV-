@@ -11,7 +11,7 @@ iniciales.
 |----------------------------------------|---------|-----------|
 | [Enlace de juanmaaf](https://github.com/JLombar/HorariosAutomatricula/pull/11) |  v0.2.1   |           |
 | <!-- Enlace de giorgiogiovanni -->     |         |           |
-| [Enlace de juanbarearojo](https://github.com/hossam1522/ModaTrack/pull/9) | v0.2.2      |           |
+| [Enlace de juanbarearojo](https://github.com/hossam1522/ModaTrack/pull/9) |   v0.2.3   |           |
 | <!-- Enlace de sweetiepitie -->        |         |           |
 | <!-- Enlace de jacarmona364 -->        |         |           |
 | <!-- Enlace de lmchaves -->            |         |           |
