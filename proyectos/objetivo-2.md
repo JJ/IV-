@@ -9,7 +9,7 @@ iniciales.
 
 | URL                                    | Versión | Alcanzado |
 |----------------------------------------|---------|-----------|
-| <!-- Enlace de juanmaaf -->            |         |           |
+| [Enlace de juanmaaf](https://github.com/JLombar/HorariosAutomatricula/pull/11) |  v0.2.1   |           |
 | <!-- Enlace de giorgiogiovanni -->     |         |           |
 | [Enlace de juanbarearojo](https://github.com/hossam1522/ModaTrack/pull/9) | v0.2.2      |           |
 | <!-- Enlace de sweetiepitie -->        |         |           |
