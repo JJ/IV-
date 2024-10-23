@@ -147,6 +147,9 @@ en clase dedicado a la asignatura.
   niveles de abstracción a la hora de trabajar con el problema. Decir que uno
   tenga "2 cosas" y otro "3 cosas" divide de forma artificial el problema,
   porque igual de trabajo cuesta programar para 3 cosas que para 5.
+  - Otro ejemplo es decir "hacer un modelo que incluya la clase a, b y la
+    c". "Hacer un modelo" es precisamente saber cuales son esas clases y qué es
+    lo que incluyen o cómo se comportan. 
 
 * A veces esos detalles vienen en forma de "palabras mágicas", por ejemplo,
   mencionar DDD, explicar que se trata de "expresar relaciones entre la
