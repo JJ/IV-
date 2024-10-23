@@ -28,7 +28,7 @@ iniciales.
 | <!-- Enlace de abbonno -->             |         |           |
 | <!-- Enlace de oscargr-ugr -->         |         |           |
 | <!-- Enlace de davidgutierrezperez --> |         |           |
-| <!-- Enlace de MatteoImbrosciano -->   |         |           |
+| [Enlace de Matteo Imbrosciano](https://github.com/juanmaaf/MoneyController/pull/11) |  v0.2.1    |           |
 | <!-- Enlace de Katakuri00 -->          |         |           |
 | <!-- Enlace de MCL-2024 -->            |         |           |
 | [Enlace de JLombar](https://github.com/adiazcencillo/GranadaInfo/pull/11) |  v0.2.2   |           |
