@@ -25,7 +25,7 @@
 | <!-- Enlace de MatteoImbrosciano -->                                    |         |           |
 | <!-- Enlace de Katakuri00 -->                                           |         |           |
 | <!-- Enlace de MCL-2024 -->                                             |         |           |
-| <!-- Enlace de JLombar -->                                              |         |           |
+| [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/24)|  v0.5.0   |           |
 | <!-- Enlace de joselopez10014 -->                                       |         |           |
 | <!-- Enlace de mmnuria -->                                              |         |           |
 | <!-- Enlace de M S C -->                                                |         |           |
