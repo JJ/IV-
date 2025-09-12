@@ -136,8 +136,9 @@ Comenzaremos con el hackatón. La **asistencia al hackatón** es obligatoria
 durante las primeras 8 semanas de clase.
 
   * Se trabajará en equipo en un proyecto a elegir entre
-  [este](https://github.com/danibarranqueroo/TransporteEquitativo) y
-  [este](https://github.com/smallPingu/antiTarjetas).
+  [este](https://github.com/danibarranqueroo/TransporteEquitativo),
+  [este](https://github.com/chelunike/didactic-chainsaw) y
+  [este](https://github.com/eigenric/bibliofetch).
 
 
 #### En caso de que haya tiempo
