@@ -1,17 +1,18 @@
-# Semana del 16 de septiembre; comienzo del curso
+# Semana del 15 de septiembre; comienzo del curso
 
 > Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
 
 Agradeceré que contestes la [encuesta
-inicial]()
+inicial](https://docs.google.com/forms/d/1GqdyZdMrHoatNoMfR0QS10ihVHDa35lKE7wX8ymzujk/preview)
 si no lo has hecho ya.
 
-Se recuerda al estudiante que es su obligatorio asistir a clase o, si está
+Se recuerda al estudiante que es su obligación asistir a clase o, si está
 justificado, enterarse de los contenidos impartidos en la misma a través de esta
 web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
 todo caso, asistir al menos a las primeras clases, incluso pidiendo tiempo en el
 trabajo, al menos hasta que complete el [segundo
 objetivo](http://jj.github.io/IV/documentos/proyecto/2.Modelo).
+
 
 ## Antes de la clase
 
@@ -34,17 +35,16 @@ Lista de comprobación:
    invitación en el correo de la UGR) y conocer el resto de los recursos de la
    misma.
 2. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
-3. [Entender como enfocar el aprendizaje en ingeniería](https://www.youtube.com/watch?v=HLXrAdK1iZ4)
-4. Entender y entregar el
+3. Entender y entregar el
    [objetivo
    0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) en la primera
    clase o la siguiente.
-5. Entender qué es lo que se evalúa y por qué. Se trata de aprender metodologías
+4. Entender qué es lo que se evalúa y por qué. Se trata de aprender metodologías
    y aplicarlas para obtener un resultado, ** *no* de poner un resultado y luego
    decir que se han aplicado metodologías**.
-6. Entender el proceso de *design thinking* y comenzarlo para entender
+5. Entender el proceso de *design thinking* y comenzarlo para entender
    el problema que se va a abordar en la asignatura.
-7. Empezar a usar git y GitHub (o usarlo más intensamente). Por
+6. Empezar a usar git y GitHub (o usarlo más intensamente). Por
    ejemplo, [seguir este
    vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o cualquier
    otro tutorial online, tal como
@@ -52,7 +52,7 @@ Lista de comprobación:
 
 ## Contenidos
 
-### Clases divididas ( de septiembre)
+### Clases conjunta (18 de septiembre)
 
 * Presentación del profesor de la asignatura.
 * Enlaces a los recursos:
@@ -125,12 +125,12 @@ objetivo 0, siguiendo las
 [instrucciones](http://jj.github.io/IV/documentos/proyecto/0.Repositorio)
 (que también están detalladas más abajo).
 
-#### Al final de esta clase: Objetivos mínimos
+#### Al final de esta sesión: Objetivos mínimos
 
 Se habrá dado de alta GitHub (si no se está), inicializado el repositorio con el
 proyecto, entendido qué se espera del estudiante en la asignatura.
 
-### Sesión conjunta (día  de septiembre)
+### Clases divididas (día 19 de septiembre)
 
 Comenzaremos con el hackatón. La **asistencia al hackatón** es obligatoria
 durante las primeras 8 semanas de clase.
