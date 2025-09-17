@@ -1,8 +1,8 @@
-# Semana del 23 de septiembre
+# Semana del 22 de septiembre
 
 > Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
 
-Agradeceré que contestes la [encuesta inicial](https://forms.gle/DTouWMoWJVbv24L36)
+Agradeceré que contestes la [encuesta inicial](https://forms.gle/quaAEux6hC7fCNNFA)
 
 Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
 posible, enterarse de los contenidos impartidos en la misma a través de esta

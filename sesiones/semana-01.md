@@ -3,8 +3,7 @@
 > Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
 
 Agradeceré que contestes la [encuesta
-inicial](https://docs.google.com/forms/d/1GqdyZdMrHoatNoMfR0QS10ihVHDa35lKE7wX8ymzujk/preview)
-si no lo has hecho ya.
+inicial](https://forms.gle/quaAEux6hC7fCNNFA) si no lo has hecho ya.
 
 Se recuerda al estudiante que es su obligación asistir a clase o, si está
 justificado, enterarse de los contenidos impartidos en la misma a través de esta
