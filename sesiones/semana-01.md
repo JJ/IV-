@@ -21,10 +21,10 @@ aceptar la invitación al grupo de Telegram (tutorías grupales) de la asignatur
 
 Lista de comprobación:
 
-  * ¿Estáis en el grupo de Telegram?
-  * ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
+  * [ ] ¿Estáis en el grupo de Telegram?
+  * [ ] ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
     compartida?
-  * ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
+  * [ ] ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
     equipo que vayáis a usar en clase?
 
 ## Objetivos a cubrir en la semana
@@ -41,9 +41,9 @@ Lista de comprobación:
    plazos](https://jj.github.io/IV/#pr%C3%A1cticas---actividades-acad%C3%A9micas-dirigidas-en-grupos-divididos)
    ded este objetivo y cada uno de los siguientes.
 4. Entender qué es lo que se evalúa y por qué. Se trata de aprender metodologías
-   y aplicarlas para obtener un resultado, ** *no* de escribir cosas y luego
-   decir que se han aplicado metodologías**. Especialmente ** *no* de escribir
-   cosas que hemos copiado o usado una IA para generar**.
+   y aplicarlas para obtener un resultado, ** *no* de escribir cosas diciendo
+   que se han aplicado metodologías**. Especialmente ** *no* de escribir cosas
+   que hemos copiado o usado una IA para generar**.
 5. Entender el proceso de *design thinking* y comenzarlo para entender
    el problema que se va a abordar en la asignatura.
 6. Empezar a usar git y GitHub (o usarlo más intensamente). Por
@@ -88,7 +88,9 @@ Lista de comprobación:
     cambios se han hecho para alcanzar este objetivo *y siguiendo la lista de
     comprobación*.
     * Se incluye en el fichero `objetivos-x.md` *de este repositorio*
-    un *enlace al pull request* desde el que se esté haciendo el PR.
+    un *enlace al pull request* desde el que se esté haciendo el PR. La línea
+    que tienes que modificar estará marcada con tu nick de GitHub (o tus
+    iniciales si no lo has dado de alta).
     * En la columna correspondiente se tendrá que incluir una versión del envío
       siguiendo las reglas comunes en versiones, y las indicadas en el guión del
       objetivo. Si han fallado los tests y hay que enviar de nuevo, habrá que
@@ -101,12 +103,10 @@ Lista de comprobación:
 
 #### Entrando en materia
 
-* Introducción al [desarrollo ágil](https://jj.github.io/IV/preso/agil.html) y el software libre. Los proyectos que se
-  presenten *son software libre* y por tanto no pueden ser privados *todo el
-  tiempo*. Se le pedirá al estudiante que cuando no estén bajo evaluación se
-  mantengan privados, sin embargo.
-* Cómo trabajar remotamente o llevar al día la asignatura. Respondiendo a la
-  pregunta: ¿asistir a clase es obligatorio?
+* Introducción al [desarrollo ágil](https://jj.github.io/IV/preso/agil.html) y
+  el software libre. Los proyectos que se presenten *son software libre* y por
+  tanto no pueden ser privados *todo el tiempo*. Se le pedirá al estudiante que
+  cuando no estén bajo evaluación se mantengan privados, sin embargo.
 * Entender git a través de esta [introducción a
 git](http://jj.github.io/IV/preso/git.html#/), y las buenas prácticas de uso de
 GitHub.
@@ -120,10 +120,15 @@ sobre la marcha (dentro de lo posible).
 > Os ruego que una vez terminada la actividad, [rellenéis este formulario para
 > evaluarla](https://docs.google.com/forms/d/e/1FAIpQLScAOYA-114fbgh7pDsKH0g_iqm4yOzlOOH1GvzSL8t-IIomlw/viewform)
 
-Una vez esté el problema (que se va a resolver en la asignatura) validado, se puede proceder a entregar el
-objetivo 0, siguiendo las
-[instrucciones](http://jj.github.io/IV/documentos/proyecto/0.Repositorio)
-(que también están detalladas más abajo).
+Una vez esté el problema (que se va a resolver en la asignatura) validado, se
+puede proceder a entregar el objetivo 0, siguiendo las
+[instrucciones](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) (que
+también están detalladas más abajo).
+
+Si no habéis podido asistir a clase por cualquier razón, *tenéis que hacer el
+juego de rol de todas formas*, porque es la única manera de entender el enfoque
+ágil del desarrollo. Puedes pedir a alguien en la siguiente clase o a cualquier
+otra persona que te valide con la ficha de validación.
 
 #### Al final de esta sesión: Objetivos mínimos
 
