@@ -14,7 +14,7 @@ trabajo, al menos hasta que complete el [segundo
 objetivo](http://jj.github.io/IV/documentos/proyecto/2.Modelo).
 
 
-## Antes de la clase
+## *Antes* de la clase
 
 Se habrá recibido un correo electrónico con instrucciones y se habrá tenido que
 aceptar la invitación al grupo de Telegram (tutorías grupales) de la asignatura.
@@ -30,18 +30,20 @@ Lista de comprobación:
 ## Objetivos a cubrir en la semana
 
 1. Entender la metodología docente, de evaluación y de interacción de la asignatura.
-2. Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub
-   y el grupo de Telegram de la asignatura (se debe haber recibido una
-   invitación en el correo de la UGR) y conocer el resto de los recursos de la
-   misma.
+2. Comprender el funcionamiento básico de GitHub y el grupo de Telegram de la
+   asignatura (se debe haber recibido una invitación en el correo de la UGR) y
+   conocer el resto de los recursos de la misma.
 2. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 3. Entender y entregar el
    [objetivo
    0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) en la primera
-   clase o la siguiente.
+   semana. [Ver los
+   plazos](https://jj.github.io/IV/#pr%C3%A1cticas---actividades-acad%C3%A9micas-dirigidas-en-grupos-divididos)
+   ded este objetivo y cada uno de los siguientes.
 4. Entender qué es lo que se evalúa y por qué. Se trata de aprender metodologías
-   y aplicarlas para obtener un resultado, ** *no* de poner un resultado y luego
-   decir que se han aplicado metodologías**.
+   y aplicarlas para obtener un resultado, ** *no* de escribir cosas y luego
+   decir que se han aplicado metodologías**. Especialmente ** *no* de escribir
+   cosas que hemos copiado o usado una IA para generar**.
 5. Entender el proceso de *design thinking* y comenzarlo para entender
    el problema que se va a abordar en la asignatura.
 6. Empezar a usar git y GitHub (o usarlo más intensamente). Por
@@ -66,16 +68,16 @@ Lista de comprobación:
   consecuencias que trae.
   * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
   * Bases de la evaluación formativa, basada en objetivos:
-    * Los objetivos se pre-evalúan automáticamente usando sistemas
-  integrados en GitHub. Cuando los indicadores están en rojo, es que
+    * Los objetivos se pre-evalúan automáticamente usando aplicaciones
+  integradas en GitHub. Cuando los indicadores están en rojo, es que
   ha habido algún error. Hay que pinchar en el mismo y navegar hasta
-  encontrar el error concreto en la página del sistema que lanza los
+  encontrar el error concreto en la página de GitHub que lanza los
   tests.
-    * *Cómo se va a usar la evaluación formativa*: los tests automáticos indicarán
-  si se han alcanzado los objetivos mínimos, a través del pull request que se
-  haga se indicará qué es necesario para cubrir el resto de los objetivos. Los
-  objetivos alcanzados se calificarán al final de la asignatura según la
-  dificultad de los mismos.
+    * *Cómo se va a usar la evaluación formativa*: los tests automáticos
+  indicarán si se han alcanzado los objetivos mínimos, a través de comentarios
+  al pull request que se haga se indicará qué es necesario para cubrir el resto
+  de los objetivos. Los objetivos alcanzados se calificarán al final de la
+  asignatura según la dificultad de los mismos.
     * En el momento que se alcance el quinto objetivo, se puede
     solicitar al profesor calificación del 30% restante para
     abandonar, si se desea, la asignatura.
@@ -96,8 +98,6 @@ Lista de comprobación:
       objetivo en otro caso.
     * Hay que esperar que el profesor apruebe el PR *de nuestro repositorio*, es
     decir, el objetivo se considere alcanzado, para fusionarlo.
-
-* **Juego de rol**: formular y entender un problema para abordar en la asignatura.
 
 #### Entrando en materia
 
