@@ -7,7 +7,6 @@ my @student-list = lista-estudiantes();
 my $contenido = (PROYECTOS ~ "objetivo-0.md").IO.slurp;
 constant OBJETIVO = 0;
 
-say "Lista de estudiantes ", @student-list;
 my %objetivos-cumplidos;
 
 cmp-ok( @student-list.elems, ">", 1, "Hay más de un estudiante");
