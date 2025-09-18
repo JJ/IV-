@@ -21,7 +21,7 @@ iniciales.
 | <!-- Enlace de M S D L L -->          |         |           |
 | <!-- Enlace de M R J L -->            |         |           |
 | <!-- Enlace de jvrqc -->              |         |           |
-| <!-- Enlace de GabrielFranciscoSM --> |         |           |
+| [Pull Request](https://github.com/GabrielFranciscoSM/practicas-IV/pull/1) |  v0.0.0  |           |
 | <!-- Enlace de S H G -->              |         |           |
 | <!-- Enlace de FlorinTodor -->        |         |           |
 | <!-- Enlace de V H -->                |         |           |
