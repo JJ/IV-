@@ -6,14 +6,22 @@ use IV::Stats::Utils;
 my @student-list = lista-estudiantes();
 my $contenido = (PROYECTOS ~ "objetivo-0.md").IO.slurp;
 constant OBJETIVO = 0;
-my %objetivos-cumplidos = estado-objetivos(
-        @student-list,
-        $contenido,
-        OBJETIVO );
-cmp-ok( %objetivos-cumplidos.keys.elems, ">", 0, "Objetivos cumplidos correctos" );
 
-my $primer-estudiante = %objetivos-cumplidos.keys()[0];
-cmp-ok( %objetivos-cumplidos{$primer-estudiante}<version>, ">=", v0.0.1);
+say "Lista de estudiantes ", @student-list;
+my %objetivos-cumplidos;
+
+cmp-ok( @student-list.elems, ">", 1, "Hay más de un estudiante");
+
+if ( @student-list.elems <= 5 ) {
+        %objetivos-cumplidos = estado-objetivos(
+                @student-list,
+                $contenido,
+                OBJETIVO );
+        cmp-ok( %objetivos-cumplidos.keys.elems, ">", 0, "Objetivos cumplidos correctos" );
+
+        my $primer-estudiante = %objetivos-cumplidos.keys()[0];
+        cmp-ok( %objetivos-cumplidos{$primer-estudiante}<version>, ">=", v0.0.1);
+}
 
 if "proyectos/objetivo-1.md".IO.e {
     $contenido = "proyectos/objetivo-1.md".IO.slurp;

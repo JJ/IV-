@@ -5,11 +5,16 @@ use IO::Glob;
 constant PROYECTOS is export = "proyectos/";
 constant ASIGNACIONES is export = "{ PROYECTOS }asignaciones-objetivo-2.md";
 
-sub lista-estudiantes(Str $file = "{ PROYECTOS }usuarios.md") is export {
-    my @nick-lines = $file.IO.slurp.lines.grep(/"<!--"/)
+multi sub lista-estudiantes(Str $content ) is export {
+     my @nick-lines = $content.lines.grep(/"<!--"/)
             .map(*.split(/\s*"--"\s*/)[1]);
 
     return @nick-lines.map(*.split(/"Enlace de"\s+/)[1])
+}
+
+multi sub lista-estudiantes(Str $file where { $_.IO.e } = "{ PROYECTOS }usuarios.md") is export {
+    my $content = $file.IO.slurp;
+    return lista-estudiantes($content);
 }
 
 sub asignaciones-objetivo2()  is export returns Associative {
