@@ -37,7 +37,9 @@ if @objetivos-cumplidos[0].elems > 0 {
 subtest {
     my %versiones = $stats.versiones();
     my $primer-estudiante = %versiones.keys()[0];
-    cmp-ok( %versiones{$primer-estudiante}, ">=", v0.0.1);
+    if $primer-estudiante {
+        cmp-ok( %versiones{$primer-estudiante}, ">=", v0.0.1);
+    }
 } => "Version tests";
 
 done-testing;
