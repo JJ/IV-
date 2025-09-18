@@ -13,7 +13,7 @@
 | <!-- Enlace de Q C J --> | | |
 | <!-- Enlace de GabrielFranciscoSM --> | | |
 | <!-- Enlace de S H G --> | | |
-| <!-- Enlace de T G F E --> | | |
+| <!-- Enlace de FlorinTodor --> | | |
 | <!-- Enlace de V H --> | | |
 | <!-- Enlace de V G H --> | | |
 | <!-- Enlace de Y L --> | | |
