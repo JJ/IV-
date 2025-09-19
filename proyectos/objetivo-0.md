@@ -20,7 +20,7 @@ iniciales.
 | <!-- Enlace de jorgelopez-ugr -->     |         |           |
 | <!-- Enlace de M S D L L -->          |         |           |
 | <!-- Enlace de M R J L -->            |         |           |
-| <!-- Enlace de Q C J -->              |         |           |
+| <!-- Enlace de jvrqc -->              |         |           |
 | [Pull Request](https://github.com/GabrielFranciscoSM/practicas-IV/pull/1) |  v0.0.1  |           |
 | <!-- Enlace de S H G -->              |         |           |
 | <!-- Enlace de FlorinTodor -->        |         |           |
