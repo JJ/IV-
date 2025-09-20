@@ -14,7 +14,7 @@ iniciales.
 | <!-- Enlace de oscar0310 -->              |         |           |
 | <!-- Enlace de G G J Á -->            |         |           |
 | <!-- Enlace de gosema -->             |         |           |
-| [Pull Request](https://github.com/gabrielherreraloz/IV-GHL/pull/2) |  v0.0.1  |           |
+| [Pull Request](https://github.com/gabrielherreraloz/IV-GHL/pull/2) |  v0.0.2  |           |
 | <!-- Enlace de chemalc05 -->          |         |           |
 | <!-- Enlace de L C L -->              |         |           |
 | <!-- Enlace de jorgelopez-ugr -->     |         |           |
