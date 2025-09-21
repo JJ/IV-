@@ -13,7 +13,7 @@ iniciales.
 | <!-- Enlace de nachoescalona -->              |         |           |
 | <!-- Enlace de oscar0310 -->              |         |           |
 | <!-- Enlace de G G J Á -->            |         |           |
-| [PR] (https://github.com/gosema/IV/pull/1)            |  v0.0.0       |           |
+| [PR](https://github.com/gosema/IV/pull/1)            |  v0.0.1       |           |
 | [Pull Request](https://github.com/gabrielherreraloz/IV-GHL/pull/2) |  v0.0.3  |           |
 | <!-- Enlace de chemalc05 -->          |         |           |
 | <!-- Enlace de L C L -->              |         |           |
