@@ -30,7 +30,7 @@ jobs:
           THIS_VERSION: ${{ steps.pr_info.outputs.version }}
           OBJETIVO: ${{ steps.pr_info.outputs.objetivo }}
         run: scripts/check-version
-      - name: Comprueba que el PR no viene de la rama main
+      - name: Comprueba que el PR no viene de la rama main del estudiante
         uses: actions/github-script@v8
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
@@ -78,7 +78,7 @@ jobs:
             } else {
               console.log( all_good("La rama '" + rama + "' es apropiada para el PR"))
             }
-      - name: Comprueba que el usuario no ha abierto ningún otro PR
+      - name: Comprueba que el usuario no ha abierto ningún otro PR en este repo
         uses: actions/github-script@v8
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
@@ -114,7 +114,7 @@ jobs:
         with:
           repository: ${{env.checkout_repo}}
           ref: ${{env.rama}}
-      - name: Tests sobre fuentes
+      - name: Tests sobre fuentes del repo del estudiante
         id: source-tests
         with:
           fase: ${{env.objetivo}}
