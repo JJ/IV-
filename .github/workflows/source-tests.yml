@@ -88,7 +88,7 @@ jobs:
             const user = "${{ steps.pr_info.outputs.user }}"
             const repo = "${{ github.event.repository.name }}"
             console.warn( "» Buscando PRs abiertos por el usuario 🔥" + user )
-            const prs = await github.rest.pulls.list( { owner: user, repo: repo, state: 'open' } )
+            const prs = await github.rest.pulls.list( { owner: 'JJ', repo: repo, state: 'open' } )
             const prs_by_user = prs.data.filter( pr => pr.user.login === user )
             if ( prs_by_user.length > 1 ) {
               core.setFailed( sorry("El usuario " + user + " tiene más de un PR abierto") )
