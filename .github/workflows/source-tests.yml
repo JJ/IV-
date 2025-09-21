@@ -86,7 +86,7 @@ jobs:
           script: |
             const {all_good, sorry } = require("./lib/mensajes.js")
             const user = "${{ steps.pr_info.outputs.user }}"
-            const repo = "${{ github.event.repository.name }}"
+            const repo = "${{ github.event.repository.name }}" // válido para la plantilla también
             console.warn( "» Buscando PRs abiertos por el usuario 🔥" + user )
             const prs = await github.rest.pulls.list( { owner: 'JJ', repo: repo, state: 'open' } )
             const prs_by_user = prs.data.filter( pr => pr.user.login === user )
