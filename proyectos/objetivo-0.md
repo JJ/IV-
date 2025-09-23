@@ -8,23 +8,24 @@ iniciales.
 
 | URL                                                                       | Versión | Alcanzado |
 |---------------------------------------------------------------------------|---------|-----------|
-| <!-- Enlace de C M J A -->                                                |         |           |
+| <!-- Enlace de jacarmona364 -->                                                |         |           |
 | <!-- Enlace de AxelDudon -->                                              |         |           |
 | <!-- Enlace de nachoescalona -->                                          |         |           |
 | <!-- Enlace de oscar0310 -->                                              |         |           |
 | <!-- Enlace de G G J Á -->                                                |         |           |
 | [PR](https://github.com/gosema/IV/pull/1)                                 | v0.0.1  | ✓         |
 | [Pull Request](https://github.com/gabrielherreraloz/IV-GHL/pull/2)        | v0.0.3  | ✓         |
-| <!-- Enlace de chemalc05 -->                                              |         |           |
-| <!-- Enlace de L C L -->                                                  |         |           |
-| <!-- Enlace de jorgelopez-ugr -->                                         |         |           |
-| <!-- Enlace de M S D L L -->                                              |         |           |
-| <!-- Enlace de M R J L -->                                                |         |           |
-| <!-- Enlace de jvrqc -->                                                  |         |           |
+| <!-- Enlace de gosema -->                                              |         |           |
+| <!-- Enlace de gabrielherreraloz -->                                                  |         |           |
+| <!-- Enlace de chemalc05 -->                                         |         |           |
+| <!-- Enlace de L C L -->                                              |         |           |
+| <!-- Enlace de jorgelopez-ugr -->                                                |         |           |
+| <!-- Enlace de M S D L L -->                                                  |         |           |
 | [Pull Request](https://github.com/GabrielFranciscoSM/practicas-IV/pull/1) | v0.0.0  |           |
-| <!-- Enlace de S H G -->                                                  |         |           |
+| <!-- Enlace de M R J L -->                                                  |         |           |
 | [PR](https://github.com/FlorinTodor/DermaIndex/pull/1)                    | v0.0.1  |           |
-| <!-- Enlace de V H -->                                                    |         |           |
-| <!-- Enlace de V G H -->                                                  |         |           |
-| <!-- Enlace de Y L -->                                                    |         |           |
+| <!-- Enlace de jvrqc -->                                                    |         |           |
+| <!-- Enlace de GabrielFranciscoSM -->                                                  |         |           |
+| <!-- Enlace de S H G -->                                                    |         |           |
+
 
