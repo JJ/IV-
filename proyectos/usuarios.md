@@ -1,5 +1,4 @@
 | <!-- Enlace de jacarmona364 --> | | |
-| <!-- Enlace de AxelDudon --> | | |
 | <!-- Enlace de nachoescalona --> | | |
 | <!-- Enlace de oscar0310 --> | | |
 | <!-- Enlace de G G J Á --> | | |
