@@ -19,7 +19,7 @@ iniciales.
 | <!-- Enlace de gabrielherreraloz -->                                      |         |           |
 | <!-- Enlace de chemalc05 -->                                              |         |           |
 | <!-- Enlace de L C L -->                                                  |         |           |
-| <!-- Enlace de jorgelopez-ugr -->                                         |         |           |
+| [Pull Request](https://github.com/jorgelopez-ugr/Fermater/pull/1)         | v0.0.3  |           |
 | <!-- Enlace de M S D L L -->                                              |         |           |
 | [Pull Request](https://github.com/GabrielFranciscoSM/practicas-IV/pull/1) | v0.0.0  |           |
 | <!-- Enlace de M R J L -->                                                |         |           |
