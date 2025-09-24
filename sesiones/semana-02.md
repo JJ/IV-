@@ -16,10 +16,10 @@ todo caso, asistir a las primeras clases, al menos hasta que complete el
 Si esta es tu primera semana, comprueba que todo está listo pasando la
 siguiente lista de comprobación:
 
-* ¿Estáis en el grupo de Telegram?
-* ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
+* [ ] ¿Estáis en el grupo de Telegram?
+* [ ] ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
     compartida?
-* ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
+* [ ] ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
     equipo que vayáis a usar en clase?
 
 Comprueba también los [contenidos de la primera semana](semana-01.md)
@@ -27,6 +27,12 @@ para ponerte al día.
 
 ## Objetivos alcanzados hasta ahora
 
+```
+ 0 🧮: 11%🚧 11%✅ 77%❌ ⇒ 
+     🚧 🚧
+     ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
 
 ## Material de la asignatura
 
@@ -37,20 +43,24 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * [Objetivo 1 del
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 
-## Clase separada  de septiembre
+## Clase conjunta 25 de septiembre
 
 * Para los que *no hayan empezado el objetivo 0*: [juego de
   rol](http://jj.github.io/IV/documentos/actividades/juego-rol-design-thinking). Si
   no se ha superado el objetivo 0, y se quiere intentar de nuevo, también se
   puede.
 
-* Para los que *hayan terminado el objetivo 0*: breve explicación por parte del profesor.
+* Para los que *hayan terminado el objetivo 0*: breve explicación por parte del
+  profesor del siguiente objetivo.
 
 
-## Clase conjunta  de septiembre
+## Clase separada 26 de septiembre.
 
-La asistencia al hackatón sighe siendo *obligatoria*
-
+La asistencia al hackatón sighe siendo *obligatoria*. Se continúa el trabajo en
+cada grupo, tras una breve reunión inicial. Conceptos fundamentales en esta
+sesión
+* *Milestone* o producto mínimamente viable
+* Tests
 
 ## Errores frecuentes
 
