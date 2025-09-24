@@ -22,7 +22,7 @@ iniciales.
 | <!-- Enlace de M S D L L -->                                              |         |           |
 | [Pull Request](https://github.com/GabrielFranciscoSM/practicas-IV/pull/1) | v0.0.0  | ✓         |
 | <!-- Enlace de M R J L -->                                                |         |           |
-| [PR](https://github.com/FlorinTodor/DermaIndex/pull/1)                    | v0.0.1  |           |
+| [PR](https://github.com/FlorinTodor/DermaIndex/pull/1)                    | v0.0.1  | ✓         |
 | [PR0JQC](https://github.com/jvrqc/practIV/pull/1)                         | v0.0.1  |           |
 | <!-- Enlace de GabrielFranciscoSM -->                                     |         |           |
 | <!-- Enlace de S H G -->                                                  |         |           |
