@@ -53,7 +53,6 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * Para los que *hayan terminado el objetivo 0*: breve explicación por parte del
   profesor del siguiente objetivo.
 
-
 ## Clase separada 26 de septiembre.
 
 La asistencia al hackatón sighe siendo *obligatoria*. Se continúa el trabajo en
