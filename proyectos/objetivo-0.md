@@ -8,7 +8,7 @@ iniciales.
 
 | URL                                                                       | Versión | Alcanzado |
 |---------------------------------------------------------------------------|---------|-----------|
-| <!-- Enlace de jacarmona364 -->                                           |         |           |
+| [Enlace de jacarmona](https://github.com/jacarmona364/Riskalk/pull/1)     | v0.0.2  |           |
 | <!-- Enlace de nachoescalona -->                                          |         |           |
 | <!-- Enlace de oscar0310 -->                                              |         |           |
 | <!-- Enlace de G G J Á -->                                                |         |           |
