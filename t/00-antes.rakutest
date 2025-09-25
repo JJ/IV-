@@ -10,7 +10,7 @@ constant OBJETIVO = 0;
 my %objetivos-cumplidos;
 
 cmp-ok( @student-list.elems, ">", 1, "Hay más de un estudiante");
-
+say @student-list;
 if ( @student-list.elems <= 5 ) {
         %objetivos-cumplidos = estado-objetivos(
                 @student-list,
