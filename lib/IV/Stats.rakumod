@@ -59,7 +59,6 @@ method cumple-objetivo(UInt $objetivo) {
 }
 
 method hecha-entrega(UInt $entrega) {
-    say @!entregas;
     return @!entregas[$entrega];
 }
 
