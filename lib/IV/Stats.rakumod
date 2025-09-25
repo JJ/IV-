@@ -33,6 +33,7 @@ method new(Str $file = "{ PROYECTOS }usuarios.md") {
             if $estado-objetivo<estado> == CUMPLIDO  {
                 %students{$usuario}<objetivos> ∪= +$objetivo;
                 @objetivos[$objetivo] ∪= $usuario;
+                @entregas[$objetivo] ∪= $usuario;
             } elsif $estado-objetivo<estado> == ENVIADO {
                 %students{$usuario}<entrega> = +$objetivo;
                 @entregas[$objetivo] ∪= $usuario;
@@ -58,6 +59,7 @@ method cumple-objetivo(UInt $objetivo) {
 }
 
 method hecha-entrega(UInt $entrega) {
+    say @!entregas;
     return @!entregas[$entrega];
 }
 
