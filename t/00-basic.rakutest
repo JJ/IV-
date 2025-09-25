@@ -7,7 +7,7 @@ my $stats = IV::Stats.new;
 
 ok( $stats, "Can create object");
 say $stats;
-my @objetivos-cumplidos = grep { .elems > 0 }, $stats.objetivos-cumplidos();
+my @objetivos-cumplidos = $stats.objetivos-cumplidos();
 say @objetivos-cumplidos;
 if @objetivos-cumplidos[0].elems > 0 {
     my @max-estudiantes = @objetivos-cumplidos.max;

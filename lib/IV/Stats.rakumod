@@ -82,7 +82,7 @@ method versiones() {
 }
 
 method objetivos-cumplidos() {
-    return @!objetivos.map(*.keys.sort({ $^a.lc cmp $^b.lc }));
+    return @!objetivos.map(*.keys.sort({ $^a.lc cmp $^b.lc })).grep(*.elems > 0);
 }
 
 method percentiles() {
