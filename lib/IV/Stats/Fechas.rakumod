@@ -52,6 +52,7 @@ method new() {
 }
 
 method entregas-de( Int $objetivo, Str $estudiante ){
+    say @!fechas-entregas[$objetivo];
     return @!fechas-entregas[$objetivo]{$estudiante};
 }
 
