@@ -1,4 +1,4 @@
-fatpack: revisores
+fatpack: revisores versiones
 
 stats: proyectos/objetivo-*.md
 	raku -Ilib scripts/iv-stats.raku

@@ -11,7 +11,7 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
   use Exporter 'import'; # needed to use @EXPORT
   use warnings;
   use strict;
-  use Carp;
+  use Carp qw(croak);
   
   use v5.14;
   
@@ -20,7 +20,7 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
   our $EXIT_CODE = 0;
   
   our @EXPORT = qw(
-                    %github set_output set_env debug error warning
+                    %github $EXIT_CODE set_output set_env debug error warning
                     set_failed error_on_file warning_on_file
                     start_group end_group exit_action
                  );
@@ -32,9 +32,23 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
         $github{$nogithub} = $ENV{$k} ;
       }
     }
+    if ($ENV{'GITHUB_REPOSITORY'}) {
+      my @repo_parts = split("/", $ENV{'GITHUB_REPOSITORY'});
+      $github{'REPO_NAME'} = pop @repo_parts;
+    }
   }
   
-  use version; our $VERSION = qv('0.1.2');
+  =head1 NAME
+  
+  GitHub::Actions - Work in GitHub Actions using native Perl
+  
+  =head1 VERSION
+  
+  This document describes GitHub::Actions version 0.2.2
+  
+  =cut
+  
+  use version; our $VERSION = qv('0.2.2');
   
   sub _write_to_github_file {
     my ($github_var, $content) = @_;
@@ -44,7 +58,7 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
   }
   
   sub set_output {
-    carp "Need name and value" unless @_;
+    croak "Need name and value" unless @_;
     my ($output_name, $output_value) = @_;
     $output_value ||=1;
     _write_to_github_file( 'OUTPUT', "$output_name=$output_value" );
@@ -73,6 +87,7 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
   }
   
   sub error_on_file {
+    $EXIT_CODE= 1;
     command_on_file( "::error", @_ );
   }
   
@@ -83,15 +98,19 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
   sub command_on_file {
     my $command = shift;
     my $message = shift;
-    my ($file, $line, $col ) = @_;
-    if ( $file ) {
-      my @data;
-      push( @data, "file=$file");
-      push( @data, "line=$line") if $line;
-      push( @data, "col=$col") if $col;
-      $command .= " ".join(",", @data );
+    croak "Need at least a file name" unless @_;
+    my ($file, $line, $title, $col ) = @_;
+    my @data;
+    push( @data, "file=$file");
+    push( @data, "line=$line") if $line;
+    if ( $title ) {
+      push( @data, "title=$title"."::$message");
+    } else {
+      push( @data, "title=".uc(substr($command,2))."::$message");
     }
-    say $command."::$message"
+    push( @data, "col=$col") if $col;
+    $command .= " ".join(",", @data );
+    say $command;
   }
   
   sub start_group {
@@ -114,17 +133,12 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
   "Action!"; # Magic true value required at end of module
   __END__
   
-  =head1 NAME
-  
-  GitHub::Actions - Work in GitHub Actions using Perl
-  
-  
-  =head1 VERSION
-  
-  This document describes GitHub::Actions version 0.1.1.1
-  
   
   =head1 SYNOPSIS
+  
+  This will be in the context of a GitHub action step. You will need to install
+  via CPAN this module first, and use C<perl {0}> as C<shell>. Please see below
+  this code for instructions.
   
       use GitHub::Actions;
       use v5.14;
@@ -133,6 +147,11 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
       for my $g (keys %github ) {
          say "GITHUB_$g -> ", $github{$g}
       }
+  
+      # The name of the repository itself, without the name part, is stored in a new variable
+      say $github{'REPO_NAME'};
+  
+      # These are commands that mirror those in GitHub actions
   
       # Set step output
       set_output("FOO", "BAR");
@@ -143,9 +162,9 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
       # Produces an error and sets exit code to 1
       error( "FOO has happened" );
   
-      # Error/warning with information on file
-      error_on_file( "There's foo", $file, $line, $col );
-      warning_on_file( "There's bar", $file, $line, $col );
+      # Error/warning with information on file. The last 3 parameters are optional
+      error_on_file( "There's foo", $file, $line, "Error", $col ); #  and sets exit code to 1
+      warning_on_file( "There's bar", $file, $line, "Warning", $col );
   
       # Debugging messages and warnings
       debug( "Value of FOO is $bar" );
@@ -162,14 +181,14 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
       # Errors and exits
       set_failed( "We're doomed" );
   
-  Install this module within a GitHub action
+  Install this module within a GitHub action, as a C<step>
   
-        . name: "Install GitHub::Actions"
+        - name: "Install GitHub::Actions"
           run: sudo cpan GitHub::Actions
   
-  (we need C<sudo> since we're using the system Perl)
+  (we need C<sudo> since we're using the system Perl that's installed in every runner)
   
-  You can use this as a C<step>
+  Then, as another C<step>
   
         - name: Test env variables
           shell: perl {0}
@@ -177,22 +196,23 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
             use GitHub::Actions;
             set_env( 'FOO', 'BAR');
   
-  In most cases, you'll want to just have it installed locally and fatpack it to
-  upload it to the repository.
+  In most cases, you'll want to just have it installed locally in your repository
+  and C<fatpack> it in a script that you will upload it to the repository.
   
   =head1 DESCRIPTION
   
   GitHub Actions include by default, at least in its Linux runners, a
-  system Perl which you can use directly in your GitHub actions. This here is
+  system Perl which you can use directly in them. This here is
   a (for the time being) minimalistic module that tries to help a bit
   with that, by defining a few functions that will be useful when
   performing GitHub actions. Besides the system Perl, you can use any of
   L<the modules
   installed|https://gist.github.com/JJ/edf3a39d68525439978da2a02763d42b>. You
   can install other modules via cpan or, preferably for speed, via the
-  Ubuntu package (or equivalent)
+  Ubuntu package (or equivalent).
   
-  Check out an example of using it in the L<repository|https://github.com/JJ/perl-GitHub-Actions/blob/main/.github/workflows/self-test.yml>
+  Check out an example of using it in the
+  L<repository|https://github.com/JJ/perl-GitHub-Actions/blob/main/.github/workflows/self-test.yml>.
   
   =head1 INTERFACE
   
@@ -204,6 +224,10 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
   =head2 set_output( $output_name, $output_value)
   
   Equivalent to L<C<set_output>|https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-commands-for-github-actions#setting-an-output-parameter>
+  
+  =head2 set_failed( $error_message )
+  
+  Sets the step as failed with the indicated error message and exits.
   
   =head2 debug( $debug_message )
   
@@ -220,15 +244,18 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
   
   Equivalent to L<C<warning>|https://docs.github.com/en/actions/reference/workflow-commands-for-github-actions#setting-a-warning-message>, simply prints a warning.
   
-  =head2 command_on_file( $error_message, $file, $line, $col )
+  =head2 command_on_file( $error_message, $file, $line, $title, $col )
   
   Common code for L<error_on_file> and L<warning_on_file>. Can be used for any future commands.
   
-  =head2 error_on_file( $error_message, $file, $line, $col )
+  =head2 error_on_file( $error_message, $file, $line, $title, $col )
   
-  Equivalent to L<C<error>|https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-commands-for-github-actions#setting-an-error-message>, prints an error message with file and line info
+  Equivalent to
+  L<C<error>|https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-commands-for-github-actions#setting-an-error-message>,
+  prints an error message with file and line info. Also set the exit status to 1,
+  so once again remember to call C<exit_action> after calling this.
   
-  =head2 warning_on_file( $warning_message, $file, $line, $col )
+  =head2 warning_on_file( $warning_message, $file, $line, $title, $col )
   
   Equivalent to L<C<warning>|https://docs.github.com/en/actions/reference/workflow-commands-for-github-actions#setting-a-warning-message>, prints an warning with file and line info.
   
@@ -262,23 +289,23 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
         $ENV{'GITHUB_BAR'} = 'bar';
       }
   
+  You can use this for testing, for instance, if you create any module based on
+  this one.
   
   =head1 DEPENDENCIES
   
-  Intentionally, no dependencies are included.
-  
+  Intentionally, no dependencies are included. Several dependencies are used for
+  testing, though.
   
   =head1 INCOMPATIBILITIES
   
   None reported.
-  
   
   =head1 BUGS AND LIMITATIONS
   
   No bugs have been reported.
   
   Please report any bugs or feature requests to L<https://github.com/JJ/perl-GitHub-Actions/issues>.
-  
   
   =head1 AUTHOR
   
@@ -287,7 +314,8 @@ $fatpacked{"GitHub/Actions.pm"} = '#line '.(1+__LINE__).' "'.__FILE__."\"\n".<<'
   
   =head1 LICENCE AND COPYRIGHT
   
-  Copyright (c) 2021, JJ Merelo C<< <jmerelo@CPAN.org> >>. All rights reserved.
+  Copyright (c) 2021, 2022 JJ Merelo C<< <jmerelo@CPAN.org> >>. All rights
+  reserved.
   
   This module is free software; you can redistribute it and/or
   modify it under the same terms as Perl itself. See L<perlartistic>.
@@ -365,6 +393,9 @@ my $correctVersion = "v0." . $ENV{'OBJETIVO'};
 if ( index( $ENV{'THIS_VERSION'}, $correctVersion ) == -1 ) {
   set_failed( "La versión $ENV{'THIS_VERSION'} es incorrecta: debería comenzar con $correctVersion");
 } else {
+  if ( $ENV{'THIS_VERSION'} eq 'v0.0.0' ) {
+    set_failed( "Una versión 0.0.0 es incorrecta; la primera versión posible es la 0.0.1" );
+  }
   debug( "La versión $ENV{'THIS_VERSION'} es adecuada para este objetivo" );
 }
 
