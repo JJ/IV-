@@ -14,17 +14,18 @@ iniciales.
 | <!-- Enlace de G G J Á -->                                                |         |           |
 | [PR](https://github.com/gosema/IV/pull/1)                                 | v0.0.1  | ✓         |
 | [Pull Request](https://github.com/gabrielherreraloz/IV-GHL/pull/2)        | v0.0.3  | ✓         |
-| <!-- Enlace de gosema -->                                                 |         |           |
-| <!-- Enlace de gabrielherreraloz -->                                      |         |           |
 | <!-- Enlace de chemalc05 -->                                              |         |           |
 | <!-- Enlace de L C L -->                                                  |         |           |
 | [Pull Request](https://github.com/jorgelopez-ugr/Fermater/pull/1)         | v0.0.3  |           |
 | <!-- Enlace de M S D L L -->                                              |         |           |
-| [Pull Request](https://github.com/GabrielFranciscoSM/practicas-IV/pull/1) | v0.0.0  | ✓         |
-| <!-- Enlace de M R J L -->                                                |         |           |
-| [PR](https://github.com/FlorinTodor/DermaIndex/pull/1)                    | v0.0.1  |           |
+| <!-- Enlace de chelunike -->                                              |         |           |
 | [PR0JQC](https://github.com/jvrqc/practIV/pull/1)                         | v0.0.1  |           |
-| <!-- Enlace de GabrielFranciscoSM -->                                     |         |           |
+| [Pull Request](https://github.com/GabrielFranciscoSM/practicas-IV/pull/1) | v0.0.0  | ✓         |
 | <!-- Enlace de S H G -->                                                  |         |           |
+| [PR](https://github.com/FlorinTodor/DermaIndex/pull/1)                    | v0.0.1  |           |
+| <!-- Enlace de V H -->                                                    |         |           |
+| <!-- Enlace de V G H -->                                                  |         |           |
+| <!-- Enlace de Y L -->                                                    |         |           |
+
 
 

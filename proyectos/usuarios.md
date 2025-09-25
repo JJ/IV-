@@ -8,7 +8,7 @@
 | <!-- Enlace de L C L --> | | |
 | <!-- Enlace de jorgelopez-ugr --> | | |
 | <!-- Enlace de M S D L L --> | | |
-| <!-- Enlace de M R J L --> | | |
+| <!-- Enlace de chelunike --> | | |
 | <!-- Enlace de jvrqc --> | | |
 | <!-- Enlace de GabrielFranciscoSM --> | | |
 | <!-- Enlace de S H G --> | | |
