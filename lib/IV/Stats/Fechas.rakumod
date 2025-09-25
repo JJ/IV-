@@ -20,7 +20,6 @@ method new() {
             my $fecha = %file-version<date>;
             my %estado-objetivos = estado-objetivos(
                     @student-list, $this-version, $objetivo );
-            say "Estado objetivos" , %estado-objetivos;
             for %estado-objetivos.kv -> $estudiante, %estado {
                 my $estado-actual =
                         @fechas-entregas[$objetivo]{$estudiante}<entrega>;
@@ -53,7 +52,6 @@ method new() {
 }
 
 method entregas-de( Int $objetivo, Str $estudiante ){
-    say @!fechas-entregas[$objetivo];
     return @!fechas-entregas[$objetivo]{$estudiante};
 }
 
