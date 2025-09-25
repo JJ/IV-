@@ -10,7 +10,7 @@ iniciales.
 |---------------------------------------------------------------------------|---------|-----------|
 | [Enlace de jacarmona](https://github.com/jacarmona364/Riskalk/pull/1)     | v0.0.2  |           |
 | <!-- Enlace de nachoescalona -->                                          |         |           |
-| <!-- Enlace de oscar0310 -->                                              |         |           |
+| [PR Óscar Fernández](https://github.com/oscar0310/IV25-26/pull/1)         | v0.0.1  |           |
 | <!-- Enlace de G G J Á -->                                                |         |           |
 | [PR](https://github.com/gosema/IV/pull/1)                                 | v0.0.1  | ✓         |
 | [Pull Request](https://github.com/gabrielherreraloz/IV-GHL/pull/2)        | v0.0.3  | ✓         |
