@@ -175,6 +175,7 @@ jobs:
 
             const non_paginated_issues =
                 await github.rest.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all' })
+            console.log( "All issues ", non_paginated_issues )
             const issues = await github.paginate( non_paginated_issues )
             const hus = issues.filter( issue => issue.title.match(/^\[HU/) )
             if ( !hus.length ) {
