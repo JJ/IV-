@@ -174,8 +174,13 @@ jobs:
             }
 
             const non_paginated_issues =
-                await github.rest.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all', milestone: '*' })
-            const issues = await github.paginate( non_paginated_issues )
+                await github.rest.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all', per_page: 100 })
+            let issues;
+            try {
+                issues = await github.paginate( non_paginated_issues )
+            } catch (error) {
+                console.error( "Problemas con la paginación ", error );
+            }
             console.log( "All issues ", issues )
             const hus = issues.filter( issue => issue.title.match(/^\[HU/) )
             if ( !hus.length ) {
