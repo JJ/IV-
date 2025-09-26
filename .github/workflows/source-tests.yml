@@ -174,7 +174,7 @@ jobs:
             }
 
             const non_paginated_issues =
-                await github.rest.issues.listForRepo( { owner: user, repo: repo, state: 'all', per_page: 100 })
+                await github.rest.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all', per_page: 100 })
             let issues;
             try {
                 issues = await github.paginate( non_paginated_issues )
