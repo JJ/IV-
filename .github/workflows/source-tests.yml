@@ -214,7 +214,6 @@ jobs:
                   }
                 }`;
             const issueTitles = await github.graphql(HUquery, { user: user, repo: repo })
-            console.log(JSON.stringify(issueTitles))
             console.log( "All issues from GraphQL ", JSON.stringify(issueTitles.repository.issues.edges) )
             const hus = issueTitles.repository.issues.edges.filter( edge => edge.node.title.match(/^\[HU/) )
             if ( !hus.length ) {
