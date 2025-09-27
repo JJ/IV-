@@ -173,6 +173,13 @@ jobs:
                 core.setFailed( sorry("No hay ningún issue en tus milestones"))
             }
 
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+                            owner: owner,
+                            repo: repo,
+                            state: 'all',        // 'open', 'closed', or 'all'
+                            per_page: 100        // Maximum per page
+            });
+            /*
             const non_paginated_issues =
                 await github.rest.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all', per_page: 100 })
             let issues;
@@ -181,6 +188,7 @@ jobs:
             } catch (error) {
                 console.error( "Problemas con la paginación ", error );
             }
+            */
             console.log( "All issues ", issues )
             const hus = issues.filter( issue => issue.title.match(/^\[HU/) )
             if ( !hus.length ) {
