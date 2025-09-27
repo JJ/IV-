@@ -170,14 +170,15 @@ jobs:
             milestones.data.forEach( function( milestone ) {
                 if ( milestone.open_issues || milestone.closed_issues ) {
                     milestonesWithIssues.push( milestone.id )
-                    issuesInMilestones.push( 
-                      await github.rest.issues.listForRepo( 
-                          { owner: user, 
-                            repo: repo, 
-                            milestone: milestone.number 
-                          } 
-                      ) 
-                    )
+                    const issues = await github.rest.issues.listForRepo({
+                          owner: user,
+                          repo: repo,
+                          milestone: milestone.number,
+                          state: 'all', // Get both open and closed issues
+                          per_page: 100 // Adjust if you have more than 100 issues
+                    });
+                    console.log( "Issues in milestone " + milestone.title + " → ", issues.data )
+                    issuesInMilestones = issuesInMilestones.concat( issues.data )
                 }
                 totalIssues += milestone.open_issues + milestone.closed_issues
                 totalClosedIssues += milestone.closed_issues
