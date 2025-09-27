@@ -170,8 +170,14 @@ jobs:
             milestones.data.forEach( function( milestone ) {
                 if ( milestone.open_issues || milestone.closed_issues ) {
                     milestonesWithIssues.push( milestone.id )
-                    // get the issues in this milestone from the API
-                    issuesInMilestones.push( await github.rest.issues.listForRepo( { owner: user, repo: repo, milestone: milestone.number } ) )
+                    issuesInMilestones.push( 
+                      await github.rest.issues.listForRepo( 
+                          { owner: user, 
+                            repo: repo, 
+                            milestone: milestone.number 
+                          } 
+                      ) 
+                    )
                 }
                 totalIssues += milestone.open_issues + milestone.closed_issues
                 totalClosedIssues += milestone.closed_issues
