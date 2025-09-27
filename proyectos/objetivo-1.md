@@ -21,7 +21,7 @@ iniciales.
 | <!-- Enlace de M S D L L -->          |         |           |
 | [Enlace de chelunike :)](https://github.com/chelunike/didactic-chainsaw/pull/3)  |  v0.1.3   |   |
 | <!-- Enlace de jvrqc -->              |         |           |
-| <!-- Enlace de GabrielFranciscoSM --> |         |           |
+| [Enlace de gabrielfranciscosm](https://github.com/GabrielFranciscoSM/practicas-IV/pull/7) | v0.1.1 |           |
 | <!-- Enlace de S H G -->              |         |           |
 | <!-- Enlace de FlorinTodor -->        |         |           |
 | <!-- Enlace de V H -->                |         |           |
