@@ -155,6 +155,7 @@ jobs:
             const objetivo = process.env.objetivo
             console.log( objetivo_msg(1) )
             const milestones = await github.rest.issues.listMilestones( { owner: user, repo: repo } )
+            console.log( "Milestones ", milestones )
             if ( ! milestones.data.length ) {
                 core.setFailed( sorry( "Tiene que haber por lo menos un milestone") )
             }
@@ -162,9 +163,13 @@ jobs:
             if ( milestones.data.length < minMilestones ) {
                 core.setFailed( sorry("Tendría que haber más de " + minMilestones + " milestone(s)"));
             }
-            var totalIssues = 0
-            var totalClosedIssues = 0
-            milestones.data.forEach( async function( milestone ) {
+            let totalIssues = 0
+            let totalClosedIssues = 0
+            let milestonesWithIssues = []
+            milestones.data.forEach( function( milestone ) {
+                if ( milestone.open_issues || milestone.closed_issues ) {
+                    milestonesWithIssues.push( milestone.id )
+                }
                 totalIssues += milestone.open_issues + milestone.closed_issues
                 totalClosedIssues += milestone.closed_issues
             })
