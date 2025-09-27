@@ -155,7 +155,6 @@ jobs:
             const objetivo = process.env.objetivo
             console.log( objetivo_msg(1) )
             const milestones = await github.rest.issues.listMilestones( { owner: user, repo: repo } )
-            console.log( "Milestones ", milestones )
             if ( ! milestones.data.length ) {
                 core.setFailed( sorry( "Tiene que haber por lo menos un milestone") )
             }
@@ -169,7 +168,7 @@ jobs:
             let issuesInMilestones = []
             for (const milestone of milestones.data) {
                 if ( milestone.open_issues || milestone.closed_issues ) {
-                    milestonesWithIssues.push( milestone.id )
+                    milestonesWithIssues.push( milestone.number )
                     const issues = await github.rest.issues.listForRepo({
                           owner: user,
                           repo: repo,
@@ -196,20 +195,14 @@ jobs:
                             state: 'all',        // 'open', 'closed', or 'all'
                             per_page: 100        // Maximum per page
             });
-            /*
-            const non_paginated_issues =
-                await github.rest.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all', per_page: 100 })
-            let issues;
-            try {
-                issues = await github.paginate( non_paginated_issues )
-            } catch (error) {
-                console.error( "Problemas con la paginación ", error );
-            }
-            */
+
             console.log( "All issues ", issues )
             const hus = issues.filter( issue => issue.title.match(/^\[HU/) )
             if ( !hus.length ) {
-                core.setFailed( sorry("No hay historias de usuario, o el título no incluye «[HUxxx]»"))
+                core.warn( sorry("No he encontrado historias de usuario, o el título no incluye «[HUxxx]»\nPero puede ser un error de GitHub"))
+                if ( issuesInMilestones == 0) {
+                    core.setFailed( sorry("Además, no he encontrado issues en los milestones, así que sí debe ser un error a corregir"))
+                }
             }
             let closed_issues;
             if ( objetivo >= 2 ) {
