@@ -19,7 +19,7 @@ iniciales.
 | <!-- Enlace de L C L -->              |         |           |
 | <!-- Enlace de jorgelopez-ugr -->     |         |           |
 | <!-- Enlace de M S D L L -->          |         |           |
-| [Enlace de chelunike :)](https://github.com/chelunike/didactic-chainsaw/pull/3) |  v0.1.3  |   |
+| [Enlace de chelunike :)](https://github.com/chelunike/didactic-chainsaw/pull/3) |  v0.1.3  |   | 
 | <!-- Enlace de jvrqc -->              |         |           |
 | <!-- Enlace de GabrielFranciscoSM --> |         |           |
 | <!-- Enlace de S H G -->              |         |           |
