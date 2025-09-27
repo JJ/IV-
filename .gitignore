@@ -23,3 +23,5 @@ fatlib
 #comma
 *.iml
 .idea/
+.vscode/
+
