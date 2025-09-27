@@ -174,7 +174,7 @@ jobs:
             }
 
             const issues = await github.paginate(github.rest.issues.listForRepo, {
-                            owner: owner,
+                            owner: user,
                             repo: repo,
                             state: 'all',        // 'open', 'closed', or 'all'
                             per_page: 100        // Maximum per page
