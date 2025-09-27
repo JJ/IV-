@@ -167,7 +167,7 @@ jobs:
             let totalClosedIssues = 0
             let milestonesWithIssues = []
             let issuesInMilestones = []
-            milestones.data.forEach( function( milestone ) {
+            milestones.data.forEach( async function( milestone ) {
                 if ( milestone.open_issues || milestone.closed_issues ) {
                     milestonesWithIssues.push( milestone.id )
                     const issues = await github.rest.issues.listForRepo({
