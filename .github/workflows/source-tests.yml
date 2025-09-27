@@ -199,22 +199,22 @@ jobs:
             console.log( "All issues ", issues )
 
             const HUquery = `query($user:String!, $repo:String!) {
-  repository(owner: $user, name: $repo) {
-    issues(first: 100, states: [OPEN]) {
-      edges {
-        node {
-          title
-        }
-      }
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-    }
-  }
-}`;
+                    repository(owner: $user, name: $repo) {
+                      issues(first: 100, states: [OPEN]) {
+                        edges {
+                          node {
+                            title
+                          }
+                        }
+                      pageInfo {
+                        hasNextPage
+                        endCursor
+                      }
+                    }
+                  }
+                }`;
             const issueTitles = await github.graphql(HUquery, { user: user, repo: repo })
-            console.log(issueTitles)  
+            console.log(issueTitles)
             const hus = issueTitles.filter( title => title.match(/^\[HU/) )
             if ( !hus.length ) {
                 core.notice( sorry("No he encontrado historias de usuario, o el título no incluye «[HUxxx]»\nPero puede ser un error de GitHub"))
