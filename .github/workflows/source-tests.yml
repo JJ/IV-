@@ -198,7 +198,7 @@ jobs:
 
             console.log( "All issues ", issues )
 
-            const HUquery = `query GetAllIssueTitles {
+            const HUquery = `query($user:String!, $repo:String!) {
   repository(owner: $user, name: $repo) {
     issues(first: 100, states: [OPEN]) {
       edges {
