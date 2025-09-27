@@ -214,7 +214,7 @@ jobs:
                   }
                 }`;
             const issueTitles = await github.graphql(HUquery, { user: user, repo: repo })
-            console.log(issueTitles)
+            console.log(issueTitles.toJSONString())
             const hus = issueTitles.filter( title => title.match(/^\[HU/) )
             if ( !hus.length ) {
                 core.notice( sorry("No he encontrado historias de usuario, o el título no incluye «[HUxxx]»\nPero puede ser un error de GitHub"))
