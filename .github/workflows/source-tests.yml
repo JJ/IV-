@@ -216,7 +216,7 @@ jobs:
             const issueTitles = await github.graphql(HUquery, { user: user, repo: repo })
             console.log(JSON.stringify(issueTitles))
             console.log( "All issues from GraphQL ", JSON.stringify(issueTitles.repository.issues.edges) )
-            const hus = issueTitles.repository.edges.filter( node => node.title.match(/^\[HU/) )
+            const hus = issueTitles.repository.issues.edges.filter( node => node.title.match(/^\[HU/) )
             if ( !hus.length ) {
                 core.notice( sorry("No he encontrado historias de usuario, o el título no incluye «[HUxxx]»\nPero puede ser un error de GitHub"))
                 if ( totalIssues - totalClosedIssues == 0) {
