@@ -200,7 +200,7 @@ jobs:
             const hus = issues.filter( issue => issue.title.match(/^\[HU/) )
             if ( !hus.length ) {
                 core.notice( sorry("No he encontrado historias de usuario, o el título no incluye «[HUxxx]»\nPero puede ser un error de GitHub"))
-                if ( issuesInMilestones == 0) {
+                if ( totalIssues - totalClosedIssues == 0) {
                     core.setFailed( sorry("Además, no he encontrado issues en los milestones, así que sí debe ser un error a corregir"))
                 }
             }
