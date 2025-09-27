@@ -167,7 +167,7 @@ jobs:
             let totalClosedIssues = 0
             let milestonesWithIssues = []
             let issuesInMilestones = []
-            milestones.data.forEach( async function( milestone ) {
+            for (const milestone of milestones.data) {
                 if ( milestone.open_issues || milestone.closed_issues ) {
                     milestonesWithIssues.push( milestone.id )
                     const issues = await github.rest.issues.listForRepo({
@@ -182,7 +182,7 @@ jobs:
                 }
                 totalIssues += milestone.open_issues + milestone.closed_issues
                 totalClosedIssues += milestone.closed_issues
-            })
+            }
             console.log( "Milestones with issues ", milestonesWithIssues )
             console.log( "Issues in milestones ", issuesInMilestones )
             console.log( all_good("Hay " + totalIssues + " issues en tus milestones y " + totalClosedIssues + " cerrados "))
