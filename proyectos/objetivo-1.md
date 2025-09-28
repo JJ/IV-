@@ -27,3 +27,4 @@ iniciales.
 | <!-- Enlace de V H -->                |         |           |
 | <!-- Enlace de V G H -->              |         |           |
 | <!-- Enlace de Y L -->                |         |           |
+| [PR Valentín Pedrosa](https://github.com/vpedrosa/floor-plan-analyzer/pull/30)            | [v0.1.0](https://github.com/vpedrosa/floor-plan-analyzer/releases/tag/v0.1.0) |           |
