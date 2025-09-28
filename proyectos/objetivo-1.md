@@ -1,6 +1,6 @@
 # Objetivo 1
 
-Añade en la tabla el enlace al PR en _tu_ repositorio, siguiendo las
+Añade en la tabla el enlace al PR en *tu* repositorio, siguiendo las
 instrucciones en [el
 guión](http://jj.github.io/IV/documentos/proyecto/1.Planificacion). Usa la línea
 con tu nick de GitHub (si lo has proporcionado). Si no lo has hecho, primero
@@ -27,4 +27,3 @@ iniciales.
 | <!-- Enlace de V H -->                |         |           |
 | <!-- Enlace de V G H -->              |         |           |
 | <!-- Enlace de Y L -->                |         |           |
-| [PR Valentín Pedrosa](https://github.com/vpedrosa/floor-plan-analyzer/pull/30)            | [v0.1.0](https://github.com/vpedrosa/floor-plan-analyzer/releases/tag/v0.1.0) |           |
