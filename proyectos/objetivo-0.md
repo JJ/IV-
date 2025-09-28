@@ -26,4 +26,3 @@ iniciales.
 | <!-- Enlace de V H -->                                                    |         |           |
 | <!-- Enlace de V G H -->                                                  |         |           |
 | <!-- Enlace de Y L -->                                                    |         |           |
-| [PR Valentín Pedrosa](https://github.com/vpedrosa/map-analyzer/pull/1)    | v0.0.2  |           |
