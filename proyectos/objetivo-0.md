@@ -19,6 +19,7 @@ iniciales.
 | [Pull Request](https://github.com/jorgelopez-ugr/Fermater/pull/1)         | v0.0.3  |           |
 | <!-- Enlace de M S D L L -->                                              |         |           |
 | [chelunike](https://github.com/chelunike/didactic-chainsaw/pull/1)        | v0.0.4  | ✓         |
+| [PR Valentín Pedrosa](https://github.com/vpedrosa/map-analyzer/pull/1)    | v0.0.2  |           |
 | [PR0JQC](https://github.com/jvrqc/practIV/pull/1)                         | v0.0.1  |           |
 | [Pull Request](https://github.com/GabrielFranciscoSM/practicas-IV/pull/1) | v0.0.1  | ✓         |
 | <!-- Enlace de S H G -->                                                  |         |           |
@@ -26,4 +27,4 @@ iniciales.
 | <!-- Enlace de V H -->                                                    |         |           |
 | <!-- Enlace de V G H -->                                                  |         |           |
 | <!-- Enlace de Y L -->                                                    |         |           |
-| [PR Valentín Pedrosa](https://github.com/vpedrosa/map-analyzer/pull/1)    | v0.0.2  |           |
+
