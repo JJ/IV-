@@ -1,11 +1,11 @@
-# Semana del x de septiembre
-
+# Semana del 29 de septiembre-3 de octubre
 
 ## Antes de la clase
 
-Habría que haber entregado ya el objetivo 0. En los dos cursos anteriores, el
-90% de los que lo entregaron lo hicieron en dos semanas a partir del
-comienzo. Un 50% de los que aprobaron habían entregado ya el objetivo 1.
+- Ha terminado el plazo de entrega del objetivo 0. Quien no lo haya entregado,
+  figurará como "no superado" hasta la convocatoria extraordinaria.
+- También ha terminado el plazo de superación *aconsejado* del objetivo 0.
+
 
 ## Objetivos alcanzados hasta ahora
 
@@ -22,16 +22,26 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
 
-## Clases 3 y 4 de octubre
+## Clase 2 de octubre
 
-* Para *quien no haya entregado el objetivo 0*: puesta al día, revisión de obstáculos, y entrega del objetivo lo antes posible.
+* Para *quien no haya entregado el objetivo 0*: puesta al día, revisión de
+  obstáculos, y entrega del objetivo lo antes posible. Todavía se puede entregar
+  para la convocatoria extraordinaria.
 * Para *quien no haya superado el objetivo 0*: revisión de errores frecuentes, y entrega lo antes posible.
 * Revisión de conceptos del [objetivo 1](http://jj.github.io/IV/documentos/proyecto/1.Planificacion).
 * Introducción al [objetivo 2 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo) y sus conceptos
   más importantes, como *domain driven design*.
 
-En la clase conjunta del 4 de octubre continuaremos con el hackatón.
+### Clase 3 de octubre
+
+**Sigue siendo obligatoria**
+
+En el hackatón continuaremos viendo el concepto de milestone y de buenas
+prácticas en el código.
+
+- Comenzaremos a ver *domain drien design*.
+- También cómo seguir trabajando con issues
 
 ## Errores frecuentes
 
