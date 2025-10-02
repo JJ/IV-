@@ -7,3 +7,6 @@ ejemplo, en el hackatón, no puedes decir "una página web que haga esto", sino
 
 En el momento que un milestone incluya algún elemento concreto de solución o
 aplicación que se supone que hay que hacer, será erróneo.
+
+Adicionalmente, hay que comprender que las HUs son siempre historias
+*de usuario*, que enuncian los problemas del usuario.
