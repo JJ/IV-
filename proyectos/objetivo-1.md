@@ -9,7 +9,7 @@ iniciales.
 
 | URL                                                                                       | Versión | Alcanzado |
 |-------------------------------------------------------------------------------------------|---------|-----------|
-| <!-- Enlace de jacarmona364 -->                                                           |         |           |
+| [Enlace de jacarmona364](https://github.com/jacarmona364/UniFit/pull/2)                   | v0.1.1  |           |
 | <!-- Enlace de nachoescalona -->                                                          |         |           |
 | <!-- Enlace de oscar0310 -->                                                              |         |           |
 | <!-- Enlace de G G J Á -->                                                                |         |           |
