@@ -11,7 +11,7 @@ iniciales.
 |-------------------------------------------------------------------------------------------|---------|-----------|
 | [Enlace de jacarmona364](https://github.com/jacarmona364/UniFit/pull/2)                   | v0.1.3  |           |
 | <!-- Enlace de nachoescalona -->                                                          |         |           |
-| <!-- Enlace de oscar0310 -->                                                              |         |           |
+| [Enlace de Óscar Fernández](https://github.com/oscar0310/IV25-26/pull/6)                  | v0.1.1  |           |
 | <!-- Enlace de G G J Á -->                                                                |         |           |
 | [Enlace de gosema](https://github.com/gosema/IV/pull/6)                                   | v0.1.2  |           |
 | [PR de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/5)             | v0.1.1  |           |
