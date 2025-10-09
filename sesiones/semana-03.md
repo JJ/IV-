@@ -48,8 +48,8 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 En el hackatón continuaremos viendo el concepto de milestone y de buenas
 prácticas en el código.
 
-- Comenzaremos a ver *domain drien design*.
-- También cómo seguir trabajando con issues
+- Comenzaremos a ver *domain driven design*.
+- También cómo seguir trabajando con *issues*.
 
 ## Errores frecuentes
 
