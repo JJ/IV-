@@ -37,7 +37,9 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 ## Clase 9 de octubre
 
 * Para *quien no haya superado el objetivo 0*: revisión de errores frecuentes, y entrega lo antes posible.
-* Revisión de conceptos del [objetivo 1](http://jj.github.io/IV/documentos/proyecto/1.Planificacion).
+* Para quien no haya entregado el [objetivo
+  1](http://jj.github.io/IV/documentos/proyecto/1.Planificacion).
+* Para quien no haya superado el objetivo 1, solventar problemas y dudas.
 * Introducción al [objetivo 2 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo) y sus conceptos
   más importantes, como *domain driven design*.
