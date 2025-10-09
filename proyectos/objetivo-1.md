@@ -21,7 +21,7 @@ iniciales.
 | <!-- Enlace de M S D L L -->                                                              |         |           |
 | [Enlace de chelunike :)](https://github.com/chelunike/didactic-chainsaw/pull/3)           | v0.1.3  |           |
 | <!-- Enlace de vpedrosa -->                                                               |         |           |
-| <!-- Enlace de jvrqc -->                                                                  |         |           |
+| [PR de jvrqc](https://github.com/jvrqc/DataViolence/pull/8)                               | v0.1.1  |           |
 | [Enlace de gabrielfranciscosm](https://github.com/GabrielFranciscoSM/practicas-IV/pull/7) | v0.1.1  |           |
 | <!-- Enlace de S H G -->                                                                  |         |           |
 | [Enlace de FlorinTodor](https://github.com/FlorinTodor/DermaIndex/pull/2)                 | v0.1.1  |           |
