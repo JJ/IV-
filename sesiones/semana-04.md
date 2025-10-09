@@ -7,8 +7,9 @@
 
 ## Plazos esta semana
 
-- Termina el plazo aconsejado de *superación* del objetivo 1
-- Termina el plazo de superación del objetivo 0
+- Termina el plazo de entrega del objetivo 1.
+- Termina el plazo aconsejado de *superación* del objetivo 1.
+- Termina el plazo de superación del objetivo 0.
 
 ## Objetivos alcanzados hasta ahora
 
