@@ -17,7 +17,7 @@ iniciales.
 | [PR de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/5)             | v0.1.1  |           |
 | <!-- Enlace de chemalc05 -->                                                              |         |           |
 | <!-- Enlace de L C L -->                                                                  |         |           |
-| <!-- Enlace de jorgelopez-ugr -->                                                         |         |           |
+| [PR de jorgelopez-ugr](https://github.com/jorgelopez-ugr/Fermater/pull/3)                 | v0.1.3  |           |
 | <!-- Enlace de M S D L L -->                                                              |         |           |
 | [Enlace de chelunike :)](https://github.com/chelunike/didactic-chainsaw/pull/3)           | v0.1.3  |           |
 | <!-- Enlace de vpedrosa -->                                                               |         |           |
