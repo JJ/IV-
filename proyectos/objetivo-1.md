@@ -20,7 +20,7 @@ iniciales.
 | [PR de jorgelopez-ugr](https://github.com/jorgelopez-ugr/Fermater/pull/3)                 | v0.1.3  |           |
 | <!-- Enlace de M S D L L -->                                                              |         |           |
 | [Enlace de chelunike :)](https://github.com/chelunike/didactic-chainsaw/pull/3)           | v0.1.3  |           |
-| <!-- Enlace de vpedrosa -->                                                               |         |           |
+| [PR Valentín Pedrosa](https://github.com/vpedrosa/floor-plan-analyzer/pull/30)        | [v0.1.0](https://github.com/vpedrosa/floor-plan-analyzer/releases/tag/v0.1.0) |           |
 | <!-- Enlace de jvrqc -->                                                                  |         |           |
 | [Enlace de gabrielfranciscosm](https://github.com/GabrielFranciscoSM/practicas-IV/pull/7) | v0.1.1  |           |
 | <!-- Enlace de S H G -->                                                                  |         |           |
