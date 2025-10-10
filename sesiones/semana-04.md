@@ -55,8 +55,7 @@ prácticas en el código.
 - Comenzaremos a ver *domain driven design*.
 - También cómo seguir trabajando con issues
 
-Dependiendo de la marcha de la clase del 9, se cambiará por una nueva
-explicación del objetivo 2.
+La segunda parte de la clase se dedicará a seguir con el objetivo 1.
 
 ## Errores frecuentes
 
