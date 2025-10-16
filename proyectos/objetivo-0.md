@@ -25,5 +25,5 @@ iniciales.
 | [PR](https://github.com/FlorinTodor/DermaIndex/pull/1)                    | v0.0.1  | ✓         |
 | <!-- Enlace de V H -->                                                    |         |           |
 | <!-- Enlace de V G H -->                                                  |         |           |
-| <!-- Enlace de Y L -->                                                    |         |           |
+| <!-- Enlace de xingxingyulang -->                                                    |         |           |
 
