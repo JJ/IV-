@@ -43,7 +43,8 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 **Sigue siendo obligatoria**
 
 En el hackatón continuaremos viendo el concepto de milestone y de buenas
-prácticas en el código.
+prácticas en el código. Comenzamos con los conceptos correspondientes al
+objetivo 2:
 
 - Comenzaremos a ver *domain driven design*.
 - También cómo seguir trabajando con issues
