@@ -4,7 +4,6 @@
 | <!-- Enlace de G G J Á --> | | |
 | <!-- Enlace de gosema --> | | |
 | <!-- Enlace de gabrielherreraloz --> | | |
-| <!-- Enlace de chemalc05 --> | | |
 | <!-- Enlace de L C L --> | | |
 | <!-- Enlace de jorgelopez-ugr --> | | |
 | <!-- Enlace de M S D L L --> | | |

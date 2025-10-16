@@ -15,7 +15,6 @@ iniciales.
 | <!-- Enlace de G G J Á -->                                                                |         |           |
 | [Enlace de gosema](https://github.com/gosema/IV/pull/6)                                   | v0.1.2  |           |
 | [PR de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/5)             | v0.1.1  |           |
-| <!-- Enlace de chemalc05 -->                                                              |         |           |
 | <!-- Enlace de L C L -->                                                                  |         |           |
 | [PR de jorgelopez-ugr](https://github.com/jorgelopez-ugr/Fermater/pull/3)                 | v0.1.3  |           |
 | <!-- Enlace de M S D L L -->                                                              |         |           |
