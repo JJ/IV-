@@ -8,6 +8,7 @@
 | gabrielherreraloz  | oscar0310                |
 | FlorinTodor        | gabrielherreraloz        |
 | GabrielFranciscoSM | chelunike                |
+| jorgelopez-ugr     | gosema                   |
 
 
 
