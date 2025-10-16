@@ -12,8 +12,14 @@ Termina el plazo de *superación* del objetivo 1.
 ## Objetivos alcanzados hasta ahora
 
 ```text
-
-
+ 0 🧮:  0%🚧 52%✅ 47%❌ ⇒ 
+     
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 42%🚧  5%✅ 52%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
 ## Material de la asignatura
