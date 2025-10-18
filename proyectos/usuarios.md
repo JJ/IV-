@@ -12,7 +12,6 @@
 | <!-- Enlace de jvrqc --> | | |
 | <!-- Enlace de GabrielFranciscoSM --> | | |
 | <!-- Enlace de S H G --> | | |
-| <!-- Enlace de FlorinTodor --> | | |
 | <!-- Enlace de V H --> | | |
 | <!-- Enlace de V G H --> | | |
 | <!-- Enlace de xingxingyulang --> | | |

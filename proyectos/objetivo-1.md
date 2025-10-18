@@ -23,7 +23,6 @@ iniciales.
 | [PR de jvrqc](https://github.com/jvrqc/DataViolence/pull/8)                               | v0.1.1  |           |
 | [Enlace de gabrielfranciscosm](https://github.com/GabrielFranciscoSM/practicas-IV/pull/7) | v0.1.1  | ✓         |
 | <!-- Enlace de S H G -->                                                                  |         |           |
-| [Enlace de FlorinTodor](https://github.com/FlorinTodor/DermaIndex/pull/2)                 | v0.1.1  |           |
 | <!-- Enlace de V H -->                                                                    |         |           |
 | <!-- Enlace de V G H -->                                                                  |         |           |
 | <!-- Enlace de Y L -->                                                                    |         |           |
