@@ -1,23 +1,27 @@
-# Semana del 29 de septiembre-3 de octubre
+# Semana del 9-10 de octubre
 
 ## Antes de la clase
 
 - Ha terminado el plazo de entrega del objetivo 0. Quien no lo haya entregado,
   figurará como "no superado" hasta la convocatoria extraordinaria.
-- También ha terminado el plazo de superación *aconsejado* del objetivo 0.
 
+## Plazos esta semana
+
+- Termina el plazo de entrega del objetivo 1.
+- Termina el plazo aconsejado de *superación* del objetivo 1.
+- Termina el plazo de superación del objetivo 0.
 
 ## Objetivos alcanzados hasta ahora
 
 ```text
-  0 🧮: 10%🚧 42%✅ 47%❌ ⇒ 
-     🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 1 🧮: 10%🚧  0%✅ 89%❌ ⇒ 
-     🚧 🚧
+ 0 🧮:  0%🚧 55%✅ 44%❌ ⇒ 
      
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 44%🚧  5%✅ 50%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
 ## Material de la asignatura
@@ -30,18 +34,17 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
 
-## Clase 2 de octubre
+## Clase 9 de octubre
 
-* Para *quien no haya entregado el objetivo 0*: puesta al día, revisión de
-  obstáculos, y entrega del objetivo lo antes posible. Todavía se puede entregar
-  para la convocatoria extraordinaria.
 * Para *quien no haya superado el objetivo 0*: revisión de errores frecuentes, y entrega lo antes posible.
-* Revisión de conceptos del [objetivo 1](http://jj.github.io/IV/documentos/proyecto/1.Planificacion).
+* Para quien no haya entregado el [objetivo
+  1](http://jj.github.io/IV/documentos/proyecto/1.Planificacion).
+* Para quien no haya superado el objetivo 1, solventar problemas y dudas.
 * Introducción al [objetivo 2 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo) y sus conceptos
   más importantes, como *domain driven design*.
 
-### Clase 3 de octubre
+### Clase 10 de octubre
 
 **Sigue siendo obligatoria**
 
@@ -49,7 +52,9 @@ En el hackatón continuaremos viendo el concepto de milestone y de buenas
 prácticas en el código.
 
 - Comenzaremos a ver *domain driven design*.
-- También cómo seguir trabajando con *issues*.
+- También cómo seguir trabajando con issues
+
+La segunda parte de la clase se dedicará a seguir con el objetivo 1.
 
 ## Errores frecuentes
 
@@ -58,4 +63,4 @@ tratar de evitarlos.
 
 ## Otras sesiones
 
-[Semana anterior](semana-02.md) y [siguiente](semana-04.md)
+[Semana anterior](semana-03.md) y [siguiente](semana-05.md)
