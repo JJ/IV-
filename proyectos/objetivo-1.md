@@ -13,7 +13,7 @@ iniciales.
 | <!-- Enlace de nachoescalona -->                                                          |         |           |
 | [Enlace de Óscar Fernández](https://github.com/oscar0310/IV25-26/pull/6)                  | v0.1.1  | ✓         |
 | <!-- Enlace de G G J Á -->                                                                |         |           |
-| [Enlace de gosema](https://github.com/gosema/IV/pull/6)                                   | v0.1.2  |           |
+| [Enlace de gosema](https://github.com/gosema/IV/pull/6)                                   | v0.1.2  | ✓         |
 | [PR de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/5)             | v0.1.1  |           |
 | <!-- Enlace de L C L -->                                                                  |         |           |
 | [PR de jorgelopez-ugr](https://github.com/jorgelopez-ugr/Fermater/pull/3)                 | v0.1.3  | ✓         |
