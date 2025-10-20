@@ -5,8 +5,7 @@
 | gosema             | jacarmona364             |
 | jacarmona364       | GabrielFranciscoSM       |
 | chelunike          | jvrqc                    |
-| gabrielherreraloz  | oscar0310                |
-| GabrielFranciscoSM | chelunike                |
+| GabrielFranciscoSM | oscar0310                |
 | jorgelopez-ugr     | gosema                   |
 
 
