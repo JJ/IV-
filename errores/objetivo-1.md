@@ -1,3 +1,10 @@
+# Error en todos los objetivos a partir de este
+
+- Los comentarios tienen que resolverse *siempre* con un cambio en la línea
+  indicada, porque si hay un comentario, es porque hay alguna cosa adicional que
+  hay que considerar o bien lo que se ha explicado no se ha hecho con suficiente
+  claridad y por eso no lo entiende quien revisa.
+
 # Errores frecuentes objetivo 1
 
 El principal error es no entender bien el concepto de "producto". No es *lo que
