@@ -18,3 +18,9 @@ aplicación que se supone que hay que hacer, será erróneo.
   correctas o no*, por no mencionar que conviene no usar expresiones o palabras
   que no se sabe qué significan para describir un producto.
 
+- En general, en este objetivo y en todos los demás, los comentarios van
+  encaminados a que el estudiante considere diferentes alternativas *y cambie el
+  contenido donde se ha hecho*. Justificar lo que se ha hecho en general no es
+  buena idea, porque o no se han considerado otras alternativas, o no se ha
+  explicado bien lo que se ha hecho y por qué. El principio de "el revisor
+  siempre tiene razón" se aplica aquí prácticamente sin excepciones.
