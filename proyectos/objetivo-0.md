@@ -24,5 +24,5 @@ iniciales.
 | <!-- Enlace de S H G -->                                                  |         |           |
 | <!-- Enlace de V H -->                                                    |         |           |
 | <!-- Enlace de V G H -->                                                  |         |           |
-| <!-- Enlace de xingxingyulang -->                                                    |         |           |
+| <!-- Enlace de xingxingyulang -->                                         |         |           |
 
