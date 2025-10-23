@@ -19,7 +19,6 @@ iniciales.
 | <!-- Enlace de M S D L L -->                                              |         |           |
 | [chelunike](https://github.com/chelunike/didactic-chainsaw/pull/1)        | v0.0.4  | ✓         |
 | [PR Valentín Pedrosa](https://github.com/vpedrosa/map-analyzer/pull/1)    | v0.0.2  | ✓         |
-| [PR0JQC](https://github.com/jvrqc/practIV/pull/1)                         | v0.0.1  | ✓         |
 | [Pull Request](https://github.com/GabrielFranciscoSM/practicas-IV/pull/1) | v0.0.1  | ✓         |
 | <!-- Enlace de S H G -->                                                  |         |           |
 | <!-- Enlace de V H -->                                                    |         |           |
