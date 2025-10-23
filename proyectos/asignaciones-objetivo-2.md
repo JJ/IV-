@@ -8,6 +8,7 @@
 | jorgelopez-ugr     | gosema                   |
 | gabrielherreraloz  | jorgelopez-ugr           |
 | chelunike          | gabrielherreraloz        |
+| oscar0310          | chelunike                |
 
 
 
