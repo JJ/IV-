@@ -279,6 +279,7 @@ jobs:
             const {objetivo_msg, all_good, sorry, compruebaYFalla } = require("./lib/mensajes.js")
             const milestone = process.env.pr_milestone
             compruebaYFalla(
+              core,
               milestone === "",
               "El PR tiene que estar asignado a un milestone",
               `PR asignado al milestone ${milestone}`
