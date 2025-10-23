@@ -24,5 +24,5 @@ iniciales.
 | <!-- Enlace de S H G -->                                                  |         |           |
 | <!-- Enlace de V H -->                                                    |         |           |
 | <!-- Enlace de V G H -->                                                  |         |           |
-| [PR XL](https://github.com/xingxingyulang/Virtual-Infrastructure/pull/1)  | v0.0.2  | ✓         |
+| [PR XL](https://github.com/xingxingyulang/Virtual-Infrastructure/pull/1)  | v0.0.2  |          |
 
