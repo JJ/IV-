@@ -52,7 +52,7 @@ method new() {
 }
 
 method entregas-de( Int $objetivo, Str $estudiante ){
-q    return @!fechas-entregas[$objetivo]{$estudiante};
+    return @!fechas-entregas[$objetivo]{$estudiante};
 }
 
 method to-CSV() {
