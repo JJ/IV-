@@ -6,7 +6,7 @@
 | <!-- Enlace de nachoescalona -->                                            |         |           |
 | <!-- Enlace de oscar0310 -->                                                |         |           |
 | <!-- Enlace de G G J Á -->                                                  |         |           |
-| <!-- Enlace de gosema -->                                                   |         |           |
+| [Enlace de gosema](https://github.com/jacarmona364/UniFit/pull/6)           | v.0.2.1 |           |
 | <!-- Enlace de gabrielherreraloz -->                                        |         |           |
 | <!-- Enlace de L C L -->                                                    |         |           |
 | <!-- Enlace de jorgelopez-ugr -->                                           |         |           |
