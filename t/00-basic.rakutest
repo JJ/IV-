@@ -22,7 +22,7 @@ if @objetivos-cumplidos[0].elems > 0 {
             $max-objetivo, "Objetivos hechos");
 
     my $entregas = $stats.entregas-de($estudiante);
-    say $entregas;
+    say "Entregas $entregas";
     cmp-ok($stats.entregas-de($estudiante),
             ">=", $max-objetivo,
             "Entregas hechas");
