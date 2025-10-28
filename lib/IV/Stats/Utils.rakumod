@@ -19,9 +19,9 @@ multi sub lista-estudiantes(Str $file where { $_.IO.e } = "{ PROYECTOS }usuarios
 
 sub asignaciones-objetivo2()  is export returns Associative {
     my @asignaciones = "{ ASIGNACIONES }".IO.lines[4 ..*];
-
     my %asignaciones;
     for @asignaciones -> $line {
+        next unless $line;
         my ($programador,$product-manager) = $line.split(/\s* "|" \s*/)[1, 2];
         %asignaciones{$product-manager} = $programador;
     }

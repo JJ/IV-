@@ -7,7 +7,7 @@ use JSON::Fast;
 
 my $cumplidos-objetivo1 = Set(IV::Stats.new.objetivos-cumplidos[1]);
 
-my @asignaciones = IV::Stats::ASIGNACIONES.IO.lines[4..*];
+my @asignaciones = IV::Stats::Utils::ASIGNACIONES.IO.lines[4..*];
 
 my $programadores = ∅;
 my $product-managers = ∅;
