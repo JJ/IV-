@@ -7,7 +7,7 @@ my @objetivos = $stats.objetivos();
 for @objetivos -> $objetivo {
     my $content = "proyectos/objetivo-$objetivo.md".IO.slurp;
     my @versiones = $content.split("\n").grep(/"|" \s+ "v"/);
-    my @entregas = $stats.hecha-entrega($objetivo);
-    cmp-ok(@entregas[0].elems, "==", @versiones.elems, "Número de entregas correcto");
+    my $entregas = $stats.hecha-entrega($objetivo);
+    cmp-ok($entregas.elems, "==", @versiones.elems, "Número de entregas correcto");
 }
 done-testing;
