@@ -25,13 +25,11 @@ method new(Str $file = "{ PROYECTOS }usuarios.md") {
         my $contenido = $f.IO.slurp();
         my %estado-objetivos =
                 estado-objetivos( @student-list, $contenido, $objetivo );
-        say "Estado objetivos $objetivo: ", %estado-objetivos;
         @objetivos[$objetivo] = set();
         @entregas[$objetivo] = set();
         for @student-list -> $usuario {
             my $estado-objetivo = %estado-objetivos{$usuario};
             next unless $estado-objetivo.defined;
-            say "Estado objetivo $usuario: $estado-objetivo";
 
             if $estado-objetivo<estado> == CUMPLIDO  {
                 %students{$usuario}<objetivos> ∪= +$objetivo;
@@ -44,7 +42,12 @@ method new(Str $file = "{ PROYECTOS }usuarios.md") {
             %versiones{$usuario} = $estado-objetivo<version>;
         }
     }
-    say "Students ", %students;
+    for %students.values -> %student {
+        %student<entrega> = %student<entrega> // 0;
+        if %student<entrega> < %student<objetivos>  {
+            %student<entrega> = %student<objetivos>;
+        }
+    }
     self.bless(:@student-list, :%students, :@objetivos, :@entregas, :%versiones);
 }
 
@@ -55,7 +58,6 @@ method objetivos-de(Str $user) {
 }
 
 method entregas-de(Str $user) {
-    say "Entregas de $user: ", %!students{$user};
     return %!students{$user}<entrega>;
 }
 

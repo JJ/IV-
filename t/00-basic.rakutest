@@ -9,19 +9,15 @@ ok( $stats, "Can create object");
 my @objetivos-cumplidos = $stats.objetivos-cumplidos();
 if @objetivos-cumplidos[0].elems > 0 {
     my @max-estudiantes = @objetivos-cumplidos.max;
-    say @max-estudiantes;
     my $max-objetivo = @objetivos-cumplidos.elems - 1;
-    say $max-objetivo;
     my $estudiante = @max-estudiantes[0][0];
 
     my $objetivos = $stats.objetivos-de($estudiante);
-    say $objetivos;
     cmp-ok($stats.objetivos-de($estudiante).elems,
             ">=",
             $max-objetivo, "Objetivos hechos");
 
     my $entregas = $stats.entregas-de($estudiante);
-    say "Entregas $entregas";
     cmp-ok($stats.entregas-de($estudiante),
             ">=", $max-objetivo,
             "Entregas hechas");
