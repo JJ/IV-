@@ -7,7 +7,7 @@
 | <!-- Enlace de oscar0310 -->                                                |         |           |
 | <!-- Enlace de G G J Á -->                                                  |         |           |
 | [Enlace de gosema](https://github.com/jacarmona364/UniFit/pull/6)           | v0.2.3  |           |
-| <!-- Enlace de gabrielherreraloz -->                                        |         |           |
+|[PR de gabrielherreraloz](https://github.com/jorgelopez-ugr/Fermater/pull/11)| v0.2.1  |           |
 | <!-- Enlace de L C L -->                                                    |         |           |
 | <!-- Enlace de jorgelopez-ugr -->                                           |         |           |
 | <!-- Enlace de M S D L L -->                                                |         |           |
