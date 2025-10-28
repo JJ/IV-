@@ -1,0 +1,13 @@
+# Check that the number of entregas is the same as the number of version strings for every existing objective file proyectos/objetivo-xxx.md
+use Test;
+use IV::Stats;
+
+my $stats = IV::Stats.new;
+my @objetivos = $stats.objetivos();
+for @objetivos -> $objetivo {
+    my $content = "proyectos/objetivo-$objetivo.md".IO.slurp;
+    my @versiones = $content.split("\n").grep(/"|" \s+ "v"/);
+    my @entregas = $stats.hecha-entrega($objetivo);
+    cmp-ok(@entregas[0].elems, "==", @versiones.elems, "Número de entregas correcto");
+}
+done-testing;
