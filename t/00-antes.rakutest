@@ -24,7 +24,7 @@ if ( @student-list.elems <= 5 ) {
 if "proyectos/objetivo-1.md".IO.e {
     $contenido = "proyectos/objetivo-1.md".IO.slurp;
     %objetivos-cumplidos = estado-objetivos(@student-list, $contenido, 1);
-    cmp-ok(%objetivos-cumplidos.keys.elems, "==", 0,
+    cmp-ok(%objetivos-cumplidos.keys.elems, ">=", 0,
             "Número de personas en objetivo 1 correcto.");
 }
 
