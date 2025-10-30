@@ -43,6 +43,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * Introducción al [objetivo 3 del
   proyecto](https://jj.github.io/IV/documentos/proyecto/3.Automatizar). Se
   aconseja que se comience de forma simultánea al segundo.
+- Empleo de gestores de versiones.
 
 ### Clase 31 de octubre
 
@@ -55,8 +56,8 @@ objetivo 2:
 - Comenzaremos a ver *domain driven design*.
 - También cómo seguir trabajando con issues.
 - Adaptación del repositorio para el uso de IA
-- Empleo de gestores de versiones.
-- Descargar el CLI de Github.
+- Descargar el CLI de Github y ver un ejemplo de como trabajar en un PR que haya
+  hecho otra persona.
 
 ## Otras sesiones
 
