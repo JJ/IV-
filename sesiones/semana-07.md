@@ -55,12 +55,8 @@ objetivo 2:
 - Comenzaremos a ver *domain driven design*.
 - También cómo seguir trabajando con issues.
 - Adaptación del repositorio para el uso de IA
-- Empleo de gestores de código
+- Empleo de gestores de versiones.
 - Descargar el CLI de Github.
-
-La segunda parte de la clase se dedicará a comenzar con el objetivo 2.
-
-
 
 ## Otras sesiones
 
