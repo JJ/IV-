@@ -14,7 +14,7 @@
 | <!-- Enlace de chelunike -->          |         |           |
 | <!-- Enlace de vpedrosa -->           |         |           |
 | <!-- Enlace de jvrqc -->              |         |           |
-| <!-- Enlace de GabrielFranciscoSM --> |         |           |
+| [Enlace de GabrielFranciscoSM](https://github.com/GabrielFranciscoSM/practicas-IV/pull/18) | v0.3.1  |           |
 | <!-- Enlace de S H G -->              |         |           |
 | <!-- Enlace de V H -->                |         |           |
 | <!-- Enlace de V G H -->              |         |           |
