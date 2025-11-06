@@ -33,7 +33,7 @@
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
-* [Objetivo 3 del proyecto](https://jj.github.io/IV/documentos/proyecto/3.Automatizar). 
+* [Objetivo 3 del proyecto](https://jj.github.io/IV/documentos/proyecto/3.Automatizar).
 * Introducción al [objetivo 4 del proyecto](https://jj.github.io/IV/documentos/proyecto/4.Tests)
 
 ## Clase del 7 de noviembre
