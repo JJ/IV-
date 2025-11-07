@@ -25,4 +25,4 @@ iniciales.
 | <!-- Enlace de S H G -->                                                                  |         |           |
 | <!-- Enlace de V H -->                                                                    |         |           |
 | <!-- Enlace de V G H -->                                                                  |         |           |
-| [PR Yl](https://github.com/xingxingyulang/Virtual-Infrastructure/pull/2#issue-3597514580) | v0.1.1  | ✓         |
+| [PR Yl](https://github.com/xingxingyulang/Virtual-Infrastructure/pull/2)                  | v0.1.1  | ✓         |
