@@ -38,9 +38,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 ## Clase del 7 de noviembre
 
-Última semana de obligatoriedad de asistencia. Se valorará que se siga
-asistiendo, y seguiremos trabajando con el hackatón.
-- Esta semana empezaremos con DDD.
+La dedicaremos sobre todo al objetivo 2 y al 3
 
 ## Otras sesiones
 
