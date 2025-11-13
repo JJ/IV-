@@ -18,7 +18,7 @@
      ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
  ```
 
-## Clase 13 de noviembre
+## Clase 13 y 14 de noviembre
 
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
@@ -28,9 +28,10 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * [Objetivo 3 del proyecto](https://jj.github.io/IV/documentos/proyecto/3.Automatizar).
 * Introducción al [objetivo 4 del proyecto](https://jj.github.io/IV/documentos/proyecto/4.Tests)
 
-## Clase del 14 de noviembre
-
-O hackatón u objetivo 3-4, como se prefiera.
+Como objetivos específicos:
+* Entender bien como funciona domain driven design.
+* Entender bien como entregar el 4.
+* Entregar el objetivo 3.
 
 ## Otras sesiones
 
