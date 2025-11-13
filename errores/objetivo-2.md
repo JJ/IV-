@@ -7,6 +7,10 @@
 
 # Errores frecuentes objetivo 2
 
+- Si no está asignado a ninguna historia de usuario, un issue es incorrecto y lo
+  único razonable que se puede hacer con él es cerrarlo y descartar todo código
+  que se haya creado con él.
+
 - Lo primero que hay que mirar son los issues que se creen, porque son
   parte de la metodología que hay que hacer correctamente para que
   este producto sea válido.
