@@ -10,3 +10,9 @@
 - Hay que proporcinar criterios objetivos para cada una de las herramientas que
   hay que elegir, y listar *todas* las opciones disponibles para cada uno de
   ellos.
+
+- Tratad de evitar todo tipo de información irrelevante en la
+  elección; no metáis criterios aleatorios (como "compatibilidad" o
+  "sintaxis") ni nada por el estilo. En general, pensad en la persona
+  que tiene que revisarlo para entender el proceso que habéis seguido
+  para llevar a cabo la elección.
