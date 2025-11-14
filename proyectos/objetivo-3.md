@@ -9,7 +9,7 @@
 | [Enlace de gosema](https://github.com/gosema/IV/pull/15)             |  v0.3.2       |           |
 | [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/14)  |   v0.3.1      |           |
 | <!-- Enlace de L C L -->              |         |           |
-| [Enlace de jorgelpz](https://github.com/jorgelopez-ugr/Fermater/pull/22)     |   v0.3.2  |           |
+| [Enlace de jorgelpz](https://github.com/jorgelopez-ugr/Fermater/pull/22)     |   v0.3.3  |           |
 | <!-- Enlace de M S D L L -->          |         |           |
 | <!-- Enlace de chelunike -->          |         |           |
 | <!-- Enlace de vpedrosa -->           |         |           |
