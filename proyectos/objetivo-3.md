@@ -7,7 +7,7 @@
 | <!-- Enlace de oscar0310 -->          |         |           |
 | <!-- Enlace de G G J Á -->            |         |           |
 | [Enlace de gosema](https://github.com/gosema/IV/pull/15)             |  v0.3.2       |           |
-| [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/14)  |   v0.3.1      |           |
+| [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/14)  |   v0.3.1      |     ✓      |
 | <!-- Enlace de L C L -->              |         |           |
 | <!-- Enlace de jorgelopez-ugr -->     |         |           |
 | <!-- Enlace de M S D L L -->          |         |           |
