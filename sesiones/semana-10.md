@@ -35,9 +35,8 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * Introducción al [objetivo 4 del proyecto](https://jj.github.io/IV/documentos/proyecto/4.Tests)
 
 Como objetivos específicos:
-* Entender bien como funciona domain driven design.
-* Entender bien como entregar el 4.
-* Entregar el objetivo 3.
+* Terminar el objetivo 2 y entender lo que falte.
+* Entregar el objetivo 3 quien quede.
 
 ## Otras sesiones
 
