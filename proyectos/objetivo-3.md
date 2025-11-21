@@ -6,7 +6,7 @@
 | <!-- Enlace de nachoescalona -->                                                           |         |           |
 | [Enlace de oscar0310](https://github.com/oscar0310/IV25-26/pull/25)                        | v0.3.1  |           |
 | <!-- Enlace de G G J Á -->                                                                 |         |           |
-| [Enlace de gosema](https://github.com/gosema/IV/pull/15)                                   | v0.3.2  |           |
+| [Enlace de gosema](https://github.com/gosema/IV/pull/15)                                   | v0.3.2  |   ✓       |
 | [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/14)         | v0.3.1  |           |
 | <!-- Enlace de L C L -->                                                                   |         |           |
 | [Enlace de jorgelpz](https://github.com/jorgelopez-ugr/Fermater/pull/22)                   | v0.3.6  |           |
