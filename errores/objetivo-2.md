@@ -23,3 +23,8 @@
   que sean restricciones a otras cosas, cosas que sean en realidad
   funciones o entradas a la lógica de negocio o cosas que sean
   simplemente irrelevantes.
+
+- Si no habéis seguido correctamente domain driven design, no tendréis una
+  entidad. Si en el modelo hecho no sabéis decir qué es una entidad, no habréis
+  aprendido correctamente el concepto, pero sobre todo no podréis trabajar con
+  él más adelante.
