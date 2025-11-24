@@ -28,3 +28,9 @@
   entidad. Si en el modelo hecho no sabéis decir qué es una entidad, no habréis
   aprendido correctamente el concepto, pero sobre todo no podréis trabajar con
   él más adelante.
+
+- En general, crear una clase con un solo atributo es algo que habría que
+  replantearse muy seriamente. ¿Qué aporta, aparte de un cambio de nombre?
+  ¿Podría solucionarse con un simple atributo de otra clase que se llamara de la
+  misma forma? ¿Encapsular un array o incluso una variable merece la pena por
+  alguna razón?
