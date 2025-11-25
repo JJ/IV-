@@ -4,7 +4,7 @@
 |-------------------------------------------------------------------------------------|---------|-----------|
 | [Enlace de jacarmona364](https://github.com/GabrielFranciscoSM/practicas-IV/pull/9) | v0.2.4  |           |
 | <!-- Enlace de nachoescalona -->                                                    |         |           |
-| [Enlace de oscar0310](https://github.com/chelunike/didactic-chainsaw/pull/10)       | v0.2.1  |           |
+| [Enlace de oscar0310](https://github.com/chelunike/didactic-chainsaw/pull/10)       | v0.2.1  | ✓         |
 | <!-- Enlace de G G J Á -->                                                          |         |           |
 | [Enlace de gosema](https://github.com/jacarmona364/UniFit/pull/6)                   | v0.2.3  |           |
 | [PR de gabrielherreraloz](https://github.com/jorgelopez-ugr/Fermater/pull/11)       | v0.2.1  |           |
