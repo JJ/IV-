@@ -13,7 +13,7 @@
 | <!-- Enlace de M S D L L -->                                                        |         |           |
 | [Enlace de chelunike](https://github.com/gabrielherreraloz/IV-GHL/pull/8)           | v0.2.3  |           |
 | [Enlace de vpedrosa](https://github.com/vpedrosa/wave-planner/pull/40)              | v0.2.1  |           |
-| [Enlace de Gabrielfranciscosm](https://github.com/oscar0310/IV25-26/pull/8)         | v0.2.4  |           |
+| [Enlace de Gabrielfranciscosm](https://github.com/oscar0310/IV25-26/pull/8)         | v0.2.4  | ✓         |
 | <!-- Enlace de S H G -->                                                            |         |           |
 | <!-- Enlace de V H -->                                                              |         |           |
 | <!-- Enlace de V G H -->                                                            |         |           |
