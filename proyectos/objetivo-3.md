@@ -10,12 +10,9 @@
 | [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/14)         | v0.3.1  |           |
 | <!-- Enlace de L C L -->                                                                   |         |           |
 | [Enlace de jorgelpz](https://github.com/jorgelopez-ugr/Fermater/pull/22)                   | v0.3.6  |           |
-| <!-- Enlace de M S D L L -->                                                               |         |           |
 | <!-- Enlace de chelunike -->                                                               |         |           |
 | <!-- Enlace de vpedrosa -->                                                                |         |           |
-| <!-- Enlace de jvrqc -->                                                                   |         |           |
 | [Enlace de GabrielFranciscoSM](https://github.com/GabrielFranciscoSM/practicas-IV/pull/18) | v0.3.1  | ✓         |
 | <!-- Enlace de S H G -->                                                                   |         |           |
 | <!-- Enlace de V H -->                                                                     |         |           |
 | <!-- Enlace de V G H -->                                                                   |         |           |
-| <!-- Enlace de Y L -->                                                                     |         |           |

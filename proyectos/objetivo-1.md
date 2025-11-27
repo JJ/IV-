@@ -17,12 +17,10 @@ iniciales.
 | [PR de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/5)             | v0.1.1  | ✓         |
 | <!-- Enlace de L C L -->                                                                  |         |           |
 | [PR de jorgelopez-ugr](https://github.com/jorgelopez-ugr/Fermater/pull/3)                 | v0.1.3  | ✓         |
-| <!-- Enlace de M S D L L -->                                                              |         |           |
 | [Enlace de chelunike :)](https://github.com/chelunike/didactic-chainsaw/pull/4)           | v0.1.6  | ✓         |
 | [PR Valentín Pedrosa](https://github.com/vpedrosa/wave-planner/pull/33)                   | v0.1.1  | ✓         |
 | [Enlace de gabrielfranciscosm](https://github.com/GabrielFranciscoSM/practicas-IV/pull/7) | v0.1.1  | ✓         |
 | <!-- Enlace de S H G -->                                                                  |         |           |
 | <!-- Enlace de V H -->                                                                    |         |           |
 | <!-- Enlace de V G H -->                                                                  |         |           |
-| <!-- Enlace de xingxingyulang -->                                                         |         |           |
 
