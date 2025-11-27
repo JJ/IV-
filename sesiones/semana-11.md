@@ -4,10 +4,21 @@
 ## Objetivos alcanzados hasta ahora
 
 ```text
-
+2 🧮: 25%🚧 18%✅ 56%❌ ⇒ 
+     🚧 🚧 🚧 🚧
+     ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 3 🧮: 25%🚧 12%✅ 62%❌ ⇒ 
+     🚧 🚧 🚧 🚧
+     ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 4 🧮:  6%🚧  0%✅ 93%❌ ⇒ 
+     🚧
+     
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
  ```
 
-## Clases 20 y 21 de noviembre
+## Clases 27 y 28 de noviembre
 
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
@@ -15,7 +26,8 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * Introducción al [objetivo 4 del proyecto](https://jj.github.io/IV/documentos/proyecto/4.Tests)
 
 Como objetivos específicos:
-* Superar el objetivo 2
+* Superar el objetivo 2, incluyendo *comenzar el objetivo 4* en casos en los que
+  haya dudas.
 * Trabajar en el objetivo 3.
 
 ## Otras sesiones
