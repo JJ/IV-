@@ -7,7 +7,7 @@
 | <!-- Enlace de oscar0310 -->                                                               |         |           |
 | <!-- Enlace de G G J Á -->                                                                 |         |           |
 | <!-- Enlace de gosema -->                                                                  |         |           |
-| <!-- Enlace de gabrielherreraloz -->                                                       |         |           |
+| [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/17)         | v0.4.1  |           |
 | <!-- Enlace de L C L -->                                                                   |         |           |
 | [Enlace de jorgelopez-ugr](https://github.com/jorgelopez-ugr/Fermater/pull/27)             | v0.4.2  |           |
 | <!-- Enlace de chelunike -->                                                               |         |           |
