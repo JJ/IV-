@@ -6,8 +6,8 @@
 
 
 * Superación *aconsejada* del objetivo 4.
-* Superación del objetivo 2 *en convocatoria extraordinaria*
-* Entrega del objetivo 3 *en convocatoria extraordinaria*
+* Superación del objetivo 2 *en convocatoria extraordinaria*.
+* Entrega del objetivo 3 *en convocatoria extraordinaria*.
 
 ## Objetivos alcanzados hasta ahora
 
