@@ -11,7 +11,7 @@
 | <!-- Enlace de L C L -->                                                                   |         |           |
 | [Enlace de jorgelpz](https://github.com/jorgelopez-ugr/Fermater/pull/22)                   | v0.3.6  | ✓         |
 | [Enlace de chelunike](https://github.com/chelunike/didactic-chainsaw/pull/15)              | v0.3.2  |           |
-| [Enlace de vpedrosa](https://github.com/vpedrosa/wave-planner/pull/66)                     | v0.3.1  |           |
+| [Enlace de vpedrosa](https://github.com/vpedrosa/wave-planner/pull/66)                     | v0.3.2  |           |
 | [Enlace de GabrielFranciscoSM](https://github.com/GabrielFranciscoSM/practicas-IV/pull/18) | v0.3.1  | ✓         |
 | <!-- Enlace de S H G -->                                                                   |         |           |
 | <!-- Enlace de V H -->                                                                     |         |           |
