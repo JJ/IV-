@@ -10,7 +10,7 @@
 | [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/14)         | v0.3.1  |   ✓       |
 | <!-- Enlace de L C L -->                                                                   |         |           |
 | [Enlace de jorgelpz](https://github.com/jorgelopez-ugr/Fermater/pull/22)                   | v0.3.6  | ✓         |
-| <!-- Enlace de chelunike -->                                                               |         |           |
+| [Enlace de chelunike](https://github.com/chelunike/didactic-chainsaw/pull/15)              | v0.3.1  |           |
 | <!-- Enlace de vpedrosa -->                                                                |         |           |
 | [Enlace de GabrielFranciscoSM](https://github.com/GabrielFranciscoSM/practicas-IV/pull/18) | v0.3.1  | ✓         |
 | <!-- Enlace de S H G -->                                                                   |         |           |
