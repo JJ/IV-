@@ -34,6 +34,8 @@ Se trabaja en los objetivos siguientes:
 * [Objetivo 5](https://jj.github.io/IV/documentos/proyecto/5.Docker), el último que hace
 falta para superar la asignatura.
 
+Si alguien lo desea, se explica el objetivo 6; el 7 no sé si merece la pena.
+
 ## Otras sesiones
 
 [Semana anterior](semana-13.md)
