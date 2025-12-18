@@ -6,7 +6,7 @@
 | <!-- Enlace de nachoescalona -->      |         |           |
 | <!-- Enlace de oscar0310 -->          |         |           |
 | <!-- Enlace de G G J Á -->            |         |           |
-| [Enlace de gosema](https://github.com/gosema/IV/pull/39)            |    v0.5.1     |           |
+| [Enlace de gosema](https://github.com/gosema/IV/pull/39)            |    v0.5.2     |           |
 | [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/26)  | v0.5.1  |           |
 | <!-- Enlace de L C L -->              |         |           |
 | <!-- Enlace de jorgelopez-ugr -->     |         |           |
