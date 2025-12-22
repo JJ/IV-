@@ -14,3 +14,7 @@
 
 - No se debe pensar en la implementación hasta que se hayan planteado
   bien todos los issues. Y recordad que un issue debe ser un problema.
+
+- Definir bien los errores es fundamental; hay que tener en cuenta que
+  en los tests se debe de testear también el "camino infeliz", es
+  decir, caso en que ocurra algún error o la entrada sea incorrecta.
