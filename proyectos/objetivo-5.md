@@ -12,7 +12,7 @@
 | [Enlace de jorgelopez-ugr](https://github.com/jorgelopez-ugr/Fermater/pull/52)             | v0.5.6  |           |
 | <!-- Enlace de chelunike -->                                                               |         |           |
 | <!-- Enlace de vpedrosa -->                                                                |         |           |
-| [Enlace de GabrielFranciscoSM](https://github.com/GabrielFranciscoSM/practicas-IV/pull/51) | v0.5.3  |           |
+| [Enlace de GabrielFranciscoSM](https://github.com/GabrielFranciscoSM/practicas-IV/pull/51) | v0.5.3  | ✓         |
 | <!-- Enlace de S H G -->                                                                   |         |           |
 | <!-- Enlace de V H -->                                                                     |         |           |
 | <!-- Enlace de V G H -->                                                                   |         |           |
