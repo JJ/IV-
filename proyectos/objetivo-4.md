@@ -11,7 +11,7 @@
 | <!-- Enlace de L C L -->                                                                   |         |           |
 | [Enlace de jorgelopez-ugr](https://github.com/jorgelopez-ugr/Fermater/pull/27)             | v0.4.2  |  ✓ 	             |
 | <!-- Enlace de chelunike -->                                                               |         |           |
-| <!-- Enlace de vpedrosa -->                                                                |         |           |
+| [Enlace de vpedrosa](https://github.com/vpedrosa/wave-planner/pull/74)                     | v0.4.1  |           |
 | [Enlace de GabrielFranciscoSM](https://github.com/GabrielFranciscoSM/practicas-IV/pull/30) | v0.4.1  | ✓         |
 | <!-- Enlace de S H G -->                                                                   |         |           |
 | <!-- Enlace de V H -->                                                                     |         |           |
