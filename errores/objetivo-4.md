@@ -7,6 +7,10 @@
 
 # Errores frecuentes objetivo 4
 
+- Crear un solo issue para "resolver la lógica de negocio" es un error bastante
+  grave, y normalmente conduce a una serie de iteraciones sin ningún tipo de
+  avance. Por favor, leed los siguientes errores comunes.
+
 - El mayor esfuerzo tiene que estar en la creación de los issues
   pensando siempre en el principio de responsabilidad única: cada
   función debe hacer una cosa y solo una. Así es más fácil de testear
