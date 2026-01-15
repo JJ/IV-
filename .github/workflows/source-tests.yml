@@ -314,6 +314,7 @@ jobs:
             const checks = await github.paginate( checks_before_pag)
             console.log( "Checks → ", checks)
             compruebaYFalla(
+              core,
               checks.length < 1 ,
               "No hay suficientes sistemas de CI configurados",
               "✅ Hay " + checks.length + " sistemas de CI configurados"
