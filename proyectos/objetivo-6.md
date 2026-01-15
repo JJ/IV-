@@ -11,7 +11,7 @@
 | <!-- Enlace de L C L -->              |         |           |
 | <!-- Enlace de jorgelopez-ugr -->     |         |           |
 | <!-- Enlace de chelunike -->          |         |           |
-| [Enlace de vpedrosa](https://github.com/vpedrosa/wave-planner/pull/89)  |  v0.6.2  |          |
+| [Enlace de vpedrosa](https://github.com/vpedrosa/wave-planner/pull/89)  |  v0.6.2  |         |
 | <!-- Enlace de GabrielFranciscoSM --> |         |           |
 | <!-- Enlace de S H G -->              |         |           |
 | <!-- Enlace de V H -->                |         |           |
