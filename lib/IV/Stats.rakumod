@@ -106,7 +106,7 @@ method percentiles() {
 
 method notas(--> Seq) {
     return gather for @!student-list -> $u {
-        take self.nota-de($u) * 7;
+        take self.nota-de($u) * 6.5 ~ " · " ~self.nota-de($u) * 7;
     }
 }
 
