@@ -291,7 +291,7 @@ jobs:
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
-            const {objetivo_msg, all_good, sorry } = require("./lib/mensajes.js")
+            const {objetivo_msg, all_good, sorry, compruebaYFalla } = require("./lib/mensajes.js")
             const { user, repo, rama } = process.env
             console.log( objetivo_msg(6) )
             console.log( "» Analizando repo " + repo + " del usuario 🔥" + user )
