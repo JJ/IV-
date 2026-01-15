@@ -316,7 +316,7 @@ jobs:
             compruebaYFalla(
               checks.length < 1 ,
               "No hay suficientes sistemas de CI configurados",
-              "✅ Hay " + checks.length + " sistemas de CI configurados")
+              "✅ Hay " + checks.length + " sistemas de CI configurados"
             );
             const green_checks = checks.filter( check => check.conclusion === "success" )
             if ( !green_checks.length ) {
