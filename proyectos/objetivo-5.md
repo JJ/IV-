@@ -2,7 +2,7 @@
 
 | URL                                                                                        | Versión | Alcanzado |
 |--------------------------------------------------------------------------------------------|---------|-----------|
-| [Enlace de jacarmona364](https://github.com/jacarmona364/UniFit/pull/43)                   | v0.5.21 |           |
+| [Enlace de jacarmona364](https://github.com/jacarmona364/UniFit/pull/43)                   | v0.5.22 |           |
 | <!-- Enlace de nachoescalona -->                                                           |         |           |
 | <!-- Enlace de oscar0310 -->                                                               |         |           |
 | <!-- Enlace de G G J Á -->                                                                 |         |           |
