@@ -55,7 +55,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 ## Clase separada 26 de septiembre.
 
-La asistencia al hackatón sighe siendo *obligatoria*. Se continúa el trabajo en
+La asistencia al hackatón sigue siendo *obligatoria*. Se continúa el trabajo en
 cada grupo, tras una breve reunión inicial. Conceptos fundamentales en esta
 sesión
 * *Milestone* o producto mínimamente viable
