@@ -4,7 +4,7 @@
 |--------------------------------------------------------------------------------------------|---------|-----------|
 | [Enlace de jacarmona364](https://github.com/jacarmona364/UniFit/pull/35)                   | v0.4.5  | ✓         |
 | <!-- Enlace de nachoescalona -->                                                           |         |           |
-| [Enlace oscar0210](https://github.com/oscar0310/IV25-26/pull/33)                           | v0.4.1  |           |
+| [Enlace oscar0210](https://github.com/oscar0310/IV25-26/pull/33)                           | v0.4.1  | ✓         |
 | <!-- Enlace de G G J Á -->                                                                 |         |           |
 | [Enlace de gosema](https://github.com/gosema/IV/pull/21)                                   | v0.4.2  | ✓         |
 | [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/17)         | v0.4.1  | ✓         |
