@@ -7,7 +7,7 @@
 | [Enlace de oscar0310](https://github.com/oscar0310/IV25-26/pull/49)                        | v0.5.1  |           |
 | <!-- Enlace de G G J Á -->                                                                 |         |           |
 | [Enlace de gosema](https://github.com/gosema/IV/pull/39)                                   | v0.5.2  | ✓         |
-| [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/26)         | v0.5.1  |           |
+| [Enlace de gabrielherreraloz](https://github.com/gabrielherreraloz/IV-GHL/pull/26)         | v0.5.1  | ✓         |
 | <!-- Enlace de L C L -->                                                                   |         |           |
 | [Enlace de jorgelopez-ugr](https://github.com/jorgelopez-ugr/Fermater/pull/52)             | v0.5.6  | ✓         |
 | <!-- Enlace de chelunike -->                                                               |         |           |
