@@ -10,6 +10,14 @@ el mes de diciembre. En las de teoría se explicará bajo demanda y se ayudará 
 estudiante a superar el objetivo, por lo que, sin ser obligatorias, es sumamente
 aconsejable que el estudiante asista a todas o en todo caso todas las posibles.
 
+## Fechas que recordar
+
+Según [el
+calendario](https://jj.github.io/IV/#pr%C3%A1cticas---actividades-acad%C3%A9micas-dirigidas-en-grupos-divididos),
+el objetivo 0 tiene que entregarse la próxima semana. Las fechas de entrega se
+entienden hasta las 11:59 del día de clase de esa semana; por ejemplo, el
+objetivo 0 pone la semana 1, esta semana termina el 24 de septiembre a las 11:59.
+
 ## Antes de la clase
 
 Se habrá recibido un correo electrónico con instrucciones y se habrá tenido que
@@ -69,18 +77,29 @@ durante las primeras 8 semanas de clase.
       piel](https://github.com/FlorinTodor/DermaIndex)
   * Se puede plantear otro que se considere interesante.
 
+#### Objetivos generales
+
+1. Entender los conceptos básicos del desarrollo moderno.
+2. Entender qué es un issue y cómo se usa
+3. Entender qué es un milestone o hito y cómo se usa
+4. Entender cómo se lleva a cabo la actividad de desarrollo en un repositorio.
+
+#### Secuencia
+
 Seguiremos la siguiente secuencia
 1. Elección de proyecto(s) por grupos de máximo 10 personas
 2. Alta en GitHub y en Telegram para quien no lo esté.
 3. Elección del lenguaje
-4. Creación del repositorio con previa elección del nombre del proyecto
-5. Creación de grupos de Telegram para gestionar el proyecto con bot de GitHub
-6. Usar un PR para añadir nombre y nick a lista de contribuidores.
-7. Reglas básicas del repositorio y tests para ellas.
-8. Publicación en páginas web
-9. Plantillas de issues y de PRs
-11. Establecimiento del layout del repositorio de acuerdo con el lenguaje y
-    buenas prácticas.
+4. Creación del repositorio con previa elección del nombre del proyecto → 🎯 4
+5. Creación de grupos de Telegram para gestionar el proyecto con bot de GitHub → 🎯 4
+6. Usar un PR para añadir nombre y nick a lista de contribuidores. → 🎯4
+7. Establecimiento del primer milestone → 🎯 3, 1
+8. Establecimiento de la prirmera historia de usuario → 🎯 2,4,1
+9. Reglas básicas del repositorio y tests para ellas. → 🎯 4
+10. Publicación en páginas web → 🎯 4
+11. Plantillas de issues y de PRs → 🎯 4,1
+12. Establecimiento del layout del repositorio de acuerdo con el lenguaje y
+    buenas prácticas. → 🎯 1
 
 
 ### Clase conjunta
