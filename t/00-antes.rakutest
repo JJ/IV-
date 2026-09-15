@@ -1,0 +1,41 @@
+#!/usr/bin/env raku
+
+# Use fixtures when real production data is not present
+BEGIN {
+    unless "proyectos/usuarios.md".IO.s > 100 {
+        %*ENV<IV_PROYECTOS> = "t/fixtures/proyectos/";
+    }
+}
+
+use Test;
+use IV::Stats::Utils;
+
+my @student-list = lista-estudiantes();
+my $contenido = (PROYECTOS ~ "objetivo-0.md").IO.slurp;
+constant OBJETIVO = 0;
+my %objetivos-cumplidos = estado-objetivos(
+        @student-list,
+        $contenido,
+        OBJETIVO );
+cmp-ok( %objetivos-cumplidos.keys.elems, ">", 0, "Objetivos cumplidos correctos" );
+
+my $primer-estudiante = %objetivos-cumplidos.keys()[0];
+cmp-ok( %objetivos-cumplidos{$primer-estudiante}<version>, ">=", v0.0.1);
+
+if (PROYECTOS ~ "objetivo-1.md").IO.e {
+    $contenido = (PROYECTOS ~ "objetivo-1.md").IO.slurp;
+    %objetivos-cumplidos = estado-objetivos(@student-list, $contenido, 1);
+    say %objetivos-cumplidos;
+    cmp-ok(%objetivos-cumplidos.keys.elems, ">=", 0,
+            "Número de personas en objetivo 1 correcto.");
+}
+
+if (PROYECTOS ~ "objetivo-9.md").IO.e {
+    $contenido = (PROYECTOS ~ "objetivo-9.md").IO.slurp;
+    %objetivos-cumplidos = estado-objetivos(@student-list, $contenido, 9);
+    cmp-ok(%objetivos-cumplidos.keys.elems, ">", 0,
+            "Número de personas en objetivo 9 correcto.");
+}
+
+done-testing;
+

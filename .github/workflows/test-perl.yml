@@ -1,0 +1,36 @@
+name: Perl tests
+
+on:
+  push:
+    paths:
+      - "**/*.pl"
+      - "**/*.pm"
+      - perl-tt/*.t
+      - .github/workflows/test-perl.yml
+      - test.cpanfile
+
+jobs:
+  build-in-container:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      matrix:
+        version:
+          - '5.32'
+          - '5.34'
+          - '5.38'
+
+    name: Test perl v${{ matrix.version }}
+    steps:
+      - uses: actions/checkout@v7
+      - name: install cpanm and multiple modules
+        uses: perl-actions/install-with-cpanm@v2
+        with:
+          cpanfile: test.cpanfile
+      - name: Regular tests with ${{ matrix.version }}
+        env:
+          PERL_VERSION: ${{ matrix.version }}
+        run: |
+          prove --exec "perl -Mv$PERL_VERSION" -lv perl-t/
+

@@ -1,0 +1,53 @@
+#!/usr/bin/env raku
+
+# Use fixtures when real production data is not present
+BEGIN {
+    unless "proyectos/usuarios.md".IO.s > 100 {
+        %*ENV<IV_PROYECTOS> = "t/fixtures/proyectos/";
+    }
+}
+
+use Test;
+use IV::Stats;
+
+my $stats = IV::Stats.new;
+
+ok( $stats, "Can create object");
+my @objetivos-cumplidos = $stats.objetivos-cumplidos();
+if @objetivos-cumplidos[0].elems > 0 {
+    my @max-estudiantes = @objetivos-cumplidos.max;
+    my $max-objetivo = @objetivos-cumplidos.elems;
+    my $estudiante = @max-estudiantes[0][0];
+
+    my $objetivos = $stats.objetivos-de($estudiante);
+    cmp-ok($stats.objetivos-de($estudiante).elems,
+            ">=",
+            $max-objetivo, "Objetivos hechos");
+
+    cmp-ok($stats.entregas-de($estudiante).elems,
+            "<=", $max-objetivo,
+            "Entregas hechas");
+    my $objetivo-previo = $max-objetivo > 0 ?? $max-objetivo - 1 !! $max-objetivo;
+    ok($estudiante ∈ $stats.cumple-objetivo($objetivo-previo),
+    "Conjuntos creados");
+    ok($estudiante ∈ $stats.hecha-entrega($max-objetivo), "Entregas hechas");
+    ok($stats.bajas-objetivos(0), "Devuelve bajas objetivos");
+
+    ok($stats.bajas-totales(0), "Devuelve bajas totales");
+    cmp-ok($stats.objetivos.elems, ">=", 0, "Objetivos hasta ahora");
+    cmp-ok($stats.estudiantes.elems, ">=", 1, "Estudiantes suficientes");
+
+    my %percentiles = $stats.percentiles();
+    for %percentiles.values -> $v {
+        cmp-ok($v, ">", 0, "$v es mayor que 0")
+    }
+}
+
+subtest {
+    my %versiones = $stats.versiones();
+    my $primer-estudiante = %versiones.keys()[0];
+    cmp-ok( %versiones{$primer-estudiante}, ">=", v0.0.1);
+} => "Version tests";
+
+done-testing;
+

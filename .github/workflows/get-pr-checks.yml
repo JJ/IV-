@@ -1,0 +1,74 @@
+name: Se han hecho las tareas previas al PR
+on:
+  pull_request:
+    types: [opened,edited]
+
+jobs:
+  get-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout now that we're using local libs
+        uses: actions/checkout@v7
+      - name: Comprobar que el título del PR contiene el prefijo requerido
+        id: check_title
+        # Prefijo configurable mediante la variable REQUIRED_TITLE_PREFIX
+        env:
+          REQUIRED_TITLE_PREFIX: '[IV-'
+        uses: actions/github-script@v9
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const required = process.env.REQUIRED_TITLE_PREFIX || '[IV-'
+            const title = (context.payload.pull_request && context.payload.pull_request.title) || ''
+            if (!title.includes(required)) {
+              core.setOutput('status', 'ERROR')
+              core.setOutput('message', `faltó el prefijo ${required}`)
+              core.warning(`Título del PR: falta el prefijo ${required}`)
+            } else {
+              core.setOutput('status', 'OK')
+              core.setOutput('message', '')
+            }
+
+      - name: Comprobaciones sobre el cuerpo del PR en este repositorio
+        id: check_body
+        uses: actions/github-script@v9
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const checklist = /\s*[-\*]\s+\[\s*([xX]?)\s*\]\s+([A-Z]*):?/gm
+            const body = context.payload.pull_request.body || ''
+            let match = checklist.exec(body)
+            let messages = []
+            while (match != null) {
+              let value = match[1] ? true : false
+              if ( value === false ) {
+                messages.push(`No has marcado ${match[2]}`)
+              }
+              match = checklist.exec(body)
+            }
+            if (messages.length > 0) {
+              core.setOutput('status', 'ERROR')
+              core.setOutput('message', messages.join('; '))
+              core.warning('👉 Es importante que sigáis la lista de comprobación en cada entrega')
+            } else {
+              core.setOutput('status', 'OK')
+              core.setOutput('message', '')
+            }
+
+      - name: Resumen de comprobaciones
+        uses: actions/github-script@v9
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const { generarResumen } = require('./lib/mensajes.js')
+            const tituloStatus = '${{ steps.check_title.outputs.status }}'
+            const tituloMsg = '${{ steps.check_title.outputs.message }}'
+            const bodyStatus = '${{ steps.check_body.outputs.status }}'
+            const bodyMsg = '${{ steps.check_body.outputs.message }}'
+
+            const resumen = generarResumen(tituloStatus, tituloMsg, bodyStatus, bodyMsg)
+            await core.summary.addRaw(resumen).write()
+
+            if (tituloStatus === 'ERROR' || bodyStatus === 'ERROR') {
+              core.setFailed('Uno o más checks fallaron.')
+            }

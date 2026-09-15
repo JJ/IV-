@@ -1,0 +1,31 @@
+name: "Testea código Raku"
+on:
+  push:
+    paths:
+      - "**/*.rakumod"
+      - t/*.rakutest
+      - .github/workflows/test-raku.yaml
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      packages: read
+    container:
+      image: ghcr.io/jj/raku-github-actions
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Cache installed dists
+        uses: actions/cache@v6
+        id: meta6
+        with:
+          path: /home/raku/.raku/
+          key: ${{ runner.os }}-${{ hashFiles('META6.json') }}
+      - name: Install modules
+        if: steps.meta6.outputs.cache-hit != 'true'
+        run: zef install --deps-only .
+      - name: Test
+        run: zef --debug test .

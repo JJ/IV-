@@ -1,0 +1,15 @@
+name: "Comprobaciones básicas del cuerpo del PR"
+on: [pull_request]
+
+jobs:
+  check_pr:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Comprobaciones IV
+      uses: JJ/github-pr-contains-action@releases/v14
+      with:
+        github-token: ${{github.token}}
+        bodyContains: "] NOCERRAR"
+        bodyDoesNotContain: "Borrar"
+        filesChanged: 1
+

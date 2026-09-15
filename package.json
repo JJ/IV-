@@ -1,0 +1,13 @@
+{
+  "name": "plantilla-iv",
+  "version": "0.0.2",
+  "description": "Repository for the Infraestructura Virtual class (ETSIIT-UGR). Raku scripts and teaching material.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "JJ",
+  "license": "Artistic-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
