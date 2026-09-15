@@ -50,9 +50,40 @@ Lista de comprobación:
 
 ## Contenidos
 
-### Clase conjunta
+### Clase de prácticas (dividida)
 
-### Clases conjunta (18 de septiembre)
+Comenzaremos con el hackatón. La **asistencia al hackatón** es obligatoria
+durante las primeras 8 semanas de clase.
+
+  * Se trabajará en varios equipos en un proyecto específico. Ofrecemos estas posibilidades:
+    * [Transporte
+      equitativo](https://github.com/danibarranqueroo/TransporteEquitativo),
+    * [Análisis CVEs](https://github.com/chelunike/didactic-chainsaw) y
+    * [Sistematización bibliográfica](https://github.com/eigenric/bibliofetch)
+    * [Organización de horarios de la
+      carrera](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/blob/e170f3926ba1f2578c1dfb26177938f8ea97b883/README.md).
+    * [Análisis demográfico](https://github.com/blancagiron/SeguraSenior)
+    * [Gestión de Palés de una empresa de
+      empaquetaddo](https://github.com/giorgiogiovanni/PacketManager)
+    * [Análisis de condiciones climáticas para problemas de
+      piel](https://github.com/FlorinTodor/DermaIndex)
+  * Se puede plantear otro que se considere interesante.
+
+Seguiremos la siguiente secuencia
+1. Elección de proyecto(s) por grupos de máximo 10 personas
+2. Alta en GitHub y en Telegram para quien no lo esté.
+3. Elección del lenguaje
+4. Creación del repositorio con previa elección del nombre del proyecto
+5. Creación de grupos de Telegram para gestionar el proyecto con bot de GitHub
+6. Usar un PR para añadir nombre y nick a lista de contribuidores.
+7. Reglas básicas del repositorio y tests para ellas.
+8. Publicación en páginas web
+9. Plantillas de issues y de PRs
+11. Establecimiento del layout del repositorio de acuerdo con el lenguaje y
+    buenas prácticas.
+
+
+### Clase conjunta
 
 * Presentación del profesor de la asignatura.
 * Enlaces a los recursos:
@@ -132,16 +163,6 @@ otra persona que te valide con la ficha de validación.
 
 Se habrá dado de alta GitHub (si no se está), inicializado el repositorio con el
 proyecto, entendido qué se espera del estudiante en la asignatura.
-
-### Clases divididas (día 19 de septiembre)
-
-Comenzaremos con el hackatón. La **asistencia al hackatón** es obligatoria
-durante las primeras 8 semanas de clase.
-
-  * Se trabajará en equipo en un proyecto a elegir entre
-  [este](https://github.com/danibarranqueroo/TransporteEquitativo),
-  [este](https://github.com/chelunike/didactic-chainsaw) y
-  [este](https://github.com/eigenric/bibliofetch).
 
 #### En caso de que haya tiempo
 
