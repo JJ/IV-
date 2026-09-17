@@ -20,7 +20,7 @@ iniciales.
 | <!-- Enlace de alvarodelcampoo --> |         |           |
 | <!-- Enlace de D P M -->           |         |           |
 | <!-- Enlace de D S S -->           |         |           |
-| <!-- Enlace de E A S -->           |         |           |
+| https://github.com/SufianEmbark/GestionColaReparaciones/pull/1 | v0.0.1 |           |
 | <!-- Enlace de danifc23 -->        |         |           |
 | <!-- Enlace de F F P J -->         |         |           |
 | <!-- Enlace de G S R -->           |         |           |
