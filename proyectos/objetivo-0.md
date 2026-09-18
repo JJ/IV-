@@ -19,7 +19,7 @@ iniciales.
 | <!-- Enlace de alvarodelcampoo -->  |         |           |
 | <!-- Enlace de marcelodp -->        |         |           |
 | <!-- Enlace de D S S -->            |         |           |
-| <!-- Enlace de SufianEmbark -->     |         |           |
+| https://github.com/SufianEmbark/GestionColaReparaciones/pull/1 | v0.0.1 |           |
 | <!-- Enlace de danifc23 -->         |         |           |
 | <!-- Enlace de F F P J -->          |         |           |
 | <!-- Enlace de raulgs24 -->         |         |           |
@@ -53,3 +53,4 @@ iniciales.
 | <!-- Enlace de AtlaasSD -->         |         |           |
 | <!-- Enlace de fervazquezi -->      |         |           |
 | <!-- Enlace de diego-vigil-sosa --> |         |           |
+
