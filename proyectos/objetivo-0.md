@@ -39,7 +39,7 @@ iniciales.
 | <!-- Enlace de M P A -->            |         |           |
 | <!-- Enlace de manupa16 -->         |         |           |
 | <!-- Enlace de P C -->              |         |           |
-| <!-- Enlace de jpeiperugr -->       |         |           |
+| [Mixamen] (https://github.com/jpeiperugr/Mixamen/pull/1) | v0.0.1 |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/1 | v0.0.1 |           |
 | [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1) | v0.0.1 |           |
