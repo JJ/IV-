@@ -41,7 +41,7 @@ iniciales.
 | <!-- Enlace de P C -->              |         |           |
 | <!-- Enlace de jpeiperugr -->       |         |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
-| <!-- Enlace de Carlitros20 -->      |         |           |
+| https://github.com/Carlitros20/AutoescuelaAC/pull/1 | v0.0.1 |           |
 | <!-- Enlace de Hugopm04 -->         |         |           |
 | <!-- Enlace de LuisPV05 -->         |         |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
