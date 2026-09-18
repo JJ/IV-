@@ -15,7 +15,6 @@ iniciales.
 | <!-- Enlace de marcocugr -->        |         |           |
 | <!-- Enlace de C C J D J -->        |         |           |
 | <!-- Enlace de manucazorla65 -->    |         |           |
-| <!-- Enlace de C E S -->            |         |           |
 | <!-- Enlace de HipyCas -->          |         |           |
 | <!-- Enlace de alvarodelcampoo -->  |         |           |
 | <!-- Enlace de marcelodp -->        |         |           |
