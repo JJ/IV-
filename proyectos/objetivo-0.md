@@ -32,7 +32,6 @@ iniciales.
 | <!-- Enlace de alozanoa -->         |         |           |
 | <!-- Enlace de KermitLaLacra -->    |         |           |
 | <!-- Enlace de luciamarmiro -->     |         |           |
-| <!-- Enlace de M F M -->            |         |           |
 | <!-- Enlace de claudiaa2112 -->     |         |           |
 | <!-- Enlace de suliman-mimon -->    |         |           |
 | <!-- Enlace de M G A -->            |         |           |
