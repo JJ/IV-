@@ -12,7 +12,7 @@ iniciales.
 | <!-- Enlace de KAlmendras -->       |         |           |
 | <!-- Enlace de Alvarooo4 -->        |         |           |
 | <!-- Enlace de AlejandroAnglada --> |         |           |
-| https://github.com/marcocugr/BioVigia/pull/1 | v0.0.2 |           |
+| https://github.com/marcocugr/BioVigia/pull/1 | v0.0.3 |           |
 | <!-- Enlace de C C J D J -->        |         |           |
 | <!-- Enlace de manucazorla65 -->    |         |           |
 | <!-- Enlace de HipyCas -->          |         |           |
