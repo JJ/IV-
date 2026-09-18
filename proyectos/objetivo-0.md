@@ -42,7 +42,7 @@ iniciales.
 | <!-- Enlace de jpeiperugr -->       |         |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
 | <!-- Enlace de Carlitros20 -->      |         |           |
-| <!-- Enlace de Hugopm04 -->         |         |           |
+| <!-- Enlace de Hugopm04 --> [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1) | v0.0.1 |           |
 | <!-- Enlace de LuisPV05 -->         |         |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
 | <!-- Enlace de javiride22 -->       |         |           |
