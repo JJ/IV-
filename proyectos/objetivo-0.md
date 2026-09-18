@@ -27,7 +27,6 @@ iniciales.
 | <!-- Enlace de jgarmed8 -->         |         |           |
 | <!-- Enlace de G K -->              |         |           |
 | <!-- Enlace de Gom01 -->            |         |           |
-| <!-- Enlace de G P D -->            |         |           |
 | <!-- Enlace de Kevings7 -->         |         |           |
 | <!-- Enlace de aaiterih -->         |         |           |
 | <!-- Enlace de sergiioolopeez -->   |         |           |
