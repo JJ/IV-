@@ -46,7 +46,7 @@ iniciales.
 | <!-- Enlace de LuisPV05 -->         |         |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
 | <!-- Enlace de javiride22 -->       |         |           |
-| <!-- Enlace de jimmy08082005 -->    |         |           |
+| [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1)    | v0.0.1 |           |
 | <!-- Enlace de martarzgn -->        |         |           |
 | <!-- Enlace de Petaka41 -->         |         |           |
 | <!-- Enlace de jlsanseq -->         |         |           |
