@@ -16,7 +16,7 @@ iniciales.
 | <!-- Enlace de C C J D J -->        |         |           |
 | <!-- Enlace de manucazorla65 -->    |         |           |
 | <!-- Enlace de HipyCas -->          |         |           |
-| https://github.com/alvarodelcampoo/RepartoHogar/pull/1 |  v0.0.1       |           |
+| https://github.com/alvarodelcampoo/RepartoHogar/pull/1 |  v0.0.2       |           |
 | <!-- Enlace de marcelodp -->        |         |           |
 | <!-- Enlace de D S S -->            |         |           |
 | https://github.com/SufianEmbark/GestionColaReparaciones/pull/1 | v0.0.1 |           |
