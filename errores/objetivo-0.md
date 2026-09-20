@@ -16,3 +16,9 @@
   desarrollo ágil, iterativo, que en cada paso añada valor al cliente,
   simplemente porque no se sabe qué es lo que quiere el cliente ni qué le aporta
   valor.
+- Describir un problema para el que no se tienen datos. Inventarse un problema y
+  luego inventarse los datos no lleva a ningún lado. Desde el punto de vista del
+  desarrollo, es simplemente un problema mal especificado que en un momento
+  determinado va a tener que detenerse simplemente porque no se sabe responder a
+  preguntas sobre el mismo o se responden de forma ad hoc inventando algo
+  incoherente con el resto de lo hecho hasta ahora.
