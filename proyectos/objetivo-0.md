@@ -41,7 +41,7 @@ iniciales.
 | <!-- Enlace de P C -->              |         |           |
 | [Mixamen] (https://github.com/jpeiperugr/Mixamen/pull/1) | v0.0.2 |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
-| https://github.com/Carlitros20/AutoescuelaAC/pull/1 | v0.0.2 |           |
+| https://github.com/Carlitros20/AutoescuelaAC/pull/1 | v0.0.3 |           |
 | [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1) | v0.0.1 |           |
 | <!-- Enlace de LuisPV05 -->         |         |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
