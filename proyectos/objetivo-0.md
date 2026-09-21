@@ -10,7 +10,7 @@ iniciales.
 |-------------------------------------|---------|-----------|
 | <!-- Enlace de A S -->              |         |           |
 | <!-- Enlace de KAlmendras -->       |         |           |
-| https://github.com/Alvarooo4/ApiRed/pull/1    | v0.0.1    |           |
+| https://github.com/Alvarooo4/ApiRed/pull/1    |  v0.0.1    |           |
 | <!-- Enlace de AlejandroAnglada --> |         |           |
 | https://github.com/marcocugr/BioVigia/pull/1 | v0.0.3 | ✓         |
 | <!-- Enlace de C C J D J -->        |         |           |
