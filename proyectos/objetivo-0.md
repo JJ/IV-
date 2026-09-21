@@ -14,7 +14,7 @@ iniciales.
 | <!-- Enlace de AlejandroAnglada --> |         |           |
 | https://github.com/marcocugr/BioVigia/pull/1 | v0.0.3 | ✓         |
 | <!-- Enlace de C C J D J -->        |         |           |
-| <!-- Enlace de manucazorla65 -->    |         |           |
+| https://github.com/manucazorla65/OleoGest/pull/1   |    v0.0.3    |           |
 | <!-- Enlace de HipyCas -->          |         |           |
 | https://github.com/alvarodelcampoo/ComparadorGasolineras/pull/1 |  v0.0.3       |           |
 | <!-- Enlace de marcelodp -->        |         |           |
