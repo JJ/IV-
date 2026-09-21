@@ -27,7 +27,7 @@ iniciales.
 | <!-- Enlace de G K -->              |         |           |
 | <!-- Enlace de Gom01 -->            |         |           |
 | <!-- Enlace de Kevings7 -->         |         |           |
-| https://github.com/aaiterih/analizador-optativas/pull/1 | v0.0.1 |    |
+| https://github.com/aaiterih/analizador-optativas/pull/1 | v0.0.1 | ✓         |
 | <!-- Enlace de sergiioolopeez -->   |         |           |
 | <!-- Enlace de alozanoa -->         |         |           |
 | https://github.com/KermitLaLacra/AsistenteCreativo/pull/1 | v0.0.1 |           |
