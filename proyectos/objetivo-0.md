@@ -22,7 +22,7 @@ iniciales.
 | https://github.com/SufianEmbark/GestionColaReparaciones/pull/1 | v0.0.1 |           |
 | <!-- Enlace de danifc23 -->         |         |           |
 | <!-- Enlace de F F P J -->          |         |           |
-| <!-- Enlace de raulgs24 -->         |         |           |
+| https://github.com/raulgs24/PreSalud/pull/1   | v0.0.1         |           |
 | <!-- Enlace de jgarmed8 -->         |         |           |
 | <!-- Enlace de G K -->              |         |           |
 | <!-- Enlace de Gom01 -->            |         |           |
