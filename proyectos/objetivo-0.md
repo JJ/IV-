@@ -37,7 +37,7 @@ iniciales.
 | <!-- Enlace de M G A -->            |         |           |
 | <!-- Enlace de M G M -->            |         |           |
 | <!-- Enlace de M P A -->            |         |           |
-| <!-- Enlace de manupa16 -->         |         |           |
+| [DebetLess](https://github.com/manupa16/DebetLess/pull/1) | v0.0.1 |          |
 | <!-- Enlace de P C -->              |         |           |
 | [Mixamen] (https://github.com/jpeiperugr/Mixamen/pull/2) | v0.0.3 |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
