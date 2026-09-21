@@ -2,10 +2,14 @@
 
 ## Errores en el envío
 
-- No se puede cerrar el PR hasta que no se apruebe, en el directorio del
+- No se puede fusionar el PR hasta que no se apruebe, en el repositorio del
   estudiante, el PR.
+- Solo hace falta enviar el PR una vez. El resto de las veces basta
+  con solicitar revisión con un comentario en el propio repositorio
+  del estudiante.
 
 ## Errores en el contenido
+
 - No incluir la lista de comprobación o no seguirla directamente. Hay puntos
   esenciales en la misma, como el hecho de que se tengan datos o no (lo que
   también estaba en la ficha de validación).
@@ -19,6 +23,6 @@
 - Describir un problema para el que no se tienen datos. Inventarse un problema y
   luego inventarse los datos no lleva a ningún lado. Desde el punto de vista del
   desarrollo, es simplemente un problema mal especificado que en un momento
-  determinado va a tener que detenerse simplemente porque no se sabe responder a
+  determinado va a tener que detenerse porque no se sabe responder a
   preguntas sobre el mismo o se responden de forma ad hoc inventando algo
   incoherente con el resto de lo hecho hasta ahora.
