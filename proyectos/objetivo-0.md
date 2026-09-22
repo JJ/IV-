@@ -31,7 +31,7 @@ iniciales.
 | <!-- Enlace de alozanoa -->                                      |         |           |
 | https://github.com/KermitLaLacra/AsistenteCreativo/pull/1        | v0.0.1  |           |
 | <!-- Enlace de luciamarmiro -->                                  |         |           |
-| <!-- Enlace de claudiaa2112 -->                                  |         |           |
+| https://github.com/claudiaa2112/deporte-sin-coche/pull/1         | v0.0.4  |           |
 | <!-- Enlace de suliman-mimon -->                                 |         |           |
 | <!-- Enlace de M G A -->                                         |         |           |
 | <!-- Enlace de Mariomugu -->                                     |         |           |
