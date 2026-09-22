@@ -25,7 +25,7 @@ iniciales.
 | https://github.com/jgarmed8/TurnosSupermercado/pull/1            | v0.0.3  | ✓         |
 | <!-- Enlace de G K -->                                           |         |           |
 | <!-- Enlace de Gom01 -->                                         |         |           |
-| <!-- Enlace de Kevings7 -->                                      |         |           |
+| https://github.com/Kevings7/OptiBalsa/pull/1 | v0.0.3 |           |
 | https://github.com/aaiterih/analizador-optativas/pull/1          | v0.0.1  | ✓         |
 | <!-- Enlace de sergiioolopeez -->                                |         |           |
 | <!-- Enlace de alozanoa -->                                      |         |           |
@@ -51,4 +51,3 @@ iniciales.
 | <!-- Enlace de AtlaasSD -->                                      |         |           |
 | <!-- Enlace de fervazquezi -->                                   |         |           |
 | <!-- Enlace de diego-vigil-sosa -->                              |         |           |
-
