@@ -1,4 +1,3 @@
-| <!-- Enlace de A S --> | | |
 | <!-- Enlace de KAlmendras --> | | |
 | <!-- Enlace de Alvarooo4 --> | | |
 | <!-- Enlace de AlejandroAnglada --> | | |
@@ -25,10 +24,9 @@
 | <!-- Enlace de claudiaa2112 --> | | |
 | <!-- Enlace de suliman-mimon --> | | |
 | <!-- Enlace de M G A --> | | |
-| <!-- Enlace de M G M --> | | |
+| <!-- Enlace de Mariomugu --> | | |
 | <!-- Enlace de M P A --> | | |
 | <!-- Enlace de manupa16 --> | | |
-| <!-- Enlace de P C --> | | |
 | <!-- Enlace de jpeiperugr --> | | |
 | <!-- Enlace de manuusnchz --> | | |
 | <!-- Enlace de Carlitros20 --> | | |
