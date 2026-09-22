@@ -39,7 +39,7 @@ iniciales.
 | [DebetLess](https://github.com/manupa16/DebetLess/pull/1)        | v0.0.1  |           |
 | [Mixamen] (https://github.com/jpeiperugr/Mixamen/pull/2)         | v0.0.3  |           |
 | <!-- Enlace de manuusnchz -->                                    |         |           |
-| https://github.com/Carlitros20/AutoescuelaAC/pull/1              | v0.0.1  |           |
+| https://github.com/Carlitros20/AutoescuelaAC/pull/1              | v0.0.1  | ✓         |
 | [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1)    | v0.0.1  |           |
 | <!-- Enlace de LuisPV05 -->                                      |         |           |
 | <!-- Enlace de akqp2104 -->                                      |         |           |
