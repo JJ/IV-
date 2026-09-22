@@ -10,7 +10,6 @@
 | <!-- Enlace de D S S --> | | |
 | <!-- Enlace de SufianEmbark --> | | |
 | <!-- Enlace de danifc23 --> | | |
-| <!-- Enlace de F F P J --> | | |
 | <!-- Enlace de raulgs24 --> | | |
 | <!-- Enlace de jgarmed8 --> | | |
 | <!-- Enlace de G K --> | | |
