@@ -36,7 +36,7 @@ iniciales.
 | <!-- Enlace de M G A -->                                         |         |           |
 | <!-- Enlace de Mariomugu -->                                     |         |           |
 | <!-- Enlace de M P A -->                                         |         |           |
-| [DebetLess](https://github.com/manupa16/DebetLess/pull/1)        | v0.0.1  |           |
+| [DebetLess](https://github.com/manupa16/DebetLess/pull/1)        | v0.0.1  | ✓         |
 | [Mixamen] (https://github.com/jpeiperugr/Mixamen/pull/2)         | v0.0.3  |           |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/1     | v0.0.5 |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/1              | v0.0.1  | ✓         |
