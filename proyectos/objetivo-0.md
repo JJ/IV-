@@ -41,7 +41,7 @@ iniciales.
 | <!-- Enlace de manuusnchz -->                                    |         |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/1              | v0.0.1  | ✓         |
 | [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1)    | v0.0.1  |           |
-| <!-- Enlace de LuisPV05 -->                                      |         |           |
+| https://github.com/LuisPV05/LuisMecanico/pull/1                  | v0.0.1  |           |
 | <!-- Enlace de akqp2104 -->                                      |         |           |
 | <!-- Enlace de javiride22 -->                                    |         |           |
 | [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1) | v0.0.1  |           |
