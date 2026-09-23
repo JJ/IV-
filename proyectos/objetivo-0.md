@@ -26,13 +26,13 @@ iniciales.
 | <!-- Enlace de Gom01 -->                                                                                                  |         |           |
 | https://github.com/Kevings7/OptiBalsa/pull/1                                                                              | v0.0.3  | ✓         |
 | https://github.com/aaiterih/analizador-optativas/pull/1                                                                   | v0.0.1  | ✓         |
-| <!-- Enlace de sergiioolopeez -->                                                                                         |         |           |
+| https://github.com/sergiioolopeez/zeitgeber/pull/1                                                                        | v0.0.1  |           |
 | https://github.com/alozanoa/nextBar/pull/1                                                                                | v0.0.2  |           |
 | https://github.com/KermitLaLacra/AsistenteCreativo/pull/1                                                                 | v0.0.1  |           |
 | <!-- Enlace de luciamarmiro -->                                                                                           |         |           |
 | https://github.com/claudiaa2112/deporte-sin-coche/pull/1                                                                  | v0.0.4  |           |
 | <!-- Enlace de suliman-mimon -->                                                                                          |         |           |
-| <!-- Enlace de angelamoya818 -->                                                                                          |         |           |
+| https://github.com/angelamoya818/analisis-nutricional/pull/1                                                              | v0.0.2  |           |
 | https://github.com/Mariomugu/Gestion-de-citas/pull/1                                                                      | v0.0.1  |           |
 | [DebetLess](https://github.com/manupa16/DebetLess/pull/1)                                                                 | v0.0.1  | ✓         |
 | [Mixamen](https://github.com/jpeiperugr/Mixamen/pull/2)                                                                   | v0.0.3  |           |
@@ -42,10 +42,10 @@ iniciales.
 | https://github.com/LuisPV05/LuisMecanico/pull/1                                                                           | v0.0.1  |           |
 | <!-- Enlace de akqp2104 -->                                                                                               |         |           |
 | [OptimaBuild](https://github.com/Javiride22/OptimaBuild/pull/1)                                                           | v0.0.1  |           |
-| [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1)                                                          | v0.0.1  |           |
+| [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1)                                                          | v0.0.1  | ✓         |
 | [StudyRadarUGR](https://github.com/martarzgn/studyradar_ugr/pull/1)                                                       | v0.0.1  |           |
 | <!-- Enlace de Petaka41 -->                                                                                               |         |           |
 | https://github.com/jlsanseq/MyTournamentPal/pull/1                                                                        | v0.0.2  |           |
 | <!-- Enlace de AtlaasSD -->                                                                                               |         |           |
 | https://github.com/fervazquezi/proyecto_curso_2627/pull/1                                                                 | v0.0.1  |           |
-| [IV-equivalencia-de-planes-de-estudios](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/1) | v0.0.1  |           |
+| [IV-equivalencia-de-planes-de-estudios](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/1) | v0.0.2  |           |
