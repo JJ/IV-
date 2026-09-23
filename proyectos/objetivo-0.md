@@ -50,5 +50,5 @@ iniciales.
 | <!-- Enlace de jlsanseq -->                                      |         |           |
 | <!-- Enlace de AtlaasSD -->                                      |         |           |
 | <!-- Enlace de fervazquezi -->                                   |         |           |
-| <!-- Enlace de diego-vigil-sosa -->                              |         |           |
+| [IV-equivalencia-de-planes-de-estudios](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/1)| v0.0.1 |           |
 
