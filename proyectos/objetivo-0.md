@@ -48,4 +48,4 @@ iniciales.
 | https://github.com/jlsanseq/MyTournamentPal/pull/1                                                                        | v0.0.2  |           |
 | <!-- Enlace de AtlaasSD -->                                                                                               |         |           |
 | https://github.com/fervazquezi/proyecto_curso_2627/pull/1                                                                 | v0.0.1  |           |
-| [IV-equivalencia-de-planes-de-estudios](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/1) | v0.0.1  |           |
+| [IV-equivalencia-de-planes-de-estudios](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/1) | v0.0.2  |           |
