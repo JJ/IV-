@@ -49,6 +49,6 @@ iniciales.
 | <!-- Enlace de Petaka41 -->                                      |         |           |
 | https://github.com/jlsanseq/MyTournamentPal/pull/1               | v0.0.2  |           |
 | <!-- Enlace de AtlaasSD -->                                      |         |           |
-| <!-- Enlace de fervazquezi -->                                   |         |           |
+| https://github.com/fervazquezi/proyecto_curso_2627/pull/1        | v0.0.1  |         |           |
 | <!-- Enlace de diego-vigil-sosa -->                              |         |           |
 
