@@ -33,7 +33,7 @@ iniciales.
 | https://github.com/claudiaa2112/deporte-sin-coche/pull/1                                                                  | v0.0.4  |           |
 | <!-- Enlace de suliman-mimon -->                                                                                          |         |           |
 | <!-- Enlace de angelamoya818 -->                                                                                          |         |           |
-| <!-- Enlace de Mariomugu -->                                                                                              |         |           |
+| https://github.com/Mariomugu/Gestion-de-citas/pull/1                                                                      | v0.0.1  |           |
 | [DebetLess](https://github.com/manupa16/DebetLess/pull/1)                                                                 | v0.0.1  | ✓         |
 | [Mixamen](https://github.com/jpeiperugr/Mixamen/pull/2)                                                                   | v0.0.3  |           |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/1                                                                      | v0.0.5  |           |
