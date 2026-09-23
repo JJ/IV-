@@ -42,7 +42,7 @@ iniciales.
 | https://github.com/LuisPV05/LuisMecanico/pull/1                                                                           | v0.0.1  |           |
 | <!-- Enlace de akqp2104 -->                                                                                               |         |           |
 | [OptimaBuild](https://github.com/Javiride22/OptimaBuild/pull/1)                                                           | v0.0.1  |           |
-| [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1)                                                          | v0.0.1  |           |
+| [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1)                                                          | v0.0.1  | ✓         |
 | [StudyRadarUGR](https://github.com/martarzgn/studyradar_ugr/pull/1)                                                       | v0.0.1  |           |
 | <!-- Enlace de Petaka41 -->                                                                                               |         |           |
 | https://github.com/jlsanseq/MyTournamentPal/pull/1                                                                        | v0.0.2  |           |
