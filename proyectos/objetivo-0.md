@@ -19,7 +19,7 @@ iniciales.
 | https://github.com/MarceloDP023/PokeDamage/pull/1                                                                         | v0.0.1  |           |
 | <!-- Enlace de D S S -->                                                                                                  |         |           |
 | https://github.com/SufianEmbark/GestionColaReparaciones/pull/1                                                            | v0.0.1  |           |
-| <!-- Enlace de danifc23 -->                                                                                               |         |           |
+| https://github.com/danifc23/ReservasDeportivas/pull/1                                                                     | v0.0.1  |           |
 | https://github.com/raulgs24/PreSalud/pull/1                                                                               | v0.0.1  |           |
 | https://github.com/jgarmed8/TurnosSupermercado/pull/1                                                                     | v0.0.3  | ✓         |
 | <!-- Enlace de G K -->                                                                                                    |         |           |
