@@ -49,6 +49,6 @@ iniciales.
 | <!-- Enlace de Petaka41 -->                                      |         |           |
 | <!-- Enlace de jlsanseq -->                                      |         |           |
 | <!-- Enlace de AtlaasSD -->                                      |         |           |
-| <!-- Enlace de fervazquezi -->                                   |         |           |
+| https://github.com/fervazquezi/proyecto_curso_2627/pull/1        | v0.0.0  |         |           |
 | <!-- Enlace de diego-vigil-sosa -->                              |         |           |
 
