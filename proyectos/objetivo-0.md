@@ -47,7 +47,7 @@ iniciales.
 | [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1) | v0.0.1  |           |
 | <!-- Enlace de martarzgn -->                                     |         |           |
 | <!-- Enlace de Petaka41 -->                                      |         |           |
-| <!-- Enlace de jlsanseq -->                                      |         |           |
+| https://github.com/jlsanseq/MyTournamentPal/pull/1               | v0.0.2  |           |
 | <!-- Enlace de AtlaasSD -->                                      |         |           |
 | <!-- Enlace de fervazquezi -->                                   |         |           |
 | <!-- Enlace de diego-vigil-sosa -->                              |         |           |
