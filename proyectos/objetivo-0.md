@@ -9,7 +9,7 @@ iniciales.
 | URL                                                                                                                       | Versión | Alcanzado |
 |---------------------------------------------------------------------------------------------------------------------------|---------|-----------|
 | https://github.com/KAlmendras/iRepOptimizer/pull/1                                                                        | v0.0.1  |           |
-| https://github.com/Alvarooo4/ApiRed/pull/1                                                                                | v0.0.1  |           |
+| https://github.com/Alvarooo4/ApiRed/pull/1                                                                                | v0.0.1  | ✓         |
 | https://github.com/AlejandroAnglada/PersistApp/pull/1                                                                     | v0.0.4  |           |
 | https://github.com/marcocugr/BioVigia/pull/1                                                                              | v0.0.3  | ✓         |
 | https://github.com/jjavier2005/AlpinismoHoy/pull/1                                                                        | v0.0.1  |           |
