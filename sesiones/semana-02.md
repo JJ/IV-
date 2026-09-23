@@ -1,14 +1,6 @@
-# Semana del 23 de septiembre
-
-> Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
+# Semana del 21 de septiembre
 
 Agradeceré que contestes la [encuesta inicial](https://forms.gle/DTouWMoWJVbv24L36)
-
-Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
-posible, enterarse de los contenidos impartidos en la misma a través de esta
-web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
-todo caso, asistir a las primeras clases, al menos hasta que complete el
-[segundo objetivo](http://jj.github.io/IV/documentos/proyecto/2.Modelo).
 
 
 ## Antes de la clase
@@ -27,6 +19,12 @@ para ponerte al día.
 
 ## Objetivos alcanzados hasta ahora
 
+```text
+ 0 🧮: 24%🚧 21%✅ 53%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
 
 ## Material de la asignatura
 
@@ -37,19 +35,33 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * [Objetivo 1 del
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 
-## Clase separada  de septiembre
+## Clase conjunta
 
 * Para los que *no hayan empezado el objetivo 0*: [juego de
   rol](http://jj.github.io/IV/documentos/actividades/juego-rol-design-thinking). Si
   no se ha superado el objetivo 0, y se quiere intentar de nuevo, también se
-  puede.
+  puede. 
 
-* Para los que *hayan terminado el objetivo 0*: breve explicación por parte del profesor.
+* Para los que *hayan terminado el objetivo 0*: breve explicación por parte del
+  profesor del objetivo 1
 
 
-## Clase conjunta  de septiembre
+## Clase separada
 
-La asistencia al hackatón sighe siendo *obligatoria*
+Antes, o al principio de la clase, los grupos del hackatón tendrán que haber
+rellenado
+1. El primer milestone
+2. La primera historia de usuario interna
+
+A partir de ahí:
+1. Integrar a las personas que lleguen de primeras
+2. Desarrollar issues de la primera HU para terminar el primer milestone, entre
+   ellas
+   - ¿Crear una página web?
+     - Habrá que describir antes el proyecto.
+   - ¿Comenzar la disposición de los directorios y ficheros del proyecto?
+   - ¿Añadir comprobadores automáticos de ciertas cosas?
+   - ¿Dividir equipos?
 
 
 ## Errores frecuentes
