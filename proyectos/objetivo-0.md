@@ -45,7 +45,7 @@ iniciales.
 | <!-- Enlace de akqp2104 -->                                      |         |           |
 | <!-- Enlace de javiride22 -->                                    |         |           |
 | [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1) | v0.0.1  |           |
-| <!-- Enlace de martarzgn -->                                     |         |           |
+| [StudyRadarUGR](https://github.com/martarzgn/studyradar_ugr/pull/1) | v0.0.1 |         |
 | <!-- Enlace de Petaka41 -->                                      |         |           |
 | https://github.com/jlsanseq/MyTournamentPal/pull/1               | v0.0.2  |           |
 | <!-- Enlace de AtlaasSD -->                                      |         |           |
