@@ -43,12 +43,11 @@ iniciales.
 | [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1)    | v0.0.1  |           |
 | https://github.com/LuisPV05/LuisMecanico/pull/1                  | v0.0.1  |           |
 | <!-- Enlace de akqp2104 -->                                      |         |           |
-| <!-- Enlace de javiride22 -->                                    |         |           |
+| [OptimaBuild](https://github.com/Javiride22/OptimaBuild/pull/1)  | v0.0.1  |           |
 | [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1) | v0.0.1  |           |
-| <!-- Enlace de martarzgn -->                                     |         |           |
+| [StudyRadarUGR](https://github.com/martarzgn/studyradar_ugr/pull/1) | v0.0.1 |         |
 | <!-- Enlace de Petaka41 -->                                      |         |           |
-| <!-- Enlace de jlsanseq -->                                      |         |           |
+| https://github.com/jlsanseq/MyTournamentPal/pull/1               | v0.0.2  |           |
 | <!-- Enlace de AtlaasSD -->                                      |         |           |
-| <!-- Enlace de fervazquezi -->                                   |         |           |
+| https://github.com/fervazquezi/proyecto_curso_2627/pull/1        | v0.0.1  |         |           |
 | [IV-equivalencia-de-planes-de-estudios](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/1)| v0.0.1 |           |
-
