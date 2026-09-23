@@ -39,7 +39,7 @@ iniciales.
 | https://github.com/manuusnchz/gestor-ciclismo/pull/1                                                                      | v0.0.5  |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/1                                                                       | v0.0.1  | ✓         |
 | [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1)                                                             | v0.0.1  |           |
-| https://github.com/LuisPV05/LuisMecanico/pull/1                                                                           | v0.0.1  |           |
+| https://github.com/LuisPV05/LuisMecanico/pull/1                                                                           | v0.0.1  | ✓         |
 | <!-- Enlace de akqp2104 -->                                                                                               |         |           |
 | [OptimaBuild](https://github.com/Javiride22/OptimaBuild/pull/1)                                                           | v0.0.1  |           |
 | [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1)                                                          | v0.0.1  | ✓         |
