@@ -17,7 +17,7 @@ iniciales.
 | <!-- Enlace de HipyCas -->                                                                                                |         |           |
 | https://github.com/alvarodelcampoo/ComparadorGasolineras/pull/1                                                           | v0.0.3  | ✓         |
 | https://github.com/MarceloDP023/PokeDamage/pull/1                                                                         | v0.0.1  |           |
-| <!-- Enlace de D S S -->                                                                                                  |         |           |
+| https://github.com/santiaguiyo/CulturaGRX/pull/1                                                                          | v0.0.2 |           |                              |         |           |
 | https://github.com/SufianEmbark/GestionColaReparaciones/pull/1                                                            | v0.0.1  |           |
 | https://github.com/danifc23/ReservasDeportivas/pull/1                                                                     | v0.0.2  |           |
 | https://github.com/raulgs24/PreSalud/pull/1                                                                               | v0.0.1  |           |
