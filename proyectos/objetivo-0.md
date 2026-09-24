@@ -31,7 +31,7 @@ iniciales.
 | https://github.com/KermitLaLacra/AsistenteCreativo/pull/1                                                                 | v0.0.1  |           |
 | <!-- Enlace de luciamarmiro -->                                                                                           |         |           |
 | https://github.com/claudiaa2112/deporte-sin-coche/pull/1                                                                  | v0.0.4  |           |
-| <!-- Enlace de suliman-mimon -->                                                                                          |         |           |
+| https://github.com/suliman-mimon/iv-asistencia/pull/1                                                                      | v0.0.1  |           |
 | https://github.com/angelamoya818/analisis-nutricional/pull/1                                                              | v0.0.2  |           |
 | https://github.com/Mariomugu/Gestion-de-citas/pull/1                                                                      | v0.0.1  |           |
 | [DebetLess](https://github.com/manupa16/DebetLess/pull/1)                                                                 | v0.0.1  | ✓         |
