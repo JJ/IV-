@@ -48,6 +48,16 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 ## Clase separada
 
+### Objetivos
+
+- Entender el concepto de issue
+- Entender qué es una Github Action
+- Empezar a entender la asignación de tareas
+- Comprender el juego HU-milestone-issue
+- Empezar a usar buenas prácticas en los mensajes de commit
+
+### Desarrollo
+
 Antes, o al principio de la clase, los grupos del hackatón tendrán que haber
 rellenado
 1. El primer milestone
@@ -63,6 +73,10 @@ A partir de ahí:
    - ¿Añadir comprobadores automáticos de ciertas cosas?
    - ¿Dividir equipos?
 
+Al principio de la clase se hará un "scrum", reunión general, donde se verá en
+dónde se está y qué es lo que hay que hacer. Una persona se nombrará (o por
+aclamación) Scrum master y dirigirá la reunión. A partir de ahí, se trabaja de
+forma individual interaccionando *solo* a través del repositorio.
 
 ## Errores frecuentes
 
