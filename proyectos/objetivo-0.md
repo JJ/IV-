@@ -49,3 +49,4 @@ iniciales.
 | <!-- Enlace de AtlaasSD -->                                                                                               |         |           |
 | https://github.com/fervazquezi/proyecto_curso_2627/pull/1                                                                 | v0.0.1  |           |
 | [IV-equivalencia-de-planes-de-estudios](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/1) | v0.0.2  |           |
+| [PorFinLLego](https://github.com/luciamarmiro/por-fin-llego/pull/1)							    | v0.0.1  |		  |
