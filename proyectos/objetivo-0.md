@@ -35,7 +35,7 @@ iniciales.
 | https://github.com/angelamoya818/analisis-nutricional/pull/1                                                              | v0.0.2  |           |
 | https://github.com/Mariomugu/Gestion-de-citas/pull/1                                                                      | v0.0.1  |           |
 | [DebetLess](https://github.com/manupa16/DebetLess/pull/1)                                                                 | v0.0.1  | ✓         |
-| [Mixamen](https://github.com/jpeiperugr/Mixamen/pull/2)                                                                   | v0.0.3  |           |
+| [Mixamen](https://github.com/jpeiperugr/Mixamen/pull/2)                                                                   | v0.0.3  | ✓         |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/1                                                                      | v0.0.5  |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/1                                                                       | v0.0.1  | ✓         |
 | [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1)                                                             | v0.0.1  |           |
