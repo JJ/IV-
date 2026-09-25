@@ -31,6 +31,7 @@ if ( !@these_students ) {
   exit(0);
 }
 
+say "Candidatos a revisión: ", join( " - " , @these_students );
 my @reviewers = elige_revisores( @these_students );
 
 my $data      = construye_comentario( $user, $repo, $pull_number, @reviewers );
