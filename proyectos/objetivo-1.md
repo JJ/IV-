@@ -32,7 +32,7 @@
 | <!-- Enlace de M P A --> | | |
 | <!-- Enlace de manupa16 --> | | |
 | <!-- Enlace de jpeiperugr --> | | |
-| <!-- Enlace de manuusnchz --> | | |
+| <!-- Enlace de manuusnchz --> | https://github.com/manuusnchz/gestor-ciclismo/pull/4 | v0.1.0 |
 | <!-- Enlace de Carlitros20 --> | | |
 | <!-- Enlace de Hugopm04 --> | | |
 | <!-- Enlace de LuisPV05 --> | | |
