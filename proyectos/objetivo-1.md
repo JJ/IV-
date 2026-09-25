@@ -32,10 +32,10 @@
 | <!-- Enlace de M P A --> | | |
 | <!-- Enlace de manupa16 --> | | |
 | <!-- Enlace de jpeiperugr --> | | |
-| <!-- Enlace de manuusnchz --> | | |
+| <!-- Enlace de manuusnchz --> | https://github.com/manuusnchz/gestor-ciclismo/pull/4 | v0.1.1 |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/6 | v0.1.2 | |
 | <!-- Enlace de Hugopm04 --> | | |
-| <!-- Enlace de LuisPV05 --> | | |
+| (https://github.com/LuisPV05/LuisMecanico/pull/4) | v0.1.1 | |
 | <!-- Enlace de akqp2104 --> | | |
 | <!-- Enlace de javiride22 --> | | |
 | <!-- Enlace de jimmy08082005 --> | | |
