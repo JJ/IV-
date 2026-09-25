@@ -40,3 +40,14 @@ que no lo es.
   preguntas sobre el mismo o se responden de forma ad hoc inventando algo
   incoherente con el resto de lo hecho hasta ahora.
 
+## Sobre los conjuntos de datos
+
+- Nada que requiera inventar datos va a ser un buen problema, simplemente porque
+  no se tiene suficiente conocimiento del problema para resolverlo.
+- No se deben poner fuentes de datos que no inclyan la información que se supone
+  que se va a extraer de ellas; y si se pone, por favor mostrar de dónde y cómo
+  se va a extraer en vez de poner toda una página web entera o un PDF.
+- La extracción de datos, salvo el paso de pdf a txt que se supone que se hace
+  de alguna forma, tiene que hacerse *íntegramente* con código del
+  estudiante. Si es un formato específico como CSV o XML el estudiante tendrá
+  que procesar ese formato (o su texto) para extraer la información.
