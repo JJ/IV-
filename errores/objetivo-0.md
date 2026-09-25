@@ -42,6 +42,8 @@ que no lo es.
 
 ## Sobre los conjuntos de datos
 
+- Se tiene que decir concretamente de dónde se van a obtener esos datos, no
+  decir cosas como "web pública"
 - Nada que requiera inventar datos va a ser un buen problema, simplemente porque
   no se tiene suficiente conocimiento del problema para resolverlo.
 - No se deben poner fuentes de datos que no inclyan la información que se supone
