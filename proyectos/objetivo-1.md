@@ -33,7 +33,7 @@
 | <!-- Enlace de manupa16 --> | | |
 | <!-- Enlace de jpeiperugr --> | | |
 | <!-- Enlace de manuusnchz --> | | |
-| <!-- Enlace de Carlitros20 --> | | |
+| https://github.com/Carlitros20/AutoescuelaAC/pull/6 | v0.1.1 | |
 | <!-- Enlace de Hugopm04 --> | | |
 | <!-- Enlace de LuisPV05 --> | | |
 | <!-- Enlace de akqp2104 --> | | |
