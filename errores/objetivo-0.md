@@ -53,3 +53,5 @@ que no lo es.
   de alguna forma, tiene que hacerse *íntegramente* con código del
   estudiante. Si es un formato específico como CSV o XML el estudiante tendrá
   que procesar ese formato (o su texto) para extraer la información.
+- Ningún problema que consista en calcular distancias sobre un mapa es
+  factible. No se puede hacer sin un API, y las estimaciones no son realistas.
