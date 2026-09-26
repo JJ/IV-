@@ -38,7 +38,7 @@ iniciales.
 | [Mixamen](https://github.com/jpeiperugr/Mixamen/pull/2)                                                                   | v0.0.3  | ✓         |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/1                                                                      | v0.0.5  | ✓         |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/1                                                                       | v0.0.1  | ✓         |
-| [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1)                                                             | v0.0.1  |           |
+| [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1)                                                             | v0.0.1  | ✓         |
 | https://github.com/LuisPV05/LuisMecanico/pull/1                                                                           | v0.0.1  | ✓         |
 | [Planificador de viajes](https://github.com/akqp2104/planificador-de-viajes/pull/1)                                       | v0.0.1  |           |
 | [OptimaBuild](https://github.com/Javiride22/OptimaBuild/pull/1)                                                           | v0.0.1  | ✓         |
