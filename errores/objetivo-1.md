@@ -24,3 +24,13 @@ mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
    usuario es que, al representar un problema, sirvan de base para su
    modelización en el objetivo 2/milestone 0 y para su testeo en el objetivo
    4/milestone 2.
+
+## Sobre la estructura de archivos y personas
+
+1. **Separar personas y jornadas de usuario:** Para mantener una organización limpia a medida que el proyecto escala, se aconseja estructurar la documentación en archivos independientes. Colocar las descripciones de las personas en un fichero específico y las jornadas de usuario en otro evita mezclar conceptos y facilita el mantenimiento futuro del repositorio, asegurando unas bases sólidas desde el principio.
+2. **Referenciar los nuevos ficheros:** Si se opta por modularizar la documentación en varios archivos, es fundamental no olvidar enlazarlos y referenciarlos correctamente desde el `README.md` principal para que el evaluador pueda localizarlos sin fricciones.
+
+## Sobre el flujo de trabajo en la interfaz web y directorios
+
+1. **Uso de stubs en la interfaz web:** En esta fase inicial, el contenido expuesto directamente en la web de GitHub debe limitarse a stubs o plantillas de relleno básicas (por ejemplo, identificadores genéricos tipo `[HU001]` y títulos orientativos) cuya única finalidad sea pasar los tests de estructura iniciales.
+2. **Ubicación del contenido real en `docs/`:** Las historias de usuario y artefactos reales deben residir y modificarse dentro del directorio `docs/`. El flujo de trabajo ideal consiste en mantener los stubs para la Pull Request, esperar el visto bueno del profesor sobre los documentos de `docs/` y, una vez hecho el merge, reemplazar los stubs por las versiones definitivas.
