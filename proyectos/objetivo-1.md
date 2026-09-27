@@ -38,7 +38,7 @@
 | (https://github.com/LuisPV05/LuisMecanico/pull/4)        | v0.1.1  |           |
 | <!-- Enlace de akqp2104 -->                              |         |           |
 | <!-- Enlace de javiride22 -->                            |         |           |
-| <!-- Enlace de jimmy08082005 -->                         |         |           |
+| https://github.com/jimmy08082005/NoSunToday/pull/4       | v0.1.4  |           |
 | <!-- Enlace de martarzgn -->                             |         |           |
 | <!-- Enlace de Petaka41 -->                              |         |           |
 | <!-- Enlace de jlsanseq -->                              |         |           |
