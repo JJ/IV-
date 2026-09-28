@@ -16,7 +16,7 @@
 | <!-- Enlace de danifc23 -->                              |         |           |
 | <!-- Enlace de F F P J -->                               |         |           |
 | <!-- Enlace de raulgs24 -->                              |         |           |
-| <!-- Enlace de jgarmed8 -->                              |         |           |
+| https://github.com/jgarmed8/TurnosSupermercado/pull/5    | v0.1.0  |           |        
 | <!-- Enlace de G K -->                                   |         |           |
 | <!-- Enlace de Gom01 -->                                 |         |           |
 | <!-- Enlace de Kevings7 -->                              |         |           |
