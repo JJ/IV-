@@ -20,7 +20,7 @@
 | <!-- Enlace de G K -->                                   |         |           |
 | <!-- Enlace de Gom01 -->                                 |         |           |
 | <!-- Enlace de Kevings7 -->                              |         |           |
-| <!-- Enlace de aaiterih -->                              |         |           |
+| https://github.com/aaiterih/analizador-optativas/pull/4  |v0.1.1   |           |
 | <!-- Enlace de sergiioolopeez -->                        |         |           |
 | <!-- Enlace de alozanoa -->                              |         |           |
 | <!-- Enlace de KermitLaLacra -->                         |         |           |
