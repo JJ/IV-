@@ -29,9 +29,9 @@ iniciales.
 | https://github.com/sergiioolopeez/zeitgeber/pull/1                                                                        | v0.0.1  |           |
 | https://github.com/alozanoa/nextBar/pull/1                                                                                | v0.0.2  |           |
 | https://github.com/KermitLaLacra/AsistenteCreativo/pull/1                                                                 | v0.0.1  |           |
-| <!-- Enlace de luciamarmiro -->                                                                                           |         |           |
+| [PorFinLLego](https://github.com/luciamarmiro/por-fin-llego/pull/1)	                                                      | v0.0.2  |           |        
 | https://github.com/claudiaa2112/deporte-sin-coche/pull/1                                                                  | v0.0.4  |           |
-| https://github.com/suliman-mimon/iv-asistencia/pull/1                                                                      | v0.0.1  |           |
+| https://github.com/suliman-mimon/iv-asistencia/pull/1                                                                     |  v0.0.1 |           |
 | https://github.com/angelamoya818/analisis-nutricional/pull/1                                                              | v0.0.2  |           |
 | https://github.com/Mariomugu/Gestion-de-citas/pull/1                                                                      | v0.0.1  |           |
 | [DebetLess](https://github.com/manupa16/DebetLess/pull/1)                                                                 | v0.0.1  | ✓         |
@@ -49,4 +49,3 @@ iniciales.
 | <!-- Enlace de AtlaasSD -->                                                                                               |         |           |
 | https://github.com/fervazquezi/proyecto_curso_2627/pull/1                                                                 | v0.0.1  |           |
 | [IV-equivalencia-de-planes-de-estudios](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/1) | v0.0.2  |           |
-| [PorFinLLego](https://github.com/luciamarmiro/por-fin-llego/pull/1)							    | v0.0.2  |		  |
