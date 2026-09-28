@@ -2,3 +2,4 @@
 
 | Quien          | Trabaja sobre el repo de |
 |----------------|---------------------|
+| marcocugr | manuusnchz |
