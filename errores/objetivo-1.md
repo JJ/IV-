@@ -16,6 +16,14 @@ mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
    no es determinista y no se sabe de antemano qué características se van a
    incluir en una versión determinada.
 
+2. No empecéis a jugar con las palabras modelo, estructura, datos y miles de
+   variantes al respecto. Lo que hace a un producto válido no es lo que
+   contenga, al menos que puedas comprobar automáticamente si lo que contiene es
+   correcto (por ejemplo, en el objetivo 4). Lo que lo hace válido es el proceso
+   que se sigue. La "validez" es la forma que vosotros tenéis de comprobar si lo
+   que se hace está bien, y por supuesto la persona que trabaje.
+
+
 ## Sobre las historias de usuario
 
 1. Las historias del usuario, igual que el problema del objetivo 0, son también
