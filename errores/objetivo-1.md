@@ -33,6 +33,14 @@ mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
    modelización en el objetivo 2/milestone 0 y para su testeo en el objetivo
    4/milestone 2.
 
+2. Las historias de usuario, junto con el user journey si es necesario, son
+   documentos de trabajo para su uso en el siguiente milestone. Tienen que
+   contener todos los datos necesarios: los diferentes aspectos del problema,
+   incluso las fuentes de datos que se vayan a usar. Si hay datos adicionales en
+   el user journey, hay que enlazarlo. Los user journey son documentos que
+   ayudan a entender el contexto y la información que tiene el cliente y por
+   supuesto cómo y cuando necesita una solución.
+
 ## Sobre la estructura de archivos y personas
 
 1. **Separar personas y jornadas de usuario:** Para mantener una organización limpia a medida que el proyecto escala, se aconseja estructurar la documentación en archivos independientes. Colocar las descripciones de las personas en un fichero específico y las jornadas de usuario en otro evita mezclar conceptos y facilita el mantenimiento futuro del repositorio, asegurando unas bases sólidas desde el principio.
