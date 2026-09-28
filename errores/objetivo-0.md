@@ -44,6 +44,11 @@ que no lo es.
 
 - Se tiene que decir concretamente de dónde se van a obtener esos datos, no
   decir cosas como "web pública"
+  - Esto incluye decir qué datos se van a obtener de dónde, y por supuesto un
+    enlace concreto al lugar de dónde se puedan obtener los datos; en algunos
+    casos será conveniente también incluir un ejemplo de los datos que hay y
+    cómo están organizados, para que se vea claramente qué datos son y qué
+    esfuerzo es necesario para extraerlos.
 - Nada que requiera inventar datos va a ser un buen problema, simplemente porque
   no se tiene suficiente conocimiento del problema para resolverlo.
 - No se deben poner fuentes de datos que no inclyan la información que se supone
