@@ -40,6 +40,12 @@ que no lo es.
   preguntas sobre el mismo o se responden de forma ad hoc inventando algo
   incoherente con el resto de lo hecho hasta ahora.
 
+- Al contrario, partir de unos datos que se tienen y tratar de imaginarse un
+  problema que se pueda resolver con esos datos. Esto al final conduce a
+  incoherencias como que lo que se describe no tiene absolutamente nada que ver
+  con los datos, o bien el problema es excesivamente simple porque sólo tiene
+  datos que ya están descritos y por tanto no se puede hacer el objetivo 2.
+  
 ## Sobre los conjuntos de datos
 
 - Se tiene que decir concretamente de dónde se van a obtener esos datos, no
