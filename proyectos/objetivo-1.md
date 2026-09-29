@@ -4,7 +4,7 @@
 |----------------------------------------------------------|---------|-----------|
 | <!-- Enlace de KAlmendras -->                            |         |           |
 | https://github.com/Alvarooo4/ApiRed/pull/4               | v0.1.1  |           |
-| https://github.com/AlejandroAnglada/PeriPlanning/pull/2  | v0.1.1  |           |
+| https://github.com/AlejandroAnglada/PeriPlanning/pull/2   | v0.1.1  |           |
 | https://github.com/marcocugr/BioVigia/pull/5             | v0.1.5  | ✓         |
 | <!-- Enlace de C C J D J -->                             |         |           |
 | <!-- Enlace de manucazorla65 -->                         |         |           |
