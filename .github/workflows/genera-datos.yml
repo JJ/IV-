@@ -41,7 +41,7 @@ jobs:
         run: raku -Ilib scripts/iv-versiones.raku > data/versiones.json
       - name: Sube JSON actualizado
         run: |
-          if [ -n "$(git status -s data/objetivos.json )" ]; then
+          if [ -n "$(git status -s data/fechas-entrega.csv )" ]; then
               git config --global user.email "jjmerelo@gmail.com"
               git config --global user.name "IVDataBot"
               git commit -am ":arrow_up: Actualiza datos"
