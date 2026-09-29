@@ -17,7 +17,7 @@ iniciales.
 | https://github.com/HipyCas/tag-drive/pull/1                                                                               | v0.0.2  |           |
 | https://github.com/alvarodelcampoo/ComparadorGasolineras/pull/1                                                           | v0.0.3  | ✓         |
 | https://github.com/MarceloDP023/PokeDamage/pull/1                                                                         | v0.0.1  | ✓         |
-| https://github.com/santiaguiyo/CulturaGRX/pull/1                                                                          | v0.0.2 |           |                              |         |           |
+| https://github.com/santiaguiyo/CulturaGRX/pull/1                                                                          | v0.0.2  |           |
 | https://github.com/SufianEmbark/GestionColaReparaciones/pull/1                                                            | v0.0.1  |           |
 | https://github.com/danifc23/ReservasDeportivas/pull/1                                                                     | v0.0.2  |           |
 | https://github.com/raulgs24/PreSalud/pull/1                                                                               | v0.0.1  | ✓         |
@@ -29,9 +29,9 @@ iniciales.
 | https://github.com/sergiioolopeez/zeitgeber/pull/1                                                                        | v0.0.1  |           |
 | https://github.com/alozanoa/nextBar/pull/1                                                                                | v0.0.2  |           |
 | https://github.com/KermitLaLacra/AsistenteCreativo/pull/1                                                                 | v0.0.1  |           |
-| [PorFinLLego](https://github.com/luciamarmiro/por-fin-llego/pull/1)	                                                      | v0.0.2  |           |        
+| [PorFinLLego](https://github.com/luciamarmiro/por-fin-llego/pull/1)                                                       | v0.0.2  |           |
 | https://github.com/claudiaa2112/deporte-sin-coche/pull/1                                                                  | v0.0.4  | ✓         |
-| https://github.com/suliman-mimon/iv-asistencia/pull/1                                                                      | v0.0.1  |           |
+| https://github.com/suliman-mimon/iv-asistencia/pull/1                                                                     | v0.0.1  |           |
 | https://github.com/angelamoya818/analisis-nutricional/pull/1                                                              | v0.0.2  |           |
 | https://github.com/Mariomugu/Gestion-de-citas/pull/1                                                                      | v0.0.1  |           |
 | [DebetLess](https://github.com/manupa16/DebetLess/pull/1)                                                                 | v0.0.1  | ✓         |
