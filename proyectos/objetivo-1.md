@@ -27,7 +27,7 @@
 | <!-- Enlace de luciamarmiro -->                          |         |           |
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/7 | v0.1.0  |           |
 | <!-- Enlace de suliman-mimon -->                         |         |           |
-| <!-- Enlace de M G A -->                                 |         |           |
+| https://github.com/angelamoya818/gestion-contenedores/pull/7 |  v0.1.1  |           |
 | <!-- Enlace de Mariomugu -->                             |         |           |
 | <!-- Enlace de M P A -->                                 |         |           |
 | https://github.com/manupa16/PaddleSurfTime/pull/5        | v0.1.0  |           |
