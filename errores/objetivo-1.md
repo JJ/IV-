@@ -23,6 +23,7 @@ mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
    que se sigue. La "validez" es la forma que vosotros tenéis de comprobar si lo
    que se hace está bien, y por supuesto la persona que trabaje.
 
+3. ¿Documentación en un directorio `/docs`? ¿En serio?
 
 ## Sobre las historias de usuario
 
