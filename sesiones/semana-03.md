@@ -27,6 +27,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 ## Clases conjunta
 
+* Máxima prioridad: objetivo 0 a quien esté presente en clase.
 * Revisión de conceptos del [objetivo 1](http://jj.github.io/IV/documentos/proyecto/1.Planificacion).
 * Introducción al [objetivo 2 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo) y sus conceptos
