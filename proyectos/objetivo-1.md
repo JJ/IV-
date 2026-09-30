@@ -7,7 +7,7 @@
 | https://github.com/AlejandroAnglada/PeriPlanning/pull/2  | v0.1.1   |           |
 | https://github.com/marcocugr/BioVigia/pull/5             | v0.1.5  | ✓         |
 | <!-- Enlace de C C J D J -->                             |         |           |
-| <!-- Enlace de manucazorla65 -->                         |         |           |
+| https://github.com/manucazorla65/AeroPlan/pull/2         | v0.1.0  |           |
 | <!-- Enlace de HipyCas -->                               |         |           |
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/5 | v0.1.2  |           |
 | https://github.com/MarceloDP023/PokeDamage/pull/8        | v0.1.0  |           |
