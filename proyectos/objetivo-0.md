@@ -43,7 +43,7 @@ iniciales.
 | [Planificador de viajes](https://github.com/akqp2104/planificador-de-viajes/pull/1)                                       | v0.0.1  |           |
 | [OptimaBuild](https://github.com/Javiride22/OptimaBuild/pull/1)                                                           | v0.0.1  | ✓         |
 | [OnThePitch](https://github.com/jimmy08082005/OnThePitch/pull/1)                                                          | v0.0.1  | ✓         |
-| [StudyRadarUGR](https://github.com/martarzgn/studyradar_ugr/pull/1)                                                       | v0.0.1  |           |
+| [IndicadorAlmendras](https://github.com/martarzgn/IndicadorAlmendras/pull/1)                                              | v0.0.2  |           |
 | <!-- Enlace de Petaka41 -->                                                                                               |         |           |
 | https://github.com/jlsanseq/MyTournamentPal/pull/1                                                                        | v0.0.2  |           |
 | <!-- Enlace de AtlaasSD -->                                                                                               |         |           |
