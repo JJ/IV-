@@ -2,7 +2,7 @@
 
 | URL                                                      | Versión | Alcanzado |
 |----------------------------------------------------------|---------|-----------|
-| https://github.com/KAlmendras/MagicOptimizer/pull/5      | v0.1.0  |           |
+| https://github.com/KAlmendras/MagicOptimizer/pull/5      | v0.1.1  |           |
 | https://github.com/Alvarooo4/ApiRed/pull/4)              | v0.1.2  |           |
 | https://github.com/AlejandroAnglada/PeriPlanning/pull/2  | v0.1.1   |           |
 | https://github.com/marcocugr/BioVigia/pull/5             | v0.1.5  | ✓         |
