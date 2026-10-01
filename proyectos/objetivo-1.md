@@ -44,4 +44,4 @@
 | <!-- Enlace de jlsanseq -->                              |         |           |
 | <!-- Enlace de AtlaasSD -->                              |         |           |
 | <!-- Enlace de fervazquezi -->                           |         |           |
-| https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/7 | v0.1.0  |           |
+| https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/7 | v0.1.1  |           |
