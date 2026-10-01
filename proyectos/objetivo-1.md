@@ -41,7 +41,7 @@
 | https://github.com/jimmy08082005/NoSunToday/pull/4       | v0.1.4  |           |
 | <!-- Enlace de martarzgn -->                             |         |           |
 | <!-- Enlace de Petaka41 -->                              |         |           |
-| <!-- Enlace de jlsanseq -->                              |         |           |
+| https://github.com/jlsanseq/MyTournamentPal/pull/2)      | v0.1.0  |           |
 | <!-- Enlace de AtlaasSD -->                              |         |           |
 | <!-- Enlace de fervazquezi -->                           |         |           |
 | https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/pull/7 | v0.1.1  |           |
