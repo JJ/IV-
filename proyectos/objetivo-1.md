@@ -26,7 +26,7 @@
 | <!-- Enlace de KermitLaLacra -->                         |         |           |
 | <!-- Enlace de luciamarmiro -->                          |         |           |
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/7 | v0.1.0  |           |
-| <!-- Enlace de suliman-mimon -->                         |         |           |
+| https://github.com/suliman-mimon/iv-asistencia/pull/3     | v0.1.1  |           |
 | https://github.com/angelamoya818/gestion-contenedores/pull/7 |  v0.1.1  |           |
 | <!-- Enlace de Mariomugu -->                             |         |           |
 | <!-- Enlace de M P A -->                                 |         |           |
