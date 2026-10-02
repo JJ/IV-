@@ -44,8 +44,16 @@ mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
 
 ## Sobre la estructura de archivos y personas
 
-1. **Separar personas y jornadas de usuario:** Para mantener una organización limpia a medida que el proyecto escala, se aconseja estructurar la documentación en archivos independientes. Colocar las descripciones de las personas en un fichero específico y las jornadas de usuario en otro evita mezclar conceptos y facilita el mantenimiento futuro del repositorio, asegurando unas bases sólidas desde el principio.
-2. **Referenciar los nuevos ficheros:** Si se opta por modularizar la documentación en varios archivos, es fundamental no olvidar enlazarlos y referenciarlos correctamente desde el `README.md` principal para que el evaluador pueda localizarlos sin fricciones.
+1. **Separar personas y viaje de usuario:** Para mantener una organización
+   limpia a medida que el proyecto escala, se aconseja estructurar la
+   documentación en archivos independientes. Colocar las descripciones de las
+   personas en un fichero específico y las viajes de usuario en otro evita
+   mezclar conceptos y facilita el mantenimiento futuro del repositorio,
+   asegurando unas bases sólidas desde el principio.
+2. **Referenciar los nuevos ficheros:** Si se opta por modularizar la
+   documentación en varios archivos, es fundamental no olvidar enlazarlos y
+   referenciarlos correctamente desde el `README.md` principal para que el
+   evaluador pueda localizarlos sin fricciones.
 
 ## Sobre el flujo de trabajo en la interfaz web y directorios
 
