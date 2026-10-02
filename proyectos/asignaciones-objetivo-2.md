@@ -4,3 +4,4 @@
 |-------------|--------------------------|
 | marcocugr   | manuusnchz               |
 | Carlitros20 | marcocugr                |
+| manuusnchz  | alvarodelcampoo          |
