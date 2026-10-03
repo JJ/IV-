@@ -30,7 +30,7 @@
 | https://github.com/angelamoya818/gestion-contenedores/pull/7                     | v0.1.1  |           |
 | <!-- Enlace de Mariomugu -->                                                     |         |           |
 | <!-- Enlace de M P A -->                                                         |         |           |
-| https://github.com/manupa16/PaddleSurfTime/pull/5                                | v0.1.0  |           |
+| https://github.com/manupa16/PaddleSurfTime/pull/5                                | v0.1.0  | ✓         |
 | https://github.com/jpeiperugr/Mixamen/pull/6                                     | v0.1.0  |           |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/4                             | v0.1.1  | ✓         |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/6                              | v0.1.2  | ✓         |
