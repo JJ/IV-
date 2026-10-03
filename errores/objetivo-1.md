@@ -23,7 +23,13 @@ mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
    que se sigue. La "validez" es la forma que vosotros tenéis de comprobar si lo
    que se hace está bien, y por supuesto la persona que trabaje.
 
-3. ¿Documentación en un directorio `/docs`? ¿En serio?
+3. En algunos casos, habéis puesto que el producto del milestone sería la
+   documentación en un directorio `/docs`. En ningún caso un producto de un
+   proceso de ingeniería del software va a ser documentación *en el
+   repositorio*. La principal documentación es inherente al proceso HU → issue
+   → mensaje de commit, si hace falta documentación adicional (registros de
+   decisiones de arquitectura principalmente) se hacen de otra forma
+   (irrelevante para la asignatura).
 
 ## Sobre las historias de usuario
 
