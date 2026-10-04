@@ -8,4 +8,5 @@
 | jimmy08082005   | Carlitros20              |
 | alvarodelcampoo | LuisPV05                 |
 | LuisPV05        | claudiaa2112             |
+| claudiaa2112    | manupa16                 |
 
