@@ -23,6 +23,12 @@ mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
    que se sigue. La "validez" es la forma que vosotros tenéis de comprobar si lo
    que se hace está bien, y por supuesto la persona que trabaje.
 
+3. De la misma forma, no empecéis a poner las palabras mágicas DDD, objeto
+   valor, entidad y cosas por el estilo, si no entendéis lo que estáis
+   poniendo. Tampoco DDD es la única metodología, pero *siempre* hay que usar
+   una metodología. Y decir lo que va a salir de esa metodología es, cuando
+   menos, aventurado.
+
 3. En algunos casos, habéis puesto que el producto del milestone sería la
    documentación en un directorio `/docs`. En ningún caso un producto de un
    proceso de ingeniería del software va a ser documentación *en el
