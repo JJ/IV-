@@ -20,7 +20,7 @@
 | <!-- Enlace de G K -->                                                           |         |           |
 | https://github.com/Gom01/IV_Cursos_deportes/pull/6                               | v0.1.1  |           |
 | https://github.com/Kevings7/OptiBalsa/pull/4                                     | v0.1.1  |           |
-| https://github.com/aaiterih/analizador-optativas/pull/4                          | v0.1.1  |           |
+| https://github.com/aaiterih/analizador-optativas/pull/4                          | v0.1.1  | ✓         |
 | <!-- Enlace de sergiioolopeez -->                                                |         |           |
 | <!-- Enlace de alozanoa -->                                                      |         |           |
 | <!-- Enlace de KermitLaLacra -->                                                 |         |           |
