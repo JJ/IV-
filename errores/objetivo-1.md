@@ -40,6 +40,16 @@ neuvo revisión, tanto del resto de la clase como del profesor.
    decisiones de arquitectura principalmente) se hacen de otra forma
    (irrelevante para la asignatura).
 
+4. Un milestone o hito es un avance hacia la resolución de un problema del
+   cliente. Por lo tanto, tiene que tenerse bien claro con qué problema se está
+   trabajando. Si optas por poner varias HUs, o no son problemas diferentes, o
+   estás poniendo un solo problema en varias HUs, o no estás comprendiendo bien
+   qué es un milestone.
+   - De la misma forma, si cada milestone trabaja en una HU diferente, tampoco
+     estás comprendiendo bien cómo a base de milestones se avanza en la
+     resolución de un problema específico del usuario.
+
+
 ## Sobre las historias de usuario
 
 1. Las historias del usuario, igual que el problema del objetivo 0, son también
