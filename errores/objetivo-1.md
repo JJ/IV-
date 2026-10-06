@@ -58,6 +58,13 @@ neuvo revisión, tanto del resto de la clase como del profesor.
    ayudan a entender el contexto y la información que tiene el cliente y por
    supuesto cómo y cuando necesita una solución.
 
+3. Las historias de usuario no son "las tareas que se van a hacer en el
+   milestone correspondiente". Son problemas, y habrá que seguir un proceso de
+   solución de los mismos *a través de varios milestones*, hasta que se llegue a
+   un punto en el cual se puede trabajar con la siguiente historia de
+   usuario. En particular, si una HU representa un problema, ¿se puede trabajar
+   con una HU si haber modelado el problema antes?
+
 ## Sobre la estructura de archivos y personas
 
 1. **Separar personas y viaje de usuario:** Para mantener una organización
