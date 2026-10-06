@@ -6,15 +6,18 @@ cumpliendo el objetivo y añade más trabajo al mismo. Limitarse a
 registrar como se ha seguido la metodología es esencial para una
 corrección eficiente; y por otro lado, cada objetivo es un producto
 mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
+- Una versión de esto es añadir frases literales copiadas de otros envíos.
 
+Por otro lado, hay que resolver *todos* los comentarios antes de solicitar de
+neuvo revisión, tanto del resto de la clase como del profesor.
 
 ## Sobre los milestones
 
-1. Crear milestones con características o funcionalidades específicas. Los
-   milestones son productos mínimamente viables y se describe como están
-   empaquetados, no qué van a hacer, sobre todo porque el proceso de desarrollo
-   no es determinista y no se sabe de antemano qué características se van a
-   incluir en una versión determinada.
+1. Crear milestones con características o funcionalidades específicas del
+   problema. Los milestones son productos mínimamente viables y se describe como
+   están empaquetados, no qué van a hacer, sobre todo porque el proceso de
+   desarrollo no es determinista y no se sabe de antemano qué características se
+   van a incluir en una versión determinada.
 
 2. No empecéis a jugar con las palabras modelo, estructura, datos y miles de
    variantes al respecto. Lo que hace a un producto válido no es lo que
@@ -44,7 +47,8 @@ mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
    no es una historia de usuario, es una tarea. La clave de las historias de
    usuario es que, al representar un problema, sirvan de base para su
    modelización en el objetivo 2/milestone 0 y para su testeo en el objetivo
-   4/milestone 2.
+   4/milestone 2. Decir lo que el usuario quiere no se puede usar como base para
+   un desarrollo, porque es imposible de modelizar o testear.
 
 2. Las historias de usuario, junto con el user journey si es necesario, son
    documentos de trabajo para su uso en el siguiente milestone. Tienen que
