@@ -49,6 +49,11 @@ neuvo revisión, tanto del resto de la clase como del profesor.
      estás comprendiendo bien cómo a base de milestones se avanza en la
      resolución de un problema específico del usuario.
 
+5. Hacer énfasis en los *entregables* es absurdo cuando se trata de un milestone
+  interno y puedes observar lo que está haciendo la otra persona. Si es algo
+  para el cliente, *siempre* tiene que haber un entregable, pero tampoco tiene
+  sentido poner un entregable si vas a ser incapaz de reconocer de forma
+  objetiva si es válido o no.
 
 ## Sobre las historias de usuario
 
