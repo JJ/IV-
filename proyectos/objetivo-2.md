@@ -5,7 +5,7 @@
 | <!-- Enlace de KAlmendras -->       |         |           |
 | <!-- Enlace de Alvarooo4 -->        |         |           |
 | <!-- Enlace de AlejandroAnglada --> |         |           |
-| <!-- Enlace de marcocugr -->        |         |           |
+| https://github.com/manuusnchz/gestor-ciclismo/pull/18 | v0.2.1 |           |
 | <!-- Enlace de jjavier2005 -->      |         |           |
 | <!-- Enlace de manucazorla65 -->    |         |           |
 | <!-- Enlace de HipyCas -->          |         |           |
