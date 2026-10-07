@@ -45,7 +45,13 @@ que no lo es.
   incoherencias como que lo que se describe no tiene absolutamente nada que ver
   con los datos, o bien el problema es excesivamente simple porque sólo tiene
   datos que ya están descritos y por tanto no se puede hacer el objetivo 2.
-  
+
+- Hacer énfasis en los *entregables* es absurdo cuando se trata de un milestone
+  interno y puedes observar lo que está haciendo la otra persona. Si es algo
+  para el cliente, *siempre* tiene que haber un entregable, pero tampoco tiene
+  sentido poner un entregable si vas a ser incapaz de reconocer de forma
+  objetiva si es válido o no.
+
 ## Sobre los conjuntos de datos
 
 - Se tiene que decir concretamente de dónde se van a obtener esos datos, no
