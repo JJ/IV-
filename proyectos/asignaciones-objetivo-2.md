@@ -10,5 +10,7 @@
 | LuisPV05        | claudiaa2112             |
 | claudiaa2112    | manupa16                 |
 | aaiterih        | jimmy08082005            |
+| jgarmed         | aaiterih                 |
+
 
 
