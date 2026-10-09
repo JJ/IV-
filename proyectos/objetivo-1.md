@@ -18,7 +18,7 @@
 | https://github.com/raulgs24/EasyTurno/pull/6                                     | v0.1.0  |           |
 | https://github.com/jgarmed8/TurnosSupermercado/pull/5                            | v0.1.0  | ✓         |
 | <!-- Enlace de G K -->                                                           |         |           |
-| https://github.com/Gom01/IV_Cursos_deportes/pull/6                               | v0.1.1  |           |
+| https://github.com/Gom01/IV_Cursos_deportes/pull/6                               | v0.1.1  | ✓         |
 | https://github.com/Kevings7/OptiBalsa/pull/4                                     | v0.1.1  | ✓         |
 | https://github.com/aaiterih/analizador-optativas/pull/4                          | v0.1.1  | ✓         |
 | <!-- Enlace de sergiioolopeez -->                                                |         |           |
