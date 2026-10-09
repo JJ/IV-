@@ -6,10 +6,19 @@ cumpliendo el objetivo y añade más trabajo al mismo. Limitarse a
 registrar como se ha seguido la metodología es esencial para una
 corrección eficiente; y por otro lado, cada objetivo es un producto
 mínimamente viable, por lo que añadir más de lo que se pide lo invalidaría.
-    - Una versión de esto es añadir frases o palabras literales (como *jornada*) copiadas de otros envíos.
+    - Una versión de esto es añadir frases o palabras literales (como *jornada*)
+      copiadas de otros envíos.
+    - En cuanto a esto último, encontrar frases literales copiadas de otros
+      envíos bloquea automáticamente la superación del objetivo en esa revisión
+      y consume una revisión. Si es la 4º revisión o posterior, automáticamente
+      supone la no superación del objetivo.
 
 Por otro lado, hay que resolver *todos* los comentarios antes de solicitar de
 neuvo revisión, tanto del resto de la clase como del profesor.
+
+En general, evidencia de copia o inspiración directa en otro envío *supone
+automáticamente el no pasar a esa revisión* y dependiendo de lo flagrante que
+sea o en qué revisión se encuentre, la no superación del objetivo.
 
 ## Sobre los milestones
 
