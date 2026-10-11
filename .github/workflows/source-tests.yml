@@ -191,9 +191,9 @@ jobs:
             let closed_issues;
             if ( objetivo >= 2 ) {
                 console.log( objetivo_msg(2) )
-                const real_issues = issues.length - hus.length
+                const real_issues = issueTitles.length - hus.length
                 if ( !real_issues ) {
-                  core.setFailed( sorry("No hay issues fuera de las historias de usuario, hay " + issues.length + " issues y "
+                  core.setFailed( sorry("No hay issues fuera de las historias de usuario, hay " + issuesTitles.length + " issues y "
                   + hus.length + "historias de usuario; los issues son imprescindibles para avanzar el código" ))
                 } else {
                   console.log( all_good(`Hay ${real_issues} issues no-HU`))
