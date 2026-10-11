@@ -9,7 +9,7 @@
 | <!-- Enlace de jjavier2005 -->      |         |           |
 | <!-- Enlace de manucazorla65 -->    |         |           |
 | <!-- Enlace de HipyCas -->          |         |           |
-| <!-- Enlace de alvarodelcampoo -->  |         |           |
+|  https://github.com/LuisPV05/LuisMecanico/pull/20   |  v0.2.0 |        |
 | <!-- Enlace de marcelodp -->        |         |           |
 | <!-- Enlace de santiaguiyo -->      |         |           |
 | <!-- Enlace de SufianEmbark -->     |         |           |
