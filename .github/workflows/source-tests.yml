@@ -184,6 +184,7 @@ jobs:
             const issueTitles = await github.graphql(HUquery, { user: user, repo: repo })
             console.log( "All issues from GraphQL ", JSON.stringify(issueTitles.repository.issues.edges) )
             const hus = issueTitles.repository.issues.edges.filter( edge => edge.node.title.match(/^\[HU/) )
+            console.log( "Historias de usuario ", JSON.stringify(hus) )
             if ( !hus.length ) {
                 core.setFailed( sorry("No hay historias de usuario, o el título no incluye «[HUxxx]»"))
             }
@@ -192,7 +193,8 @@ jobs:
                 console.log( objetivo_msg(2) )
                 const real_issues = issues.length - hus.length
                 if ( !real_issues ) {
-                  core.setFailed( sorry(`No hay issues fuera de las historias de usuario, hay ${issues.length} issues y ${hus.length} historias de usuario; los issues son imprescindibles para avanzar el código+ ))
+                  core.setFailed( sorry(`No hay issues fuera de las historias de usuario, hay " + issues.length + " issues y "
+                  + hus.length + "historias de usuario; los issues son imprescindibles para avanzar el código" ))
                 } else {
                   console.log( all_good(`Hay ${real_issues} issues no-HU`))
                 }
