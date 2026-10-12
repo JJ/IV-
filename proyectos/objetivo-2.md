@@ -24,7 +24,7 @@
 | <!-- Enlace de alozanoa -->         |         |           |
 | <!-- Enlace de KermitLaLacra -->    |         |           |
 | <!-- Enlace de luciamarmiro -->     |         |           |
-| https://github.com/manupa16/PaddleSurfTime/pull/21/changes  |  v0.2.0   |           |
+| https://github.com/manupa16/PaddleSurfTime/pull/21/  |  v0.2.1   |           |
 | <!-- Enlace de suliman-mimon -->    |         |           |
 | <!-- Enlace de angelamoya818 -->    |         |           |
 | <!-- Enlace de Mariomugu -->        |         |           |
