@@ -1,7 +1,7 @@
 # Errores comunes objetivo 2
 
 - Hay que resolver *todos* los comentarios cambiando el código.
-- Cada commit que atiende un comentario referencia su issue (`refs #n`), y se
+- Cada commit que atiende un comentario referencia un solo issue (`refs #n`), *siempre* en la primera línea del mensaje de commit y prefereiblemente en los primeros caracteres y se
   contesta en el hilo con el hash del commit.
 - Si el modelo cambia tras la revisión, hay que actualizar los issues para que
   sigan describiendo lo que hay en el código.
