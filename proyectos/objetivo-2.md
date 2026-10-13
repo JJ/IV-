@@ -10,7 +10,7 @@
 | <!-- Enlace de manucazorla65 -->    |         |           |
 | <!-- Enlace de HipyCas -->          |         |           |
 |  https://github.com/LuisPV05/LuisMecanico/pull/20   |  v0.2.0 |        |
-| <!-- Enlace de marcelodp -->        |         |           |
+| https://github.com/Javiride22/OptimaBuild/pull/15   |  v0.2.0 |           |
 | <!-- Enlace de santiaguiyo -->      |         |           |
 | <!-- Enlace de SufianEmbark -->     |         |           |
 | <!-- Enlace de danifc23 -->         |         |           |
