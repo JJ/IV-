@@ -10,13 +10,11 @@
 
 - El milestone tiene que contener exactamente lo que pide el objetivo, y hay que
   hacer solo y exclusivamente lo que se pide.
-- Este objetivo es solo un modelo del problema. No se añaden tests, linter,
-  workflows de integración continua, ficheros de configuración de herramientas
-  ni cambios en `.gitignore`. Todo eso se hará cuando sea necesario, y en todo
-  caso antes del primer PR evaluable que lo requiera (objetivo 4).
+- Este objetivo es solo un modelo del problema. No se añaden nada que no sea parte del modelo del problema.
 - Que el objetivo diga que se *puede* adaptar el workflow `lint-yaml.yml` no
-  significa que se deba hacer ahora.
-- No se tocan las historias de usuario.
+  significa que se deba hacer antes.
+- No se tocan las historias de usuario a no ser que haga falta (aclaraciones, ambiguedades, etc...).
+  Lo que no puedes hacer directamente es adaptarlas a lo que hay en el codigo.
 - No se escribe un documento de metodología en `docs/` ni se pone como criterio
   de validación del milestone. El análisis está en los issues y en los mensajes
   de commit.
@@ -42,4 +40,6 @@
 
 ## Recomendaciones
 
-- Hacer un diagrama Mermaid y ponerlo para que todo quede mucho mas claro facilita muchísimo la corrección por parte del profesor.
+- Hacer un diagrama Mermaid y ponerlo para que todo quede mucho mas claro facilita
+  muchísimo la corrección por parte del profesor. Pidele a la IA que dado tu codigo
+  te genere un diagrama de Mermaid y manda la foto.
