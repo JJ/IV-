@@ -28,7 +28,7 @@
 | <!-- Enlace de suliman-mimon -->    |         |           |
 | <!-- Enlace de angelamoya818 -->    |         |           |
 | <!-- Enlace de Mariomugu -->        |         |           |
-| <!-- Enlace de manupa16 -->         |         |           |
+| https://github.com/Hugopm04/FoodMatcher/pull/18 | v0.2.1  |           |
 | <!-- Enlace de jpeiperugr -->       |         |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
 | https://github.com/marcocugr/BioVigia/pull/19 | v0.2.0 |           |
