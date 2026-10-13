@@ -33,7 +33,7 @@
 | <!-- Enlace de manuusnchz -->       |         |           |
 | https://github.com/marcocugr/BioVigia/pull/19 | v0.2.0 |           |
 | <!-- Enlace de Hugopm04 -->         |         |           |
-| <!-- Enlace de LuisPV05 -->         |         |           |
+| https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/22 | v0.2.0  |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
 | <!-- Enlace de javiride22 -->       |         |           |
 | <!-- Enlace de jimmy08082005 -->    |         |           |
