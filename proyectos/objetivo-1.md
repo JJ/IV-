@@ -12,7 +12,7 @@
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/5                         | v0.1.2  | ✓         |
 | https://github.com/MarceloDP023/PokeDamage/pull/8                                | v0.1.0  | ✓         |
 | https://github.com/santiaguiyo/CulturaGRX/pull/4                                 | v0.1.2  |           |
-| <!-- Enlace de SufianEmbark -->                                                  |         |           |
+| https://github.com/SufianEmbark/GestionColaReparaciones/pull/5                   | v0.1.1  |           |
 | https://github.com/danifc23/CalidadAireDeporte/pull/4                            | v0.1.1  |           |
 | <!-- Enlace de F F P J -->                                                       |         |           |
 | https://github.com/raulgs24/EasyTurno/pull/6                                     | v0.1.0  | ✓         |
@@ -28,7 +28,7 @@
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/7                   | v0.1.0  | ✓         |
 | https://github.com/suliman-mimon/iv-asistencia/pull/3                            | v0.1.1  |           |
 | https://github.com/angelamoya818/gestion-contenedores/pull/7                     | v0.1.1  | ✓         |
-| <!-- Enlace de Mariomugu -->                                                     |         |           |
+| https://github.com/Mariomugu/Gestion-de-citas/pull/3                             | v0.1.1  |           |
 | <!-- Enlace de M P A -->                                                         |         |           |
 | https://github.com/manupa16/PaddleSurfTime/pull/5                                | v0.1.0  | ✓         |
 | https://github.com/jpeiperugr/Mixamen/pull/6                                     | v0.1.0  | ✓         |

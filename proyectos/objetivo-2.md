@@ -10,12 +10,12 @@
 | <!-- Enlace de manucazorla65 -->    |         |           |
 | <!-- Enlace de HipyCas -->          |         |           |
 |  https://github.com/LuisPV05/LuisMecanico/pull/20   |  v0.2.0 |        |
-| <!-- Enlace de marcelodp -->        |         |           |
+| https://github.com/Javiride22/OptimaBuild/pull/15   |  v0.2.0 |           |
 | <!-- Enlace de santiaguiyo -->      |         |           |
 | <!-- Enlace de SufianEmbark -->     |         |           |
 | <!-- Enlace de danifc23 -->         |         |           |
 | <!-- Enlace de raulgs24 -->         |         |           |
-| <!-- Enlace de jgarmed8 -->         |         |           |
+| https://github.com/aaiterih/analizador-optativas/pull/9 | v0.2.0 | |
 | <!-- Enlace de G K -->              |         |           |
 | <!-- Enlace de Gom01 -->            |         |           |
 | <!-- Enlace de Kevings7 -->         |         |           |
@@ -24,7 +24,7 @@
 | <!-- Enlace de alozanoa -->         |         |           |
 | <!-- Enlace de KermitLaLacra -->    |         |           |
 | <!-- Enlace de luciamarmiro -->     |         |           |
-| <!-- Enlace de claudiaa2112 -->     |         |           |
+| https://github.com/manupa16/PaddleSurfTime/pull/21  |  v0.2.3   |           |
 | <!-- Enlace de suliman-mimon -->    |         |           |
 | <!-- Enlace de angelamoya818 -->    |         |           |
 | <!-- Enlace de Mariomugu -->        |         |           |
@@ -33,10 +33,10 @@
 | <!-- Enlace de manuusnchz -->       |         |           |
 | https://github.com/marcocugr/BioVigia/pull/19 | v0.2.0 |           |
 | <!-- Enlace de Hugopm04 -->         |         |           |
-| <!-- Enlace de LuisPV05 -->         |         |           |
+| https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/22 | v0.2.0  |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
 | <!-- Enlace de javiride22 -->       |         |           |
-| <!-- Enlace de jimmy08082005 -->    |         |           |
+| https://github.com/jimmy08082005/NoSunToday/pull/7        | v0.2.0        |           |
 | <!-- Enlace de martarzgn -->        |         |           |
 | <!-- Enlace de Petaka41 -->         |         |           |
 | <!-- Enlace de jlsanseq -->         |         |           |
