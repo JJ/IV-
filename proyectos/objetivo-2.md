@@ -18,7 +18,7 @@
 | https://github.com/aaiterih/analizador-optativas/pull/9 | v0.2.0 | |
 | <!-- Enlace de G K -->              |         |           |
 | <!-- Enlace de Gom01 -->            |         |           |
-| <!-- Enlace de Kevings7 -->         |         |           |
+| https://github.com/jgarmed8/TurnosSupermercado/pull/13 | v0.2.0 |       |
 | <!-- Enlace de aaiterih -->         |         |           |
 | <!-- Enlace de sergiioolopeez -->   |         |           |
 | <!-- Enlace de alozanoa -->         |         |           |
