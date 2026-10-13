@@ -36,7 +36,7 @@
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/22 | v0.2.0  |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
 | <!-- Enlace de javiride22 -->       |         |           |
-| <!-- Enlace de jimmy08082005 -->    |         |           |
+| https://github.com/jimmy08082005/NoSunToday/pull/7        | v0.2.0        |           |
 | <!-- Enlace de martarzgn -->        |         |           |
 | <!-- Enlace de Petaka41 -->         |         |           |
 | <!-- Enlace de jlsanseq -->         |         |           |
