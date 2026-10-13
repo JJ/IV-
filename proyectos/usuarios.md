@@ -2,12 +2,12 @@
 | <!-- Enlace de Alvarooo4 --> | | |
 | <!-- Enlace de AlejandroAnglada --> | | |
 | <!-- Enlace de marcocugr --> | | |
-| <!-- Enlace de C C J D J --> | | |
+| <!-- Enlace de jjavier2005 --> | | |
 | <!-- Enlace de manucazorla65 --> | | |
 | <!-- Enlace de HipyCas --> | | |
 | <!-- Enlace de alvarodelcampoo --> | | |
 | <!-- Enlace de marcelodp --> | | |
-| <!-- Enlace de D S S --> | | |
+| <!-- Enlace de santiaguiyo --> | | |
 | <!-- Enlace de SufianEmbark --> | | |
 | <!-- Enlace de danifc23 --> | | |
 | <!-- Enlace de raulgs24 --> | | |

@@ -1,0 +1,45 @@
+# Objetivo 2
+
+| URL                                 | Versión | Alcanzado |
+|-------------------------------------|---------|-----------|
+| <!-- Enlace de KAlmendras -->       |         |           |
+| <!-- Enlace de Alvarooo4 -->        |         |           |
+| <!-- Enlace de AlejandroAnglada --> |         |           |
+| https://github.com/manuusnchz/gestor-ciclismo/pull/18 | v0.2.2 |           |
+| <!-- Enlace de jjavier2005 -->      |         |           |
+| <!-- Enlace de manucazorla65 -->    |         |           |
+| <!-- Enlace de HipyCas -->          |         |           |
+|  https://github.com/LuisPV05/LuisMecanico/pull/20   |  v0.2.0 |        |
+| <!-- Enlace de marcelodp -->        |         |           |
+| <!-- Enlace de santiaguiyo -->      |         |           |
+| <!-- Enlace de SufianEmbark -->     |         |           |
+| <!-- Enlace de danifc23 -->         |         |           |
+| <!-- Enlace de raulgs24 -->         |         |           |
+| <!-- Enlace de jgarmed8 -->         |         |           |
+| <!-- Enlace de G K -->              |         |           |
+| <!-- Enlace de Gom01 -->            |         |           |
+| <!-- Enlace de Kevings7 -->         |         |           |
+| <!-- Enlace de aaiterih -->         |         |           |
+| <!-- Enlace de sergiioolopeez -->   |         |           |
+| <!-- Enlace de alozanoa -->         |         |           |
+| <!-- Enlace de KermitLaLacra -->    |         |           |
+| <!-- Enlace de luciamarmiro -->     |         |           |
+| https://github.com/manupa16/PaddleSurfTime/pull/21  |  v0.2.3   |           |
+| <!-- Enlace de suliman-mimon -->    |         |           |
+| <!-- Enlace de angelamoya818 -->    |         |           |
+| <!-- Enlace de Mariomugu -->        |         |           |
+| <!-- Enlace de manupa16 -->         |         |           |
+| <!-- Enlace de jpeiperugr -->       |         |           |
+| <!-- Enlace de manuusnchz -->       |         |           |
+| https://github.com/marcocugr/BioVigia/pull/19 | v0.2.0 |           |
+| <!-- Enlace de Hugopm04 -->         |         |           |
+| https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/22 | v0.2.0  |           |
+| <!-- Enlace de akqp2104 -->         |         |           |
+| <!-- Enlace de javiride22 -->       |         |           |
+| https://github.com/jimmy08082005/NoSunToday/pull/7        | v0.2.0        |           |
+| <!-- Enlace de martarzgn -->        |         |           |
+| <!-- Enlace de Petaka41 -->         |         |           |
+| <!-- Enlace de jlsanseq -->         |         |           |
+| <!-- Enlace de AtlaasSD -->         |         |           |
+| <!-- Enlace de fervazquezi -->      |         |           |
+| <!-- Enlace de diego-vigil-sosa --> |         |           |
