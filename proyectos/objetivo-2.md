@@ -15,7 +15,7 @@
 | <!-- Enlace de SufianEmbark -->     |         |           |
 | <!-- Enlace de danifc23 -->         |         |           |
 | <!-- Enlace de raulgs24 -->         |         |           |
-| <!-- Enlace de jgarmed8 -->         |         |           |
+| https://github.com/aaiterih/analizador-optativas/pull/9 | v0.2.0 | |
 | <!-- Enlace de G K -->              |         |           |
 | <!-- Enlace de Gom01 -->            |         |           |
 | <!-- Enlace de Kevings7 -->         |         |           |
