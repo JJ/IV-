@@ -17,9 +17,6 @@
   significa que se deba hacer antes.
 - No se tocan las historias de usuario a no ser que haga falta (aclaraciones, ambiguedades, etc...).
   Lo que no puedes hacer directamente es adaptarlas a lo que hay en el codigo.
-- No se escribe un documento de metodología en `docs/` ni se pone como criterio
-  de validación del milestone. El análisis está en los issues y en los mensajes
-  de commit.
 - No se toman decisiones implícitas: toda decisión debe poder rastrearse a un
   issue.
 
@@ -28,8 +25,6 @@
 - Sin comentarios en el código. También son código, hay que mantenerlos y
   generan deuda técnica.
 - Un modelo no incluye getters ni setters.
-- Sin lógica de negocio (consultas, cálculos, agregados con operaciones): es del
-  milestone 1.
 - Una clase o tipo con un solo atributo hay que replantearlo muy seriamente:
   ¿qué aporta aparte de cambiar el nombre a un dato? ¿Se resuelve con un
   atributo de otra clase?
