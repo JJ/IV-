@@ -14,13 +14,13 @@
   hacer solo y exclusivamente lo que se pide.
 - Este objetivo es solo un modelo del problema. No se añaden nada que no sea parte del modelo del problema.
 - Que el objetivo diga que se *puede* adaptar el workflow `lint-yaml.yml` no
-  significa que se deba hacer antes.
+  significa que se deba hacer *en el mismo PR*. Se debe hacer *antes*.
 - No se tocan las historias de usuario a no ser que haga falta (aclaraciones, ambiguedades, etc...).
   Lo que no puedes hacer directamente es adaptarlas a lo que hay en el codigo.
 - No se toman decisiones implícitas: toda decisión debe poder rastrearse a un
   issue.
 
-  ## Con respecto al código
+## Con respecto al código
 
 - Sin comentarios en el código. También son código, hay que mantenerlos y
   generan deuda técnica.
