@@ -19,9 +19,8 @@ isa-ok( $fechas, IV::Stats::Fechas, "Clase correcta" );
 my @objetivos-cumplidos = $stats.objetivos-cumplidos();
 if @objetivos-cumplidos[0].elems > 0 {
 
-    my @max-estudiantes = @objetivos-cumplidos.max;
     my $max-objetivo = @objetivos-cumplidos.elems - 1;
-    my $user = @max-estudiantes[0][0];
+    my $user = @objetivos-cumplidos[$max-objetivo][0];
 
     my %una-fecha = $fechas.entregas-de($max-objetivo, $user);
 

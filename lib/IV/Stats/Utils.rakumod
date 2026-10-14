@@ -18,6 +18,7 @@ sub asignaciones-objetivo2()  is export returns Associative {
     my %asignaciones;
     for @asignaciones -> $line {
         my ($programador,$product-manager) = $line.split(/\s* "|" \s*/)[1, 2];
+        next unless $programador && $product-manager;
         %asignaciones{$product-manager} = $programador;
     }
     return %asignaciones;
@@ -28,7 +29,7 @@ enum Estados is export <CUMPLIDO ENVIADO INCOMPLETO NINGUNO>;
 sub estado-objetivos( @student-list, $contenido, $objetivo ) is export {
     my @contenido = $contenido.split("\n").grep(/"|"/)[2..*];
     my %estados;
-    my %asignaciones = asignaciones-objetivo2();
+    state %asignaciones = asignaciones-objetivo2();
     for @contenido -> $linea {
         my $usuario;
         next unless $linea ~~ /github/;
