@@ -31,7 +31,7 @@
 | https://github.com/Hugopm04/FoodMatcher/pull/18 | v0.2.1  |           |
 | <!-- Enlace de jpeiperugr -->       |         |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
-| https://github.com/marcocugr/BioVigia/pull/19 | v0.2.0 |           |
+| https://github.com/marcocugr/BioVigia/pull/19 | v0.2.0 | ✓         |
 | <!-- Enlace de Hugopm04 -->         |         |           |
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/22 | v0.2.0  |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
