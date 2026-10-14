@@ -1,0 +1,32 @@
+#!/usr/bin/env raku
+
+# Check that the per-objective summary used by scripts/iv-stats.raku is
+# consistent: no negative counts, and everything adds up to the student total
+
+# Use fixtures when real production data is not present
+BEGIN {
+    unless "proyectos/usuarios.md".IO.s > 100 {
+        %*ENV<IV_PROYECTOS> = "t/fixtures/proyectos/";
+    }
+}
+
+use Test;
+use IV::Stats;
+
+my $stats = IV::Stats.new;
+my $todos = $stats.estudiantes.elems;
+
+for $stats.objetivos -> $o {
+    subtest {
+        my %resumen = $stats.resumen($o);
+        for <pendientes aceptados sin-entregar> -> $k {
+            cmp-ok( %resumen{$k}, ">=", 0, "$k no es negativo" );
+        }
+        is( %resumen<pendientes> + %resumen<aceptados> + %resumen<sin-entregar>,
+            $todos, "Suma igual al total de estudiantes" );
+        is( %resumen<aceptados>, $stats.cumple-objetivo($o).elems,
+            "Aceptados coincide con los que cumplen" );
+    } => "Resumen objetivo $o";
+}
+
+done-testing;
