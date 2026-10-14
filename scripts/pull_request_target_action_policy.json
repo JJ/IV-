@@ -1,0 +1,25 @@
+{
+  "name": "Allow pull_request_target on source-tests",
+  "enforcement": "active",
+  "conditions": {
+    "workflow_path": {
+      "include": [
+        ".github/workflows/source-tests.yml"
+      ],
+      "exclude": []
+    }
+  },
+  "rules": [
+    {
+      "type": "restrict_action_events",
+      "parameters": {
+        "allowed_events": [
+          "push",
+          "pull_request",
+          "pull_request_target",
+          "workflow_dispatch"
+        ]
+      }
+    }
+  ]
+}

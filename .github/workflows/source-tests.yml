@@ -5,6 +5,8 @@ on:
       - "proyectos/*.md"
 permissions:
   pull-requests: write
+  issues: write
+  contents: read
 jobs:
   ops-on-pr:
     runs-on: ubuntu-latest
