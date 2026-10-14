@@ -67,6 +67,14 @@ method hecha-entrega(UInt $entrega) {
     return @!entregas[$entrega];
 }
 
+method resumen(UInt $objetivo) {
+    # @!entregas only holds those sent but not yet accepted
+    my $aceptados = @!objetivos[$objetivo].elems;
+    my $pendientes = @!entregas[$objetivo].elems;
+    return { :$pendientes, :$aceptados,
+             sin-entregar => @!student-list.elems - $pendientes - $aceptados };
+}
+
 method bajas-objetivos(UInt $objetivo) {
     return @!objetivos[$objetivo] ⊖ @!objetivos[$objetivo + 1];
 }
