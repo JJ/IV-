@@ -3,7 +3,7 @@
 | URL                                 | Versión | Alcanzado |
 |-------------------------------------|---------|-----------|
 | <!-- Enlace de KAlmendras -->       |         |           |
-| <!-- Enlace de Alvarooo4 -->        |         |           |
+| https://github.com/manucazorla65/AeroPlan/pull/13   | v0.2.1        |           |
 | <!-- Enlace de AlejandroAnglada --> |         |           |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/18 | v0.2.2 |           |
 | <!-- Enlace de jjavier2005 -->      |         |           |
