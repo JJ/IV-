@@ -1,7 +1,7 @@
 fatpack: revisores versiones
 
 stats: proyectos/objetivo-*.md
-	raku -Ilib scripts/iv-stats.raku
+	raku -I. scripts/iv-stats.raku
 
 cumplimiento: proyectos/objetivo-*.md
 	scripts/iv-cumplimiento.raku
@@ -10,10 +10,10 @@ objetivos:
 	../IV/scripts/crea-fichero-objetivos.raku ../Equivalencia\ nombre-nick-Telegram\ IV\ 21-22\ -\ Hoja\ 1.csv
 
 bajas:
-	raku -Ilib scripts/iv-bajas.raku
+	raku -I. scripts/iv-bajas.raku
 
 json:
-	raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
+	raku -I. scripts/iv-objetivos.raku > data/objetivos.json
 
 notas:
 	@echo "⚠️Esta orden necesita tener instalado raku y zef y ejecutar a continuación\n\tzef install --deps-only .\npara instalar las dependencias necesarias. Si hay algún error, ejecuta lo anterior ⚠ \n\n"
