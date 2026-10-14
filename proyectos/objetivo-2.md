@@ -30,7 +30,7 @@
 | <!-- Enlace de Mariomugu -->                                    |         |           |
 | https://github.com/Hugopm04/FoodMatcher/pull/18                 | v0.2.1  |           |
 | <!-- Enlace de jpeiperugr -->                                   |         |           |
-| <!-- Enlace de manuusnchz -->                                   |         |           |
+| https://github.com/alvarodelcampoo/ListadoErasmus/pull/21       | v0.2.0  |           |
 | https://github.com/marcocugr/BioVigia/pull/19                   | v0.2.0  | ✓         |
 | <!-- Enlace de Hugopm04 -->                                     |         |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/24            | v0.2.0  |           |
