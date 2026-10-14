@@ -7,7 +7,7 @@
 | <!-- Enlace de AlejandroAnglada --> |         |           |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/18 | v0.2.2 |           |
 | <!-- Enlace de jjavier2005 -->      |         |           |
-| <!-- Enlace de manucazorla65 -->    |         |           |
+|https://github.com/Gom01/IV_Cursos_deportes/pull/15 |   v0.2.0     |           |
 | <!-- Enlace de HipyCas -->          |         |           |
 |  https://github.com/LuisPV05/LuisMecanico/pull/20   |  v0.2.0 |        |
 | https://github.com/Javiride22/OptimaBuild/pull/15   |  v0.2.0 |           |
