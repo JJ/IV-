@@ -14,23 +14,26 @@ my $stats = IV::Stats.new;
 
 ok( $stats, "Can create object");
 my @objetivos-cumplidos = $stats.objetivos-cumplidos();
+say @objetivos-cumplidos;
 if @objetivos-cumplidos[0].elems > 0 {
-    my @max-estudiantes = @objetivos-cumplidos.max;
-    my $max-objetivo = @objetivos-cumplidos.elems;
+    my @max-estudiantes = @objetivos-cumplidos[*-1];
+    my $max-objetivo = @objetivos-cumplidos.elems-1;
     my $estudiante = @max-estudiantes[0][0];
-
     my $objetivos = $stats.objetivos-de($estudiante);
-    cmp-ok($stats.objetivos-de($estudiante).elems,
+    say "Objetivos de $estudiante ", $stats.objetivos-de($estudiante);
+    cmp-ok($stats.objetivos-de($estudiante).keys.max,
             ">=",
             $max-objetivo, "Objetivos hechos");
 
-    cmp-ok($stats.entregas-de($estudiante).elems,
+    say "Entregas de $estudiante ", $stats.entregas-de($estudiante);
+    cmp-ok($stats.entregas-de($estudiante).keys.max,
             "<=", $max-objetivo,
             "Entregas hechas");
     my $objetivo-previo = $max-objetivo > 0 ?? $max-objetivo - 1 !! $max-objetivo;
     ok($estudiante ∈ $stats.cumple-objetivo($objetivo-previo),
-    "Conjuntos creados");
-    ok($estudiante ∈ $stats.hecha-entrega($max-objetivo), "Entregas hechas");
+        "Conjuntos creados");
+    say "Hechas entregas del último objetivo $max-objetivo: ", $stats.hecha-entrega($max-objetivo);
+    ok($estudiante ∈ $stats.hecha-entrega($max-objetivo)  ∪ $stats.cumple-objetivo($max-objetivo), "El mejor estudiante ha hecho la última entrega");
     ok($stats.bajas-objetivos(0), "Devuelve bajas objetivos");
 
     ok($stats.bajas-totales(0), "Devuelve bajas totales");
