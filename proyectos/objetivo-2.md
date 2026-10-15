@@ -26,7 +26,7 @@
 | <!-- Enlace de luciamarmiro -->                                 |         |           |
 | https://github.com/manupa16/PaddleSurfTime/pull/21              | v0.2.3  |           |
 | <!-- Enlace de suliman-mimon -->                                |         |           |
-| https://github.com/AlejandroAnglada/PeriPlanning/pull/13        | v0.2.0  |           |
+| https://github.com/AlejandroAnglada/PeriPlanning/pull/13        | v0.2.1  |           |
 | <!-- Enlace de Mariomugu -->                                    |         |           |
 | https://github.com/Hugopm04/FoodMatcher/pull/18                 | v0.2.1  |           |
 | <!-- Enlace de jpeiperugr -->                                   |         |           |
