@@ -14,7 +14,7 @@
 | <!-- Enlace de santiaguiyo -->                                  |         |           |
 | <!-- Enlace de SufianEmbark -->                                 |         |           |
 | <!-- Enlace de danifc23 -->                                     |         |           |
-| <!-- Enlace de raulgs24 -->                                     |         |           |
+| https://github.com/jpeiperugr/Mixamen/pull/13                   | v0.2.1  |           |
 | https://github.com/aaiterih/analizador-optativas/pull/9         | v0.2.0  |           |
 | <!-- Enlace de G K -->                                          |         |           |
 | <!-- Enlace de Gom01 -->                                        |         |           |
