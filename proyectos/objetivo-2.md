@@ -36,7 +36,7 @@
 | https://github.com/Carlitros20/AutoescuelaAC/pull/24            | v0.2.0  |           |
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/22 | v0.2.0  |           |
 | <!-- Enlace de akqp2104 -->                                     |         |           |
-| <!-- Enlace de javiride22 -->                                   |         |           |
+| https://github.com/raulgs24/EasyTurno/pull/13                   | v0.2.0  |           |
 | https://github.com/jimmy08082005/NoSunToday/pull/7              | v0.2.0  |           |
 | <!-- Enlace de martarzgn -->                                    |         |           |
 | <!-- Enlace de Petaka41 -->                                     |         |           |
