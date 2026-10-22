@@ -32,7 +32,7 @@
 | https://github.com/Kevings7/OptiBalsa/pull/13                   | v0.2.2  |           |
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/21       | v0.2.0  |           |
 | https://github.com/marcocugr/BioVigia/pull/19                   | v0.2.0  | ✓         |
-| https://github.com/Alvarooo4/ApiRed/pull/14                      | v0.2.0  |           |
+| https://github.com/Alvarooo4/ApiRed/pull/14                       | v0.2.1  |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/24            | v0.2.0  |           |
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/22 | v0.2.0  |           |
 | <!-- Enlace de akqp2104 -->                                     |         |           |
