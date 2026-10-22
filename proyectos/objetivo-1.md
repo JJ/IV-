@@ -24,7 +24,7 @@
 | <!-- Enlace de sergiioolopeez -->                                                |         |           |
 | <!-- Enlace de alozanoa -->                                                      |         |           |
 | <!-- Enlace de KermitLaLacra -->                                                 |         |           |
-| [OliveSky](https://github.com/luciamarmiro/OliveSky/pull/2)                      | v0.1.0        | ✓         |
+| [OliveSky](https://github.com/luciamarmiro/OliveSky/pull/2)                      | v0.1.0  |           |
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/7                   | v0.1.0  | ✓         |
 | https://github.com/suliman-mimon/iv-asistencia/pull/3                            | v0.1.1  |           |
 | https://github.com/angelamoya818/gestion-contenedores/pull/7                     | v0.1.1  | ✓         |
@@ -39,7 +39,7 @@
 | <!-- Enlace de akqp2104 -->                                                      |         |           |
 | https://github.com/Javiride22/OptimaBuild/pull/4                                 | v0.1.1  | ✓         |
 | https://github.com/jimmy08082005/NoSunToday/pull/4                               | v0.1.4  | ✓         |
-| https://github.com/martarzgn/IndicadorAlmendras/pull/2                           | v0.1.1  | 
+| https://github.com/martarzgn/IndicadorAlmendras/pull/2                           | v0.1.1  |           |
 | <!-- Enlace de Petaka41 -->                                                      |         |           |
 | https://github.com/jlsanseq/MyTournamentPal/pull/2)                              | v0.1.0  |           |
 | <!-- Enlace de AtlaasSD -->                                                      |         |           |
