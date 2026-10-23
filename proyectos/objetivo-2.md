@@ -17,9 +17,9 @@
 | https://github.com/jpeiperugr/Mixamen/pull/13                   | v0.2.1  |           |
 | https://github.com/aaiterih/analizador-optativas/pull/9         | v0.2.0  |           |
 | <!-- Enlace de G K -->                                          |         |           |
-|https://github.com/angelamoya818/gestion-contenedores/pull/13    | v0.2.1  |           |
+| https://github.com/angelamoya818/gestion-contenedores/pull/13   | v0.2.1  |           |
 | https://github.com/jgarmed8/TurnosSupermercado/pull/13          | v0.2.1  |           |
-| <!-- Enlace de aaiterih -->                                     |         |           |
+| https://github.com/jimmy08082005/NoSunToday/pull/7              | v0.2.0  |           |
 | <!-- Enlace de sergiioolopeez -->                               |         |           |
 | <!-- Enlace de alozanoa -->                                     |         |           |
 | <!-- Enlace de KermitLaLacra -->                                |         |           |
@@ -32,12 +32,11 @@
 | https://github.com/Kevings7/OptiBalsa/pull/13                   | v0.2.2  |           |
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/21       | v0.2.0  |           |
 | https://github.com/marcocugr/BioVigia/pull/19                   | v0.2.0  | ✓         |
-| https://github.com/Alvarooo4/ApiRed/pull/14                       | v0.2.1  |           |
-| https://github.com/Carlitros20/AutoescuelaAC/pull/24            | v0.2.0  |           |
+| https://github.com/Alvarooo4/ApiRed/pull/14                     | v0.2.1  |           |
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/22 | v0.2.0  |           |
 | <!-- Enlace de akqp2104 -->                                     |         |           |
 | https://github.com/raulgs24/EasyTurno/pull/13                   | v0.2.0  |           |
-| https://github.com/jimmy08082005/NoSunToday/pull/7              | v0.2.0  |           |
+| https://github.com/Carlitros20/AutoescuelaAC/pull/24            | v0.2.0  |           |
 | <!-- Enlace de martarzgn -->                                    |         |           |
 | <!-- Enlace de Petaka41 -->                                     |         |           |
 | <!-- Enlace de jlsanseq -->                                     |         |           |
