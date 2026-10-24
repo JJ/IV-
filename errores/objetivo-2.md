@@ -1,5 +1,7 @@
 # Errores comunes objetivo 2
 
+Consultar también [los errores comunes del año anterior](objetivo-2-25-26.md).
+
 - Hay que resolver *todos* los comentarios cambiando el código.
 - Cada commit que atiende un comentario referencia un solo issue (`refs #n`), *siempre* en la primera línea del mensaje de commit y prefereiblemente en los primeros caracteres y se
   contesta en el hilo con el hash del commit.
@@ -20,8 +22,10 @@
 - No se toman decisiones implícitas: toda decisión debe poder rastrearse a un
   issue.
 
-## Con respecto al código
+## Con respecto al código4
 
+- Si no hay ninguna entidad, o no sabes qué es una entidad y qué no, es que hay
+  un error. Los objetos-valor no pueden contener lógica de negocio.
 - Sin comentarios en el código. También son código, hay que mantenerlos y
   generan deuda técnica.
 - Un modelo no incluye getters ni setters.
