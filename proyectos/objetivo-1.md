@@ -39,7 +39,7 @@
 | <!-- Enlace de akqp2104 -->                                                      |         |           |
 | https://github.com/Javiride22/OptimaBuild/pull/4                                 | v0.1.1  | ✓         |
 | https://github.com/jimmy08082005/NoSunToday/pull/4                               | v0.1.4  | ✓         |
-| https://github.com/martarzgn/IndicadorAlmendras/pull/2                           | v0.1.1  |           |
+| https://github.com/martarzgn/IndicadorAlmendras/pull/2                           | v0.1.2  |           |
 | <!-- Enlace de Petaka41 -->                                                      |         |           |
 | https://github.com/jlsanseq/MyTournamentPal/pull/2)                              | v0.1.0  |           |
 | <!-- Enlace de AtlaasSD -->                                                      |         |           |
