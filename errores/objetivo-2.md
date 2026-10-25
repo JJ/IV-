@@ -22,10 +22,12 @@ Consultar también [los errores comunes del año anterior](objetivo-2-25-26.md).
 - No se toman decisiones implícitas: toda decisión debe poder rastrearse a un
   issue.
 
-## Con respecto al código4
+## Con respecto al código
 
 - Si no hay ninguna entidad, o no sabes qué es una entidad y qué no, es que hay
   un error. Los objetos-valor no pueden contener lógica de negocio.
+  - Un objeto valor sin una entidad que lo gestione deja el modelo incompleto.
+    Organizar los objetos valor dentro de entidades es precisamente para eso.
 - Sin comentarios en el código. También son código, hay que mantenerlos y
   generan deuda técnica.
 - Un modelo no incluye getters ni setters.
@@ -34,8 +36,6 @@ Consultar también [los errores comunes del año anterior](objetivo-2-25-26.md).
   atributo de otra clase?
 - Si es inmutable, es un objeto valor. Los objetos valor no llevan identificadores
   (IDs); los IDs en entidades tienen que estar muy bien justificados.
-- Un objeto valor sin una entidad que lo gestione deja el modelo incompleto.
-  Organizar los objetos valor dentro de entidades es precisamente para eso.
 - Todo atributo y todo tipo tiene que estar respaldado por una historia de
   usuario o un issue.
 
