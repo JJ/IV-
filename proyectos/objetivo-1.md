@@ -12,7 +12,7 @@
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/5                         | v0.1.2  | ✓         |
 | https://github.com/MarceloDP023/PokeDamage/pull/8                                | v0.1.0  | ✓         |
 | https://github.com/santiaguiyo/CulturaGRX/pull/4                                 | v0.1.2  | ✓         |
-| https://github.com/SufianEmbark/GestionColaReparaciones/pull/5                   | v0.1.1  |           |
+| https://github.com/SufianEmbark/GestionColaReparaciones/pull/5                   | v0.1.1  | ✓         |
 | https://github.com/danifc23/CalidadAireDeporte/pull/4                            | v0.1.1  |           |
 | <!-- Enlace de F F P J -->                                                       |         |           |
 | https://github.com/raulgs24/EasyTurno/pull/6                                     | v0.1.0  | ✓         |
