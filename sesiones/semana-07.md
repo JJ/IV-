@@ -11,6 +11,7 @@
 ## Antes de la clase
 
 Esta semana (hoy)
+- Superar: objetivo 1 en la convocatoria extraordinaria.
 - Entregar: objetivo 2 en la convocatoria extraordinaria
 
 ## Material de la asignatura
@@ -24,6 +25,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 ## Clase conjunta
 
+* Prioridad: revisión objetivo 1 en convocatoria extraordinaria
 * Revisión del [objetivo 2 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo) y sus conceptos
   más importantes, como trabajar con issues
