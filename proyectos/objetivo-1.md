@@ -6,7 +6,7 @@
 | https://github.com/Alvarooo4/ApiRed/pull/4)                                      | v0.1.2  | ✓         |
 | https://github.com/AlejandroAnglada/PeriPlanning/pull/2                          | v0.1.1  | ✓         |
 | https://github.com/marcocugr/BioVigia/pull/5                                     | v0.1.5  | ✓         |
-| https://github.com/jjavier2005/AlpinismoHoy/pull/3                               | v0.1.0  |           |
+| https://github.com/jjavier2005/AlpinismoHoy/pull/3                               | v0.1.0  | ✓         |
 | https://github.com/manucazorla65/AeroPlan/pull/2                                 | v0.1.0  | ✓         |
 | <!-- Enlace de HipyCas -->                                                       |         |           |
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/5                         | v0.1.2  | ✓         |
