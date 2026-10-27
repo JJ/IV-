@@ -1,6 +1,4 @@
-#!/usr/bin/env perl6
-
-use lib <../lib lib>;
+#!/usr/bin/env raku
 
 use IV::Stats;
 use JSON::Fast;

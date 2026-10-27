@@ -29,7 +29,7 @@ fechas:
 	raku -Ilib scripts/iv-fechas-csv.raku > data/fechas-entrega.csv
 
 asignaciones:
-	raku -Ilib scripts/check-asignaciones.raku
+	raku -I. scripts/check-asignaciones.raku
 
 install:
 	 zef install --deps-only .
