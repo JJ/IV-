@@ -34,8 +34,10 @@ Esta semana (hoy)
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
+  y [errores frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-2.md).
 * [Objetivo 3 del
-  proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
+  proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar) y [errores
+  frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-3.md).
 * [Objetivo 4 del proyecto](https://jj.github.io/IV/documentos/proyecto/4.Tests)
 
 ## Clase conjunta
