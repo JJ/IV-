@@ -30,7 +30,7 @@
 | <!-- Enlace de Mariomugu -->        |         |           |
 | <!-- Enlace de manupa16 -->         |         |           |
 | <!-- Enlace de jpeiperugr -->       |         |           |
-| <!-- Enlace de manuusnchz -->       |         |           |
+| https://github.com/manuusnchz/gestor-ciclismo/pull/25 | v0.3.0 |           |
 | <!-- Enlace de Carlitros20 -->      |         |           |
 | <!-- Enlace de Hugopm04 -->         |         |           |
 | <!-- Enlace de LuisPV05 -->         |         |           |
