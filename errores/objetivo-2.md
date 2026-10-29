@@ -32,9 +32,14 @@ un problema.
   problema. Establece un lenguaje ubicuo, pero conduce a código que ni sirve
   adecuadamente para la lógica de negocio ni establece una única fuente de
   verdad.
-  
 
 ## Con respecto al código
+
+- Los constructores, en general, no son lógica de negocio, luego no son
+  aceptables. ¿Es código que pueda ser aceptable sin tests? Si no lo es, es que
+  es lógica de negocio. Y si es lógica de negocio, no forma parte del milestone.
+  - Adicionalmente, en un 100% de los casos el código generado por IA no sigue
+    las mejores prácticas de Go, así que es mejor no aceptarlo.
 
 - Si no hay ninguna entidad, o no sabes qué es una entidad y qué no, es que hay
   un error. Los objetos-valor no pueden contener lógica de negocio.
