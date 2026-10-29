@@ -27,5 +27,7 @@
 | santiaguiyo      | Mariomugu                |
 | SufianEmbark     | jjavier2005              |
 | jjavier2005      | danifc23                 |
-| martarzgn         | santiaguiyo              |
+| martarzgn        | santiaguiyo              |
+| danifc23         | diego-vigil-sosa         |
+| diego-vigil-sosa | martarzgn                |
 
