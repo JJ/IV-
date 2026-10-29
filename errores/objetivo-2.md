@@ -22,6 +22,18 @@ Consultar también [los errores comunes del año anterior](objetivo-2-25-26.md).
 - No se toman decisiones implícitas: toda decisión debe poder rastrearse a un
   issue.
 
+## Con respecto a los issues
+
+Un issue es un problema, no una enumeración de atributos para una clase que está
+ya determinada. Qué es una clase y qué no tendrá que obtenerse como solución a
+un problema.
+
+- ¿Como se representa x? o Necesito un modelo de y no enuncia ningún
+  problema. Establece un lenguaje ubicuo, pero conduce a código que ni sirve
+  adecuadamente para la lógica de negocio ni establece una única fuente de
+  verdad.
+  
+
 ## Con respecto al código
 
 - Si no hay ninguna entidad, o no sabes qué es una entidad y qué no, es que hay
