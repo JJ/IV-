@@ -28,7 +28,7 @@
 | <!-- Enlace de suliman-mimon -->                      |         |           |
 | <!-- Enlace de angelamoya818 -->                      |         |           |
 | <!-- Enlace de Mariomugu -->                          |         |           |
-| https://github.com/manupa16/PaddleSurfTime/pull/24    | v0.3.0  |           |
+| https://github.com/manupa16/PaddleSurfTime/pull/24    | v0.3.1  |           |
 | <!-- Enlace de jpeiperugr -->                         |         |           |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/25 | v0.3.0  |           |
 | <!-- Enlace de Carlitros20 -->                        |         |           |
