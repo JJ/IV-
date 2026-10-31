@@ -5,7 +5,7 @@ Consultar también [los errores comunes del año anterior](objetivo-2-25-26.md).
 - Hay que resolver *todos* los comentarios cambiando el código.
 - Cada commit que atiende un comentario referencia un solo issue (`refs #n`), *siempre* en la primera línea del mensaje de commit y prefereiblemente en los primeros caracteres y se
   contesta en el hilo con el hash del commit.
-- No puede haber codigo relacvionado conm un issue antiguo, ya que de esta forma se rompe el mapeo de codigo a issue.
+- No puede haber código relacionado conm un issue antiguo, ya que de esta forma se rompe el mapeo de código a issue.
   De esta forma sabemos si:
   1. Se borra totalmente el código del issue antiguo.
   2. Si son solo cambios para evitar alguna ambigüedad. Pero ponerlo así realmente no creo que ayude.
