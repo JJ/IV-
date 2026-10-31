@@ -24,7 +24,7 @@
 | <!-- Enlace de alozanoa -->                           |         |           |
 | <!-- Enlace de KermitLaLacra -->                      |         |           |
 | <!-- Enlace de luciamarmiro -->                       |         |           |
-| <!-- Enlace de claudiaa2112 -->                       |         |           |
+| https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/24 | v0.3.0 |           |
 | <!-- Enlace de suliman-mimon -->                      |         |           |
 | <!-- Enlace de angelamoya818 -->                      |         |           |
 | <!-- Enlace de Mariomugu -->                          |         |           |
