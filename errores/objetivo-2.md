@@ -9,6 +9,11 @@ Consultar también [los errores comunes del año anterior](objetivo-2-25-26.md).
   De esta forma sabemos si:
   1. Se borra totalmente el código del issue antiguo.
   2. Si son solo cambios para evitar alguna ambigüedad. Pero ponerlo así realmente no creo que ayude.
+- El objetivo de incluir una clave `entidad` en el `iv.yaml` es que se
+  reflexiones sobre si hay una entidad en el modelo pero por supuesto que se
+  entienda la diferencia entre entidad y objeto valor. Si no sabes si es una
+  entidad, pregunta en el grupo de Telegram. Una entidad no es solamente un
+  objeto valor que hayas hecho mutable o algo a lo que tú llames entidad.
 
 ## Con respecto al milestone
 
