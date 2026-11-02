@@ -40,7 +40,7 @@ un problema.
 
 ## Con respecto al código
 
-- Los constructores, en general, no son lógica de negocio, luego no son
+- Los constructores, en general, son lógica de negocio, luego no son
   aceptables. ¿Es código que pueda ser aceptable sin tests? Si no lo es, es que
   es lógica de negocio. Y si es lógica de negocio, no forma parte del milestone.
   - Adicionalmente, en un 100% de los casos el código generado por IA no sigue
