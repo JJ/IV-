@@ -9,7 +9,7 @@
 | <!-- Enlace de jjavier2005 -->                        |         |           |
 | <!-- Enlace de manucazorla65 -->                      |         |           |
 | <!-- Enlace de HipyCas -->                            |         |           |
-| <!-- Enlace de alvarodelcampoo -->                    |         |           |
+| https://github.com/alvarodelcampoo/ListadoErasmus/pull/28 | v0.3.1 |
 | <!-- Enlace de marcelodp -->                          |         |           |
 | <!-- Enlace de santiaguiyo -->                        |         |           |
 | <!-- Enlace de SufianEmbark -->                       |         |           |
