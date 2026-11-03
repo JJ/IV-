@@ -27,7 +27,7 @@
 
 Esta semana (hoy)
 - Superar: objetivo 1 en la convocatoria extraordinaria.
-- Entregar: objetivo 2 en la convocatoria extraordinaria
+
 
 ## Material de la asignatura
 

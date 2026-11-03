@@ -1,35 +1,30 @@
-# Semana del x de septiembre
+# Semana del 5 de noviembre
 
 
-## Antes de la clase
+## Entregas esta semana
 
-Habría que haber entregado ya el objetivo 0. En los dos cursos anteriores, el
-90% de los que lo entregaron lo hicieron en dos semanas a partir del
-comienzo. Un 50% de los que aprobaron habían entregado ya el objetivo 1.
+Esta semana (hoy)
+- Entregar: objetivo 2 en la convocatoria extraordinaria.
 
-## Objetivos alcanzados hasta ahora
-
-
-
+La semana que viene:
+- Superar el objetivo 2 en la convocatoria ordinaria.
+- Entregar el objetivo 3 en la convocatoria ordinaria.
 
 ## Material de la asignatura
 
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
-* [Objetivo cero de la
-  asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
-* [Objetivo 1 del
-   proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
+Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
+
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
+  y [errores frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-2.md).
+* [Objetivo 3 del
+  proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar) y [errores
+  frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-3.md).
+* [Objetivo 4 del proyecto](https://jj.github.io/IV/documentos/proyecto/4.Tests)
 
-## Clases separadas (viernes)
+## Hackatón
 
-Última semana de obligatoriedad de asistencia.
-
-## Errores frecuentes
-
-Consulta los [errores frecuentes en el objetivo 0](../errores/objetivo-0.md) y en el [objetivo 1](../errores/objetivo-1.md) para
-tratar de evitarlos.
 
 ## Otras sesiones
 
