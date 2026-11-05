@@ -42,4 +42,4 @@
 | <!-- Enlace de jlsanseq -->                                     |         |           |
 | <!-- Enlace de AtlaasSD -->                                     |         |           |
 | <!-- Enlace de fervazquezi -->                                  |         |           |
-| <!-- Enlace de diego-vigil-sosa -->                             |         |           |
+| https://github.com/martarzgn/IndicadorAlmendras/pull/6          | v0.2.0  |           |
