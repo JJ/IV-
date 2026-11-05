@@ -13,7 +13,7 @@
 | https://github.com/Javiride22/OptimaBuild/pull/15               | v0.2.0  |           |
 | <!-- Enlace de santiaguiyo -->                                  |         |           |
 | <!-- Enlace de SufianEmbark -->                                 |         |           |
-| https://github.com/danifc23/CalidadAireDeporte/pull/6           | v0.2.1  |           |
+| https://github.com/diego-vigil-sosa/ACAA-SICUE/pull/9           | v0.2.2  |           |
 | https://github.com/jpeiperugr/Mixamen/pull/13                   | v0.2.1  |           |
 | https://github.com/aaiterih/analizador-optativas/pull/9         | v0.2.0  |           |
 | <!-- Enlace de G K -->                                          |         |           |
