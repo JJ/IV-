@@ -19,7 +19,7 @@
 | <!-- Enlace de G K -->                                          |         |           |
 | https://github.com/angelamoya818/gestion-contenedores/pull/13   | v0.2.1  |           |
 | https://github.com/jgarmed8/TurnosSupermercado/pull/13          | v0.2.1  |           |
-| https://github.com/jimmy08082005/NoSunToday/pull/7              | v0.2.0  |           |
+| https://github.com/jimmy08082005/NoSunToday/pull/7              | v0.2.0  | ✓         |
 | <!-- Enlace de sergiioolopeez -->                               |         |           |
 | <!-- Enlace de alozanoa -->                                     |         |           |
 | <!-- Enlace de KermitLaLacra -->                                |         |           |
