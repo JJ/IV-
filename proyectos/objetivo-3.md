@@ -29,7 +29,7 @@
 | <!-- Enlace de Mariomugu -->                          |         |           |
 | https://github.com/manupa16/PaddleSurfTime/pull/24    | v0.3.1  | ✓         |
 | <!-- Enlace de jpeiperugr -->                         |         |           |
-| https://github.com/manuusnchz/gestor-ciclismo/pull/25 | v0.3.0  |           |
+| https://github.com/manuusnchz/gestor-ciclismo/pull/25 | v0.3.0  | ✓         |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/38  | v0.3.0  | ✓         |
 | <!-- Enlace de Hugopm04 -->                           |         |           |
 | https://github.com/LuisPV05/LuisMecanico/pull/25      | v0.3.0  |           |
