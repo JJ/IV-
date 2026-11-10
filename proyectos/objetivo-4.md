@@ -31,7 +31,7 @@
 | https://github.com/manupa16/PaddleSurfTime/pull/35 | v0.4.0 |           |
 | <!-- Enlace de jpeiperugr -->       |         |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
-| <!-- Enlace de Carlitros20 -->      |         |           |
+| https://github.com/Carlitros20/AutoescuelaAC/pull/40 | v0.4.0 |           |
 | <!-- Enlace de Hugopm04 -->         |         |           |
 | <!-- Enlace de LuisPV05 -->         |         |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
