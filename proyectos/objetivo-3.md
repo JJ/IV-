@@ -18,7 +18,7 @@
 | <!-- Enlace de G K -->                                |         |           |
 | <!-- Enlace de Gom01 -->                              |         |           |
 | <!-- Enlace de Kevings7 -->                           |         |           |
-| <!-- Enlace de aaiterih -->                           |         |           |
+| https://github.com/aaiterih/analizador-optativas/pull/21 | v0.3.0 |           |
 | <!-- Enlace de sergiioolopeez -->                     |         |           |
 | <!-- Enlace de alozanoa -->                           |         |           |
 | <!-- Enlace de KermitLaLacra -->                      |         |           |
