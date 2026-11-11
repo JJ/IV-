@@ -7,7 +7,7 @@
 | <!-- Enlace de AlejandroAnglada -->                   |         |           |
 | https://github.com/marcocugr/BioVigia/pull/23         | v0.3.1  | ✓         |
 | <!-- Enlace de jjavier2005 -->                        |         |           |
-| <!-- Enlace de manucazorla65 -->                      |         |           |
+| https://github.com/manucazorla65/AeroPlan/pull/25 |    v.0.3.0    |
 | <!-- Enlace de HipyCas -->                            |         |           |
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/28 | v0.3.1 | ✓         | <!-- Enlace de marcelodp -->                          |         |           |
 | <!-- Enlace de santiaguiyo -->                        |         |           |
