@@ -17,7 +17,7 @@
 | https://github.com/jgarmed8/TurnosSupermercado/pull/24 | v0.3.0 |           |
 | <!-- Enlace de G K -->                                |         |           |
 | <!-- Enlace de Gom01 -->                              |         |           |
-| https://github.com/Kevings7/OptiBalsa/pull/15 |  v0.3.0  |           |
+| https://github.com/Kevings7/OptiBalsa/pull/15 |  v0.3.1  |           |
 | https://github.com/aaiterih/analizador-optativas/pull/21 | v0.3.0 |           |
 | <!-- Enlace de sergiioolopeez -->                     |         |           |
 | <!-- Enlace de alozanoa -->                           |         |           |
