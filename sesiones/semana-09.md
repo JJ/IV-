@@ -1,0 +1,58 @@
+# Semana del 12 de noviembre
+
+## Objetivos hasta ahora
+
+```
+ 0 🧮: 19%🚧 68%✅ 12%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌
+ 1 🧮:  9%🚧 63%✅ 26%❌ ⇒ 
+     🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 2 🧮: 34%🚧 29%✅ 36%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 3 🧮:  7%🚧 14%✅ 78%❌ ⇒ 
+     🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 4 🧮:  7%🚧  0%✅ 92%❌ ⇒ 
+     🚧 🚧 🚧
+     
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 5 🧮:  0%🚧  0%✅ 100%❌ ⇒ 
+     
+     
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+
+```
+
+## Entregas esta semana
+
+Esta semana (hoy)
+- Superar: objetivo 2 en la convocatoria ordinaria.
+- Entregar el objetivo 3 en la convocatoria ordinaria.
+
+## Material de la asignatura
+
+Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
+
+Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
+
+* [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
+  y [errores frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-2.md).
+* [Objetivo 3 del
+  proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar) y [errores
+  frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-3.md).
+* [Objetivo 4 del proyecto](https://jj.github.io/IV/documentos/proyecto/4.Tests)
+
+## Hackatón
+
+Tests y lógica de negocio.
+
+## Otras sesiones
+
+[Semana anterior](semana-08.md) y [siguiente](semana-10.md)
