@@ -14,7 +14,7 @@
 | <!-- Enlace de SufianEmbark -->                       |         |           |
 | <!-- Enlace de danifc23 -->                           |         |           |
 | <!-- Enlace de raulgs24 -->                           |         |           |
-| <!-- Enlace de jgarmed8 -->                           |         |           |
+| https://github.com/jgarmed8/TurnosSupermercado/pull/24 | v0.3.0 |           |
 | <!-- Enlace de G K -->                                |         |           |
 | <!-- Enlace de Gom01 -->                              |         |           |
 | <!-- Enlace de Kevings7 -->                           |         |           |
