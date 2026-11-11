@@ -1,3 +1,9 @@
+# Error común a todos los objetivos
+
+Si hay indicios fuertes de uso de IA se puede marcar el objetivo como no
+superado. Si hay indicios de que también se ha usado la IA para revisarlo, se
+puede marcar como no superado para los dos.
+
 # Errores comunes objetivo 2
 
 Consultar también [los errores comunes del año anterior](objetivo-2-25-26.md).
