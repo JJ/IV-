@@ -43,7 +43,9 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
-  y [errores frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-2.md).
+  y [errores
+  frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-2.md). Leer
+  *muy especialmente* el primer párrafo.
 * [Objetivo 3 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar) y [errores
   frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-3.md).
