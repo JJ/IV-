@@ -3,7 +3,7 @@
 | URL                                                             | Versión | Alcanzado |
 |-----------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de KAlmendras -->                                   |         |           |
-| https://github.com/manucazorla65/AeroPlan/pull/13               | v0.2.2  |           |
+| https://github.com/manucazorla65/AeroPlan/pull/13               | v0.2.2  | ✓         |
 | https://github.com/MarceloDP023/PokeDamage/pull/12              | v0.2.0  |           |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/18           | v0.2.2  | ✓         |
 | https://github.com/danifc23/CalidadAireDeporte/pull/6           | v0.2.1  |           |
