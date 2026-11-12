@@ -1,6 +1,5 @@
 # Objetivo 3
 
-
 | URL                                                             | Versión | Alcanzado |
 |-----------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de KAlmendras -->                                   |         |           |
@@ -44,4 +43,3 @@
 | <!-- Enlace de AtlaasSD -->                                     |         |           |
 | <!-- Enlace de fervazquezi -->                                  |         |           |
 | <!-- Enlace de diego-vigil-sosa -->                             |         |           |
-
