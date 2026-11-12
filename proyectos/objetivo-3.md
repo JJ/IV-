@@ -29,7 +29,7 @@
 | <!-- Enlace de angelamoya818 -->                                |         |           |
 | <!-- Enlace de Mariomugu -->                                    |         |           |
 | https://github.com/manupa16/PaddleSurfTime/pull/24              | v0.3.1  | ✓         |
-| <!-- Enlace de jpeiperugr -->                                   |         |           |
+| https://github.com/jpeiperugr/Mixamen/pull/23                   | v0.3.0  |           |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/25           | v0.3.0  | ✓         |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/38            | v0.3.0  | ✓         |
 | https://github.com/Hugopm04/FoodMatcher/pull/43                 | v0.3.0  |           |
