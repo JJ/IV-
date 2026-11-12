@@ -10,7 +10,7 @@
 | https://github.com/manucazorla65/AeroPlan/pull/25               | v0.3.1  |           |
 | <!-- Enlace de HipyCas -->                                      |         |           |
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/28       | v0.3.1  | ✓         |
-| <!-- Enlace de marcelodp -->                                    |         |           |
+| https://github.com/MarceloDP023/PokeDamage/pull/24              | v0.3.0  |            |
 | <!-- Enlace de santiaguiyo -->                                  |         |           |
 | <!-- Enlace de SufianEmbark -->                                 |         |           |
 | <!-- Enlace de danifc23 -->                                     |         |           |
