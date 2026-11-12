@@ -3,7 +3,7 @@
 | URL                                                   | Versión | Alcanzado |
 |-------------------------------------------------------|---------|-----------|
 | <!-- Enlace de KAlmendras -->                         |         |           |
-| <!-- Enlace de Alvarooo4 -->                          |         |           |
+|https://github.com/Alvarooo4/ApiRed/pull/54            | v0.3.1  |           |
 | <!-- Enlace de AlejandroAnglada -->                   |         |           |
 | https://github.com/marcocugr/BioVigia/pull/23         | v0.3.1  | ✓         |
 | <!-- Enlace de jjavier2005 -->                        |         |           |
