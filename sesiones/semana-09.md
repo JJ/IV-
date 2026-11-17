@@ -40,8 +40,6 @@ Esta semana (hoy)
 
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
-Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
-
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
   y [errores
   frecuentes](https://github.com/JJ/IV-/blob/master/errores/objetivo-2.md). Leer
