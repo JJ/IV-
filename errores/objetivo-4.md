@@ -12,3 +12,7 @@ En todo caso, usar IA indiscriminadamente no es nunca una buena idea y acaba
 siendo más problema que solución, porque rara vez el código generado sigue las
 buenas prácticas y aunque las siga, no se habrá aprendido nada si se ha hecho
 integralmente con IA.
+
+## Errores en el código
+
+- Parece bastante obvio, pero hay que programar la lógica de negocio.
