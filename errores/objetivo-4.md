@@ -12,6 +12,10 @@ En todo caso, usar IA indiscriminadamente no es nunca una buena idea y acaba
 siendo más problema que solución, porque rara vez el código generado sigue las
 buenas prácticas y aunque las siga, no se habrá aprendido nada si se ha hecho
 integralmente con IA.
+## Sobre las bibliotecas de test
+
+- El coste de instalación es indistinguible dentro de todo lo que se va a
+  instalar más adelante.
 
 ## Errores en el código
 
