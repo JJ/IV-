@@ -14,6 +14,9 @@ buenas prácticas y aunque las siga, no se habrá aprendido nada si se ha hecho
 integralmente con IA.
 ## Sobre las bibliotecas de test
 
+- Igual que en el [objetivo 3](objetivo-3.md), no uséis criterios arbitrarios o
+  irrelevantes. Por ejemplo, ¿número de dependencias os parece que es objetivo
+  (e inmutable independientemente de la versión? 
 - El coste de instalación es indistinguible dentro de todo lo que se va a
   instalar más adelante.
 
