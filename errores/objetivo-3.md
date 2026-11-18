@@ -20,3 +20,9 @@ evaluación. Y más si está generada por IA.
 
 - Tratad de evitar criterios arbitrarios, como que use no sé qué fichero o no sé
   qué formato. Usad solo criterios objetivos, relevantes y medibles.
+
+- Se trata de que se investigue un poco y se busquen diferentes alternativas,
+  algunas de las cuales pueden ser emergentes o estar ahora mismo en desarrollo.
+  Si se pone `make`, `mage`, `just` y `task` en el caso de go va a ser imposible
+  saber si lo ha hecho uno, si se ha copiado de una IA o de un compañero. Por
+  favor, no caer en la tentación de limitarse a ese cuarteto.
