@@ -16,7 +16,7 @@ integralmente con IA.
 
 - Igual que en el [objetivo 3](objetivo-3.md), no uséis criterios arbitrarios o
   irrelevantes. Por ejemplo, ¿número de dependencias os parece que es objetivo
-  (e inmutable independientemente de la versión? 
+  (e inmutable independientemente de la versión?
 - El coste de instalación es indistinguible dentro de todo lo que se va a
   instalar más adelante.
 
