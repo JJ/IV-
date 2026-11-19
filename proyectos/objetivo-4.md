@@ -32,7 +32,7 @@
 | <!-- Enlace de jpeiperugr -->       |         |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/40 | v0.4.0 |           |
-| <!-- Enlace de Hugopm04 -->         |         |           |
+| https://github.com/Hugopm04/FoodMatcher/pull/61 <!-- Enlace de Hugopm04 --> | v0.4.0  |           |
 | <!-- Enlace de LuisPV05 -->         |         |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
 | <!-- Enlace de javiride22 -->       |         |           |
