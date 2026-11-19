@@ -26,3 +26,7 @@ evaluación. Y más si está generada por IA.
   Si se pone `make`, `mage`, `just` y `task` en el caso de go va a ser imposible
   saber si lo ha hecho uno, si se ha copiado de una IA o de un compañero. Por
   favor, no caer en la tentación de limitarse a ese cuarteto.
+
+- Normalmente vuestro proyecto se testeará y ejecutará en Linux. Hacer las
+  mediciones en Windows no va a dar medidas significativas, ni es el entorno
+  ideal para medir.
