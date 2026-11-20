@@ -30,7 +30,7 @@
 | <!-- Enlace de Mariomugu -->        |         |           |
 | https://github.com/manupa16/PaddleSurfTime/pull/35 | v0.4.0 |           |
 | <!-- Enlace de jpeiperugr -->       |         |           |
-| <!-- Enlace de manuusnchz -->       |         |           |
+| https://github.com/manuusnchz/gestor-ciclismo/pull/29 | v0.0.0 |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/40 | v0.4.0 |           |
 | https://github.com/Hugopm04/FoodMatcher/pull/61 <!-- Enlace de Hugopm04 --> | v0.4.0  |           |
 | <!-- Enlace de LuisPV05 -->         |         |           |
