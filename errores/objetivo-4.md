@@ -12,6 +12,7 @@ En todo caso, usar IA indiscriminadamente no es nunca una buena idea y acaba
 siendo más problema que solución, porque rara vez el código generado sigue las
 buenas prácticas y aunque las siga, no se habrá aprendido nada si se ha hecho
 integralmente con IA.
+
 ## Sobre las bibliotecas de test
 
 - Igual que en el [objetivo 3](objetivo-3.md), no uséis criterios arbitrarios o
@@ -22,4 +23,6 @@ integralmente con IA.
 
 ## Errores en el código
 
+- **No se puede usar ninguna biblioteca externa**. Esto tendría que haber
+  quedado claro desde el objetivo 0.
 - Parece bastante obvio, pero hay que programar la lógica de negocio.
