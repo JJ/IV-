@@ -5,7 +5,7 @@
 | <!-- Enlace de KAlmendras -->       |         |           |
 | <!-- Enlace de Alvarooo4 -->        |         |           |
 | <!-- Enlace de AlejandroAnglada --> |         |           |
-| <!-- Enlace de marcocugr -->        |         |           |
+| https://github.com/marcocugr/BioVigia/pull/79 | v0.5.0 |           |
 | <!-- Enlace de jjavier2005 -->      |         |           |
 | <!-- Enlace de manucazorla65 -->    |         |           |
 | <!-- Enlace de HipyCas -->          |         |           |
