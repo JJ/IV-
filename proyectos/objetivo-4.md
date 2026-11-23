@@ -36,7 +36,7 @@
 | <!-- Enlace de LuisPV05 -->         |         |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
 | <!-- Enlace de javiride22 -->       |         |           |
-| <!-- Enlace de jimmy08082005 -->    |         |           |
+| https://github.com/jimmy08082005/NoSunToday/pull/31    | v0.4.0 |           |
 | <!-- Enlace de martarzgn -->        |         |           |
 | <!-- Enlace de Petaka41 -->         |         |           |
 | <!-- Enlace de jlsanseq -->         |         |           |
