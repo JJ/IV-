@@ -32,4 +32,4 @@ evaluación. Y más si está generada por IA.
   ideal para medir.
 
 - Si medís la velocidad de instalación, indagad un poco y buscad la más rápida
-  posible, no la primera que aparezca...
+  posible, no la primera que aparezca.
