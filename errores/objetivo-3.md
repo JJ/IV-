@@ -30,3 +30,6 @@ evaluación. Y más si está generada por IA.
 - Normalmente vuestro proyecto se testeará y ejecutará en Linux. Hacer las
   mediciones en Windows no va a dar medidas significativas, ni es el entorno
   ideal para medir.
+
+- Si medís la velocidad de instalación, indagad un poco y buscad la más rápida
+  posible, no la primera que aparezca...
