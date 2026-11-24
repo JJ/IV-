@@ -33,7 +33,7 @@
 | https://github.com/manuusnchz/gestor-ciclismo/pull/29 | v0.4.2 |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/40 | v0.4.0 |           |
 | https://github.com/Hugopm04/FoodMatcher/pull/61 <!-- Enlace de Hugopm04 --> | v0.4.0  |           |
-| <!-- Enlace de LuisPV05 -->         |         |           |
+| https://github.com/LuisPV05/LuisMecanico/pull/39       | v0.4.0 |           |
 | <!-- Enlace de akqp2104 -->         |         |           |
 | <!-- Enlace de javiride22 -->       |         |           |
 | https://github.com/jimmy08082005/NoSunToday/pull/31    | v0.4.0 |           |
