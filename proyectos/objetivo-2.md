@@ -7,7 +7,7 @@
 | https://github.com/MarceloDP023/PokeDamage/pull/12              | v0.2.0  |           |
 | https://github.com/manuusnchz/gestor-ciclismo/pull/18           | v0.2.2  | ✓         |
 | https://github.com/danifc23/CalidadAireDeporte/pull/6           | v0.2.1  |           |
-| https://github.com/Gom01/IV_Cursos_deportes/pull/15             | v0.2.0  |           |
+| https://github.com/Gom01/IV_Cursos_deportes/pull/15             | v0.2.0  | ✓         |
 | <!-- Enlace de HipyCas -->                                      |         |           |
 | https://github.com/LuisPV05/LuisMecanico/pull/20                | v0.2.0  | ✓         |
 | https://github.com/Javiride22/OptimaBuild/pull/15               | v0.2.0  | ✓         |
@@ -29,7 +29,7 @@
 | https://github.com/AlejandroAnglada/PeriPlanning/pull/13        | v0.2.1  |           |
 | https://github.com/SufianEmbark/GestionColaReparaciones/pull/8  | v0.2.0  |           |
 | https://github.com/Hugopm04/FoodMatcher/pull/18                 | v0.2.1  | ✓         |
-| https://github.com/Kevings7/OptiBalsa/pull/13                   | v0.2.2  |  ✓        |
+| https://github.com/Kevings7/OptiBalsa/pull/13                   | v0.2.2  | ✓         |
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/21       | v0.2.0  | ✓         |
 | https://github.com/marcocugr/BioVigia/pull/19                   | v0.2.0  | ✓         |
 | https://github.com/Alvarooo4/ApiRed/pull/14                     | v0.2.1  | ✓         |
