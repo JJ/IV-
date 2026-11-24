@@ -23,6 +23,13 @@ integralmente con IA.
 
 ## Errores en el código
 
+- En muchos casos, o bien porque os lo he dicho yo, o porque se ha aprobado por
+  el trabajo realizado por la otra persona, o porque simplemente no se han
+  tenido en cuenta los problemas a la hora de crear el modelo, tendrás que
+  trabajar sobre el modelo, cambiándolo. Tendrás que tener en cuenta todo lo que
+  se dijo en el objetivo 2 sobre las entidades y las fuentes de verdad: si no
+  hay una única fuente de verdad que tendrá que estar gestionada por una
+  entidad, no puedes de ninguna manera aplicarle la lógica de negocio.
 - **No se puede usar ninguna biblioteca externa**. Esto tendría que haber
   quedado claro desde el objetivo 0.
 - Parece bastante obvio, pero hay que programar la lógica de negocio.
