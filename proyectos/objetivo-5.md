@@ -28,7 +28,7 @@
 | <!-- Enlace de suliman-mimon -->    |         |           |
 | <!-- Enlace de angelamoya818 -->    |         |           |
 | <!-- Enlace de Mariomugu -->        |         |           |
-| <!-- Enlace de manupa16 -->         |         |           |
+| https://github.com/manupa16/PaddleSurfTime/pull/47 | v0.5.1 |           |
 | <!-- Enlace de jpeiperugr -->       |         |           |
 | <!-- Enlace de manuusnchz -->       |         |           |
 | <!-- Enlace de Carlitros20 -->      |         |           |
