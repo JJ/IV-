@@ -33,3 +33,9 @@ evaluación. Y más si está generada por IA.
 
 - Si medís la velocidad de instalación, indagad un poco y buscad la más rápida
   posible, no la primera que aparezca.
+
+- Las herramientas de desarrollo tienen que instalarse todas en el espacio del
+  usuario. Es un error usarlas e instalarlas desde root.
+
+- En todo caso, no se debe usar un shell de root *nunca*. Para eso esá `sudo`
+  que es más seguro al caducar el login al cabo de cierto tiempo.
