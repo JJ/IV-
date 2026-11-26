@@ -10,7 +10,7 @@
 | <!-- Enlace de manucazorla65 -->    |         |           |
 | <!-- Enlace de HipyCas -->          |         |           |
 | https://github.com/alvarodelcampoo/ListadoErasmus/pull/30  | v0.4.0 |           |
-| https://github.com/MarceloDP023/PokeDamage/pull/24        | v0.4.0  |           |
+| https://github.com/MarceloDP023/PokeDamage/pull/30        | v0.4.0  |           |
 | <!-- Enlace de santiaguiyo -->      |         |           |
 | <!-- Enlace de SufianEmbark -->     |         |           |
 | <!-- Enlace de danifc23 -->         |         |           |
