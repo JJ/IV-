@@ -35,7 +35,7 @@
 | https://github.com/Alvarooo4/ApiRed/pull/14                     | v0.2.1  | ✓         |
 | https://github.com/claudiaa2112/EleccionMasterAndalucia/pull/22 | v0.2.0  | ✓         |
 | <!-- Enlace de akqp2104 -->                                     |         |           |
-| https://github.com/raulgs24/EasyTurno/pull/13                   | v0.2.0  |           |
+| https://github.com/raulgs24/EasyTurno/pull/13                   | v0.2.0  | ✓         |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/24            | v0.2.0  | ✓         |
 | https://github.com/santiaguiyo/CulturaGRX/pull/6                | v0.2.0  |           |
 | <!-- Enlace de Petaka41 -->                                     |         |           |
