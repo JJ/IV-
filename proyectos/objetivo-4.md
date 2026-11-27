@@ -14,7 +14,7 @@
 | <!-- Enlace de santiaguiyo -->      |         |           |
 | <!-- Enlace de SufianEmbark -->     |         |           |
 | <!-- Enlace de danifc23 -->         |         |           |
-| <!-- Enlace de raulgs24 -->         |         |           |
+| https://github.com/raulgs24/EasyTurno/pull/32 | v0.4.1    |           |
 | https://github.com/jgarmed8/TurnosSupermercado/pull/31 | v0.4.0 | |
 | <!-- Enlace de G K -->              |         |           |
 | <!-- Enlace de Gom01 -->            |         |           |
